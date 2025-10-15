@@ -1,21 +1,17 @@
 import React from "react";
-// Optional: remove if you don't have theme support
-// import { useTheme } from "../context/ThemeContext";
+import { Link } from "react-router-dom";
+import { Star } from "lucide-react"; // Example icon, replace/add as needed
 
 const CategoriesSection = () => {
-  // If you don't have a theme provider, just hardcode dark/light mode:
-  // const isDark = false;
-  // Otherwise, uncomment the line below if you use a useTheme() hook:
-  // const { theme } = useTheme();
   const isDark = false;
 
   const categories = [
-    { name: "Electronics", icon: "⚡", count: "2.4k", color: "from-blue-500 to-cyan-500" },
-    { name: "Home & Living", icon: "🏠", count: "1.8k", color: "from-purple-500 to-pink-500" },
-    { name: "Fashion", icon: "👔", count: "3.2k", color: "from-orange-500 to-red-500" },
-    { name: "Tech Gadgets", icon: "🎮", count: "2.1k", color: "from-green-500 to-emerald-500" },
-    { name: "Fitness", icon: "💪", count: "1.5k", color: "from-yellow-500 to-orange-500" },
-    { name: "Beauty", icon: "💄", count: "1.9k", color: "from-pink-500 to-rose-500" },
+    { name: "Electronics", icon: "⚡", count: "2.4k", color: "from-blue-500 to-cyan-500", link: "/products/electronics" },
+    { name: "Home & Living", icon: "🏠", count: "1.8k", color: "from-purple-500 to-pink-500", link: "/products/home-living" },
+    { name: "Fashion", icon: "👔", count: "3.2k", color: "from-orange-500 to-red-500", link: "/products/fashion" },
+    { name: "Tech Gadgets", icon: "🎮", count: "2.1k", color: "from-green-500 to-emerald-500", link: "/products/tech-gadgets" },
+    { name: "Fitness", icon: "💪", count: "1.5k", color: "from-yellow-500 to-orange-500", link: "/products/fitness" },
+    { name: "Beauty", icon: "💄", count: "1.9k", color: "from-pink-500 to-rose-500", link: "/products/beauty" },
   ];
 
   return (
@@ -23,11 +19,7 @@ const CategoriesSection = () => {
       <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
         {/* Section Header */}
         <div className="text-center mb-12">
-          <h3
-            className={`text-3xl font-bold mb-4 ${
-              isDark ? "text-white" : "text-gray-900"
-            }`}
-          >
+          <h3 className={`text-3xl font-bold mb-4 ${isDark ? "text-white" : "text-gray-900"}`}>
             Browse by Category
           </h3>
           <p className={`${isDark ? "text-gray-400" : "text-gray-600"}`}>
@@ -38,17 +30,21 @@ const CategoriesSection = () => {
         {/* Categories Grid */}
         <div className="grid grid-cols-2 md:grid-cols-3 lg:grid-cols-6 gap-6">
           {categories.map((cat, idx) => (
-            <div key={idx} className="group cursor-pointer">
+            <Link
+              key={idx}
+              to={cat.link}
+              className="group cursor-pointer transition-transform transform hover:scale-105"
+            >
               <div
-                className={`bg-gradient-to-br ${cat.color} p-6 rounded-2xl shadow-lg hover:shadow-2xl transition transform hover:scale-110 duration-300`}
+                className={`bg-gradient-to-br ${cat.color} p-6 rounded-2xl shadow-lg hover:shadow-2xl flex flex-col items-center justify-center`}
               >
-                <div className="text-center">
-                  <div className="text-4xl mb-3">{cat.icon}</div>
-                  <h4 className="text-white font-semibold mb-1">{cat.name}</h4>
-                  <p className="text-white/80 text-sm">{cat.count} items</p>
-                </div>
+                <div className="text-4xl mb-3">{cat.icon}</div>
+                <h4 className="text-white font-semibold mb-1">{cat.name}</h4>
+                <p className="text-white/80 text-sm flex items-center gap-1">
+                  {cat.count} items <Star className="w-4 h-4 fill-yellow-400 text-yellow-400" />
+                </p>
               </div>
-            </div>
+            </Link>
           ))}
         </div>
       </div>

@@ -12,55 +12,46 @@ const TrustSection = () => {
   ];
 
   return (
-    <section id="about" className={`py-16 ${isDark ? "bg-gray-900" : "bg-white"}`}>
+    <section className={`py-20 ${isDark ? "bg-gray-900" : "bg-gray-50"}`}>
       <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
         {/* Section Header */}
-        <div className="text-center mb-12">
-          <h3 className={`text-4xl font-bold ${isDark ? "text-white" : "text-gray-900"} mb-4`}>
+        <div className="text-center mb-16">
+          <h3 className={`text-4xl font-bold mb-4 ${isDark ? "text-white" : "text-gray-900"}`}>
             Why Trust My
             <span className="block bg-gradient-to-r from-blue-600 to-purple-600 bg-clip-text text-transparent">
               Recommendations?
             </span>
           </h3>
           <p className={`${isDark ? "text-gray-400" : "text-gray-600"} text-lg max-w-3xl mx-auto`}>
-            I personally test every product before recommending it. My goal is to help you find quality products that truly make a difference in your daily life.
+            I test every product before recommending it. My goal is to help you find high-quality products that truly make your life easier and enjoyable.
           </p>
         </div>
 
-        {/* Main Content */}
-        <div className="grid md:grid-cols-2 gap-12 items-center">
-          {/* Text & Stats */}
-          <div className="space-y-8">
-            <p className={`${isDark ? "text-gray-300" : "text-gray-700"} leading-relaxed`}>
-              As an Amazon affiliate, I earn from qualifying purchases, but I only recommend products I genuinely believe in. Your trust is more important to me than any commission.
-            </p>
-            <div className="grid grid-cols-2 gap-6">
-              {trustStats.map((stat, idx) => (
-                <div
-                  key={idx}
-                  className={`${
-                    isDark ? "bg-gray-800" : "bg-gradient-to-br from-blue-50 to-purple-50"
-                  } rounded-2xl p-6 text-center hover:shadow-lg transition`}
-                >
-                  <stat.icon className={`w-10 h-10 ${stat.color} mx-auto mb-3`} />
-                  <div className={`text-3xl font-bold ${isDark ? "text-white" : "text-gray-900"} mb-1`}>
-                    {stat.value}
-                  </div>
-                  <div className={`text-sm ${isDark ? "text-gray-400" : "text-gray-600"}`}>{stat.label}</div>
-                </div>
-              ))}
+        {/* Stats Grid */}
+        <div className="grid grid-cols-1 sm:grid-cols-2 md:grid-cols-4 gap-8">
+          {trustStats.map((stat, idx) => (
+            <div
+              key={idx}
+              className={`group bg-white dark:bg-gray-800 rounded-3xl p-8 text-center shadow-lg hover:shadow-2xl transition transform hover:scale-105`}
+            >
+              <stat.icon className={`w-12 h-12 mx-auto mb-4 ${stat.color} group-hover:animate-bounce`} />
+              <h4 className={`text-3xl font-bold mb-2 ${isDark ? "text-white" : "text-gray-900"}`}>{stat.value}</h4>
+              <p className={`text-sm ${isDark ? "text-gray-400" : "text-gray-600"}`}>{stat.label}</p>
             </div>
-          </div>
+          ))}
+        </div>
 
-          {/* Image */}
-          <div className="relative">
-            <div className="absolute inset-0 bg-gradient-to-br from-purple-400 to-pink-600 rounded-3xl transform -rotate-3"></div>
-            <img
-              src="https://images.unsplash.com/photo-1507003211169-0a1dd7228f2d?w=500&h=600&fit=crop"
-              alt="About Me"
-              className="relative rounded-3xl shadow-2xl transform hover:rotate-0 transition duration-500"
-            />
-          </div>
+        {/* Call-to-action */}
+        <div className="mt-16 text-center">
+          <p className={`${isDark ? "text-gray-300" : "text-gray-700"} mb-6 text-lg`}>
+            Ready to shop smarter? Check out my top recommended products and save time!
+          </p>
+          <a
+            href="/products"
+            className="inline-block bg-gradient-to-r from-green-500 to-blue-500 text-white px-8 py-4 rounded-full font-semibold text-lg shadow-lg hover:scale-105 transition transform"
+          >
+            Explore Products
+          </a>
         </div>
       </div>
     </section>

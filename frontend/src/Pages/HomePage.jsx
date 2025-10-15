@@ -8,7 +8,7 @@ import CTASection from '../components/CTASection'
 
 const HomePage = () => {
   return (
-    <div>
+    <div className='mt-20'>
         <HeroSection/>
         <CategoriesSection/>
         <TrustSection/>

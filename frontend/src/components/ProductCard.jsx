@@ -2,15 +2,19 @@ import React from "react";
 import { Heart, Star, ShoppingCart } from "lucide-react";
 
 const ProductCard = ({ product, favorites, toggleFavorite }) => {
-  const isDark = false; // set true if you want dark mode
+  const isDark = false;
+
+  const discountedPrice = product.discount
+    ? (product.price * (100 - product.discount)) / 100
+    : product.price;
+
+  const isFavorited = favorites.has(product.id);
 
   return (
     <div
-      className={`group ${
-        isDark ? "bg-gray-800" : "bg-white"
-      } rounded-3xl shadow-lg hover:shadow-2xl transition duration-300 overflow-hidden`}
+      className={`group ${isDark ? "bg-gray-800" : "bg-white"} rounded-3xl shadow-lg hover:shadow-2xl transition duration-300 overflow-hidden cursor-pointer`}
     >
-      {/* Image Section */}
+      {/* Image */}
       <div className="relative overflow-hidden">
         <img
           src={product.image}
@@ -27,38 +31,35 @@ const ProductCard = ({ product, favorites, toggleFavorite }) => {
           </div>
         )}
 
-        {/* Discount Tag */}
+        {/* Discount */}
         {product.discount && (
-          <div className="absolute top-4 right-4 bg-red-500 text-white w-14 h-14 rounded-full flex items-center justify-center font-bold shadow-lg">
+          <div className="absolute top-4 right-4 bg-red-500 text-white w-14 h-14 rounded-full flex items-center justify-center font-bold shadow-lg text-sm">
             -{product.discount}%
           </div>
         )}
 
-        {/* Favorite Button */}
+        {/* Favorite Heart */}
         <button
-          onClick={() => toggleFavorite(product.id)}
-          className="absolute bottom-4 right-4 bg-white w-12 h-12 rounded-full flex items-center justify-center shadow-lg hover:scale-110 transition"
+          onClick={(e) => {
+            e.stopPropagation(); // Prevent click from navigating
+            toggleFavorite(product.id);
+          }}
+          className={`absolute bottom-4 right-4 w-12 h-12 rounded-full flex items-center justify-center shadow-lg transition-transform duration-300 ${
+            isFavorited ? "animate-ping" : ""
+          }`}
         >
           <Heart
-            className={`w-6 h-6 ${
-              favorites.has(product.id)
-                ? "fill-red-500 text-red-500"
-                : "text-gray-400"
+            className={`w-6 h-6 transition-transform duration-300 ${
+              isFavorited ? "fill-red-500 text-red-500 scale-125" : "text-gray-400"
             }`}
           />
         </button>
       </div>
 
-      {/* Product Details */}
+      {/* Details */}
       <div className="p-6">
-        <div className="text-sm text-purple-600 font-medium mb-2">
-          {product.category}
-        </div>
-        <h4
-          className={`text-lg font-bold ${
-            isDark ? "text-white" : "text-gray-900"
-          } mb-3 line-clamp-2 group-hover:text-purple-600 transition`}
-        >
+        <div className="text-sm text-purple-600 font-medium mb-2">{product.category}</div>
+        <h4 className={`text-lg font-bold ${isDark ? "text-white" : "text-gray-900"} mb-3 line-clamp-2 group-hover:text-purple-600 transition`}>
           {product.name}
         </h4>
 
@@ -68,25 +69,26 @@ const ProductCard = ({ product, favorites, toggleFavorite }) => {
             {[...Array(5)].map((_, i) => (
               <Star
                 key={i}
-                className={`w-4 h-4 ${
-                  i < Math.floor(product.rating)
-                    ? "fill-yellow-400 text-yellow-400"
-                    : "text-gray-300"
-                }`}
+                className={`w-4 h-4 ${i < Math.floor(product.rating) ? "fill-yellow-400 text-yellow-400" : "text-gray-300"}`}
               />
             ))}
           </div>
-          <span
-            className={`text-sm ${isDark ? "text-gray-400" : "text-gray-600"}`}
-          >
+          <span className={`text-sm ${isDark ? "text-gray-400" : "text-gray-600"}`}>
             {product.rating} ({product.reviews})
           </span>
         </div>
 
-        {/* Price + Add to Cart */}
+        {/* Price */}
         <div className="flex items-center justify-between">
-          <div className="text-3xl font-bold bg-gradient-to-r from-blue-600 to-purple-600 bg-clip-text text-transparent">
-            ${product.price}
+          <div className="flex flex-col">
+            {product.discount && (
+              <span className="text-gray-400 line-through text-sm">
+                &#8377; {product.price.toFixed(2)}
+              </span>
+            )}
+            <span className="text-3xl font-bold bg-gradient-to-r from-blue-600 to-purple-600 bg-clip-text text-transparent">
+              &#8377; {discountedPrice.toFixed(2)}
+            </span>
           </div>
           <button className="bg-gradient-to-r from-blue-600 to-purple-600 text-white p-3 rounded-full hover:shadow-lg transition transform hover:scale-110">
             <ShoppingCart className="w-5 h-5" />
