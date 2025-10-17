@@ -17,35 +17,30 @@ const Navbar = () => {
 
   return (
     <Nav className={`${scrolled ? "scrolled" : ""}`}>
-      <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-16 flex justify-between items-center h-20">
+      <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-16 flex justify-between items-center h-20 font-[Poppins]">
         {/* Logo */}
         <Link
           to="/"
-          className={`text-2xl font-bold transition ${
-            scrolled ? "text-gray-900" : "text-black"
-          }`}
+          className={`text-2xl font-extrabold transition bg-clip-text text-transparent bg-gradient-to-r from-green-500 via-blue-500 to-purple-500`}
         >
-          MyBrand
+         RJN_SHOPS
         </Link>
 
         {/* Desktop Links */}
-        <div className="hidden md:flex items-center gap-8 font-medium">
+        <div className="hidden md:flex items-center gap-8 font-medium text-lg">
           {navItems.map((item) => (
             <Link
               key={item}
               to={getLink(item)}
-              className={`transition ${
-                scrolled
-                  ? "text-gray-900 hover:text-gray-600"
-                  : "text-black hover:text-gray-700"
-              }`}
+              className="relative group transition hover:text-gray-700"
             >
               {item}
+              <span className="absolute left-0 -bottom-1 w-0 h-0.5 bg-gradient-to-r from-green-500 via-blue-500 to-purple-500 transition-all group-hover:w-full"></span>
             </Link>
           ))}
           <Link
             to="/contact"
-            className="bg-gray-900 hover:bg-black text-white px-6 py-2 rounded-full font-medium transition"
+            className="bg-gradient-to-r from-green-500 to-blue-500 text-white px-6 py-2 rounded-full font-semibold shadow-lg hover:scale-105 transition transform"
           >
             Contact Us
           </Link>
@@ -72,20 +67,14 @@ const Navbar = () => {
       {/* Mobile Menu */}
       {menuOpen && (
         <div
-          className={`md:hidden w-full py-4 flex flex-col items-center gap-4 shadow-lg transition ${
-            scrolled ? "bg-white" : "bg-white/90 backdrop-blur-lg"
-          }`}
+          className={`md:hidden w-full py-4 flex flex-col items-center gap-4 shadow-lg transition backdrop-blur-md bg-white/90`}
         >
           {navItems.map((item) => (
             <Link
               key={item}
               to={getLink(item)}
               onClick={() => setMenuOpen(false)}
-              className={`transition ${
-                scrolled
-                  ? "text-gray-900 hover:text-gray-600"
-                  : "text-black hover:text-gray-700"
-              }`}
+              className="text-lg font-medium text-gray-900 hover:text-gray-700 transition"
             >
               {item}
             </Link>
@@ -93,7 +82,7 @@ const Navbar = () => {
           <Link
             to="/contact"
             onClick={() => setMenuOpen(false)}
-            className="bg-gray-900 hover:bg-black text-white px-6 py-2 rounded-full font-medium transition"
+            className="bg-gradient-to-r from-green-500 to-blue-500 text-white px-6 py-2 rounded-full font-semibold shadow-lg hover:scale-105 transition transform"
           >
             Contact Us
           </Link>
@@ -125,7 +114,7 @@ const StyledSwitch = styled.div`
     right: 0;
     height: 4px;
     border-radius: 2px;
-    background: #7b52b9;
+    background: linear-gradient(to right, #22c55e, #3b82f6, #8b5cf6);
     transition: all 0.35s cubic-bezier(0.5, -0.35, 0.35, 1.5);
   }
 
@@ -165,7 +154,8 @@ const Nav = styled.nav`
   transition: all 0.3s;
 
   &.scrolled {
-    background: white;
-    box-shadow: 0 2px 8px rgba(0, 0, 0, 0.1);
+    background: rgba(255, 255, 255, 0.95);
+    backdrop-filter: blur(8px);
+    box-shadow: 0 2px 12px rgba(0, 0, 0, 0.1);
   }
 `;

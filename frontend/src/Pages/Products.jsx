@@ -1,54 +1,25 @@
 import React, { useState } from "react";
+import { useNavigate } from "react-router-dom";
 import ProductCard from "../components/ProductCard";
+import products from "../config/Product.json"; // Import the products JSON
 
 const Products = () => {
+  const navigate = useNavigate();
   const [search, setSearch] = useState("");
   const [sort, setSort] = useState("name");
   const [priceRange, setPriceRange] = useState([0, 3000]);
   const [categoryFilter, setCategoryFilter] = useState("");
+  const [favorites, setFavorites] = useState(new Set());
 
-  const products = [
-    {
-      id: 1,
-      name: "Sony WH-1000XM5 Wireless Headphones",
-      category: "Electronics",
-      price: 379.99,
-      rating: 4.8,
-      reviews: 2847,
-      image:
-        "https://images.unsplash.com/photo-1546435770-a3e426bf472b?w=600&h=600&fit=crop",
-    },
-    {
-      id: 2,
-      name: "Apple Watch Series 9",
-      category: "Tech Gadgets",
-      price: 529.99,
-      rating: 4.9,
-      reviews: 1923,
-      image:
-        "https://images.unsplash.com/photo-1579586337278-3befd40fd17a?w=600&h=600&fit=crop",
-    },
-    {
-      id: 3,
-      name: "Canon EOS R6 Mark II Camera",
-      category: "Photography",
-      price: 2499,
-      rating: 4.9,
-      reviews: 856,
-      image:
-        "https://images.unsplash.com/photo-1606980707571-6df2d6e0b4f2?w=600&h=600&fit=crop",
-    },
-    {
-      id: 4,
-      name: "Kindle Paperwhite 32 GB",
-      category: "Electronics",
-      price: 189.99,
-      rating: 4.7,
-      reviews: 4521,
-      image:
-        "https://images.unsplash.com/photo-1592239499787-c0c5b8e7943f?w=600&h=600&fit=crop",
-    },
-  ];
+  // Toggle favorite product
+  const toggleFavorite = (id) => {
+    setFavorites((prev) => {
+      const next = new Set(prev);
+      if (next.has(id)) next.delete(id);
+      else next.add(id);
+      return next;
+    });
+  };
 
   // Filter & sort products
   const filteredProducts = products
@@ -66,8 +37,7 @@ const Products = () => {
   const categories = [...new Set(products.map((p) => p.category))];
 
   return (
-    <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 py-12">
-      <h2 className="text-3xl font-bold mb-6">Products</h2>
+    <div className="max-w-7xl mx-auto px-4 mt-8 sm:px-6 lg:px-8 py-12">
       <div className="flex flex-col lg:flex-row gap-6">
         {/* Sidebar */}
         <div className="w-full lg:w-1/4 bg-white rounded-xl shadow p-4 space-y-6">
@@ -142,7 +112,17 @@ const Products = () => {
         <div className="w-full lg:w-3/4 grid md:grid-cols-2 lg:grid-cols-3 gap-6">
           {filteredProducts.length ? (
             filteredProducts.map((product) => (
-              <ProductCard key={product.id} product={product} favorites={new Set()} toggleFavorite={() => {}} />
+              <div
+                key={product.id}
+                onClick={() => navigate(`/products/${product.id}`)}
+                className="cursor-pointer"
+              >
+                <ProductCard
+                  product={product}
+                  favorites={favorites}
+                  toggleFavorite={toggleFavorite}
+                />
+              </div>
             ))
           ) : (
             <p className="text-gray-500 col-span-full">No products found.</p>

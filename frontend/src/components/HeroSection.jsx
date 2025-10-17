@@ -11,7 +11,7 @@ const HeroSection = () => {
       className="relative overflow-hidden bg-[url('https://raw.githubusercontent.com/prebuiltui/prebuiltui/main/assets/hero/gridBackground.png')] bg-no-repeat bg-cover bg-center text-sm pb-32"
     >
       {/* Hero Content */}
-      <div className="max-w-7xl mx-auto px-4  sm:px-6 lg:px-8 py-20 grid md:grid-cols-1 gap-12 items-center">
+      <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 py-20 grid md:grid-cols-1 gap-12 items-center font-[Poppins]">
         {/* Left */}
         <div className="space-y-6 text-center md:text-left">
           {/* Trusted Badge */}
@@ -34,7 +34,7 @@ const HeroSection = () => {
 
           {/* Heading */}
           <h2
-            className={`text-5xl md:text-6xl font-bold leading-tight ${
+            className={`text-5xl md:text-6xl font-bold leading-tight font-serif ${
               isDark ? "text-white" : "text-gray-900"
             }`}
           >
@@ -46,9 +46,9 @@ const HeroSection = () => {
 
           {/* Subheading */}
           <p
-            className={`text-lg ${
+            className={`text-lg leading-relaxed max-w-xl mx-auto md:mx-0 font-[Poppins] ${
               isDark ? "text-gray-300" : "text-gray-600"
-            } leading-relaxed max-w-xl mx-auto md:mx-0`}
+            }`}
           >
             I curate top-rated products from Amazon so you don’t have to spend hours searching.  
             Discover the best choices, compare features, and make informed shopping decisions.

@@ -6,13 +6,14 @@ const CategoriesSection = () => {
   const isDark = false;
 
   const categories = [
-    { name: "Electronics", icon: "⚡", count: "2.4k", color: "from-blue-500 to-cyan-500", link: "/products/electronics" },
-    { name: "Home & Living", icon: "🏠", count: "1.8k", color: "from-purple-500 to-pink-500", link: "/products/home-living" },
-    { name: "Fashion", icon: "👔", count: "3.2k", color: "from-orange-500 to-red-500", link: "/products/fashion" },
-    { name: "Tech Gadgets", icon: "🎮", count: "2.1k", color: "from-green-500 to-emerald-500", link: "/products/tech-gadgets" },
-    { name: "Fitness", icon: "💪", count: "1.5k", color: "from-yellow-500 to-orange-500", link: "/products/fitness" },
-    { name: "Beauty", icon: "💄", count: "1.9k", color: "from-pink-500 to-rose-500", link: "/products/beauty" },
-  ];
+  { name: "Electronics", icon: "⚡", count: "2.4k", color: "from-blue-500 to-cyan-500", link: "/products/category/Electronics" },
+  { name: "Home & Living", icon: "🏠", count: "1.8k", color: "from-purple-500 to-pink-500", link: "/products/category/Home%20&%20Living" },
+  { name: "Fashion", icon: "👔", count: "3.2k", color: "from-orange-500 to-red-500", link: "/products/category/Fashion" },
+  { name: "Tech Gadgets", icon: "🎮", count: "2.1k", color: "from-green-500 to-emerald-500", link: "/products/category/Tech%20Gadgets" },
+  { name: "Fitness", icon: "💪", count: "1.5k", color: "from-yellow-500 to-orange-500", link: "/products/category/Fitness" },
+  { name: "Beauty", icon: "💄", count: "1.9k", color: "from-pink-500 to-rose-500", link: "/products/category/Beauty" },
+];
+
 
   return (
     <section className={`py-16 ${isDark ? "bg-gray-900/50" : "bg-white/50"} backdrop-blur`}>
