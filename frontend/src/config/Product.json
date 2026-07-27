@@ -24615,5 +24615,260 @@
     "Gift Item",
     "RFM00017"
   ]
+},
+
+{
+  "id": "shining-diva-best-friends-heart-bracelets-4-set",
+  "name": "Shining Diva Fashion Best Friends Friendship Bracelets for Women & Girls | Matching Heart Bracelets (4 Bracelets + 4 Cards)",
+  "brand": "Shining Diva Fashion",
+  "category": "fashion",
+  "subCategory": "bracelets",
+  "price": 1625,
+  "discountPrice": 325,
+  "discountRate": 80,
+  "rating": 4.3,
+  "reviews": 45,
+  "ratingText": "4.3 out of 5 stars",
+  "reviewText": "Based on 45 customer ratings on Amazon",
+  "badge": "Top Brand",
+
+  "shortLink": "https://link.amazon/B024SOzXX",
+  "fullLink": "https://www.amazon.in/gp/product/B0DFC8ZF6H?smid=A1JFLV2BUSJ5AK&th=1&linkCode=ll2&tag=valdio-21&linkId=154d878ef34fcb40259a672d4cee4eba&ref_=as_li_ss_tl",
+  "image": "https://m.media-amazon.com/images/I/71Bx05quLUL._SY695_.jpg",
+
+  "description": "Celebrate everlasting friendship with the Shining Diva Fashion Best Friends Heart Bracelet Set. This gift pack includes four matching heart bracelets with four friendship message cards, making it an ideal present for best friends. Crafted with premium 316L stainless steel heart charms and adjustable nylon cords, these anti-tarnish bracelets are durable, lightweight, rust-resistant, and suitable for everyday wear.",
+
+  "features": [
+    "Set of 4 matching friendship bracelets",
+    "Includes 4 friendship message cards",
+    "Premium 316L stainless steel heart charms",
+    "Anti-tarnish and rust-resistant finish",
+    "Adjustable nylon rope fits most wrist sizes",
+    "Comfortable slide clasp",
+    "Heart-to-heart friendship design",
+    "Lightweight and durable construction",
+    "Perfect gift for best friends",
+    "Made in India"
+  ],
+
+  "variants": [
+    {
+      "variant": "4 BFF Hearts Bracelets + 4 Cards",
+      "price": 325,
+      "mrp": 1625,
+      "discountRate": 80
+    },
+    {
+      "variant": "3 BFF Hearts Bracelets + 3 Cards",
+      "price": 289,
+      "mrp": 1445,
+      "discountRate": 80
+    },
+    {
+      "variant": "2 BFF Hearts Bracelets + 2 Cards",
+      "price": 269,
+      "mrp": 1345,
+      "discountRate": 80
+    }
+  ],
+
+  "availableSizes": [
+    "One Size (Adjustable)"
+  ],
+
+  "productDetails": {
+    "brand": "Shining Diva Fashion",
+    "productType": "Friendship Bracelets",
+    "material": "316L Stainless Steel Heart Charm with Adjustable Nylon Rope",
+    "metalType": "No Metal Type",
+    "claspType": "Slide",
+    "size": "One Size",
+    "maximumLength": "10 Inches",
+    "gemType": "No Gemstone",
+    "itemType": "Bracelets",
+    "color": "Multicolor",
+    "itemWeight": "10 g",
+    "netQuantity": "4 Count",
+    "includedComponents": [
+      "4 Friendship Bracelets",
+      "4 Friendship Message Cards"
+    ],
+    "countryOfOrigin": "India",
+    "manufacturer": "Shining Diva"
+  },
+
+  "deliveryInfo": {
+    "delivery": "Amazon Delivered",
+    "returnPolicy": "10 Days Return & Exchange",
+    "cashOnDelivery": true,
+    "secureTransaction": true,
+    "freeDelivery": true
+  },
+
+  "offers": {
+    "cashback": "Up to ₹9 cashback with Amazon Pay ICICI Bank Credit Cards",
+    "bankOffer": "Up to ₹750 instant discount on select Credit Cards",
+    "businessOffer": "GST invoice available for eligible business purchases"
+  },
+
+  "additionalInfo": {
+    "idealFor": [
+      "Women",
+      "Girls",
+      "Best Friends",
+      "Friend Groups"
+    ],
+    "giftOccasions": [
+      "Birthday",
+      "Friendship Day",
+      "Christmas",
+      "Graduation",
+      "Farewell",
+      "Thank You Gift",
+      "Special Occasions"
+    ],
+    "designTheme": "Matching Heart Friendship Bracelets",
+    "careInstructions": "Keep away from harsh chemicals and wipe with a soft cloth after use to maintain shine."
+  },
+
+  "tags": [
+    "Shining Diva Fashion",
+    "Friendship Bracelet",
+    "Best Friend Gift",
+    "Heart Bracelet",
+    "Matching Bracelets",
+    "BFF Bracelet",
+    "Women Jewellery",
+    "Girls Bracelet",
+    "Stainless Steel",
+    "Anti Tarnish",
+    "Adjustable Bracelet",
+    "Friendship Day Gift",
+    "Birthday Gift",
+    "Fashion Accessories",
+    "Bracelet Set"
+  ]
+},
+
+{
+  "id": "dabur-gulabari-rose-glow-face-cleanser-100ml",
+  "name": "Dabur Gulabari Rose Glow Face Cleanser (100 ml, Pack of 1)",
+  "brand": "Dabur",
+  "category": "beauty & personal care",
+  "subCategory": "face cleansers",
+  "price": 99,
+  "discountPrice": 70.35,
+  "discountRate": 29,
+  "rating": 4.2,
+  "reviews": 5575,
+  "ratingText": "4.2 out of 5 stars",
+  "reviewText": "Based on 5,575 customer ratings on Amazon",
+  "badge": "Amazon's Choice",
+
+  "shortLink": "https://link.amazon/B0azrz1te",
+  "fullLink": "https://www.amazon.in/Dabur-Gulabari-Rose-Glow-Cleanser/dp/B006Y11ES6?crid=2ZY1Q3YFXQ900&dib=eyJ2IjoiMSJ9.sBroqT14ntMFtEg82nQBukxdc6yzWRhxqm5DwXsHSeDswO2tEzP57P7tE8HA16jyphi2M2Uihup2AyDqRYghjQKhBvWi7mHTtjAES7s2ES2BWpmMll9hLiHVqlOsTtlwggxVqA1HOnPS43igjTpN5lpQjUKgjKJP8RPqmkIBsdoL4zf13EJ17hjd8F_t3_hP7zk2C6HrH42XKSr5UD_FwEKMHO-Ijae6uGWq_uG5d4KDns-kyEvVt3V0aIHtEljTLo8mtgZT6x8tvn0B_HV7PvyP5gjWE81hl2sl7Wxr6DM.RWReMvM-9tiHVzZ5K6mMPV92-o5cumXDVPMozFld10E&dib_tag=se&keywords=dabur%2Bgulabari%2Bface%2Bcleanser&qid=1785162414&sbm=true&setroute=search&sprefix=dabur%2Bgulabri%2Caps%2C298&sr=8-1&th=1&linkCode=ll2&tag=valdio-21&linkId=220c871a49aa206709b6c136e57fe36d&ref_=as_li_ss_tl",
+  "image": "https://m.media-amazon.com/images/I/61DvX+9-W3L._SL1500_.jpg",
+
+  "description": "Dabur Gulabari Rose Glow Face Cleanser is a refreshing rose-based facial cleanser that gently removes dirt and impurities while hydrating and revitalizing the skin. Suitable for all skin types, this lightweight face cleanser leaves skin feeling clean, cool, moisturized, and naturally radiant. Enriched with the goodness of rose, it provides an instant fresh glow with every use.",
+
+  "features": [
+    "Rose-based facial cleanser",
+    "Gently cleanses dirt and impurities",
+    "Refreshes and cools the skin",
+    "Hydrates and moisturizes",
+    "Suitable for all skin types",
+    "Leaves skin soft and radiant",
+    "Easy spray application",
+    "Pleasant natural rose fragrance",
+    "Ideal for daily skincare routine",
+    "Suitable for adults"
+  ],
+
+  "variants": [
+    {
+      "size": "100 ml (Pack of 1)",
+      "price": 70.35,
+      "mrp": 99,
+      "discountRate": 29
+    },
+    {
+      "size": "100 ml (Pack of 2)",
+      "price": 195,
+      "mrp": 198,
+      "discountRate": 2
+    },
+    {
+      "size": "100 ml (Pack of 4)",
+      "price": 389,
+      "mrp": 396,
+      "discountRate": 2
+    }
+  ],
+
+  "availableSizes": [
+    "100 ml (Pack of 1)",
+    "100 ml (Pack of 2)",
+    "100 ml (Pack of 4)"
+  ],
+
+  "productDetails": {
+    "brand": "Dabur",
+    "productType": "Face Cleanser",
+    "itemForm": "Spray",
+    "scent": "Rose",
+    "skinType": "All Skin Types",
+    "ageRange": "Adult",
+    "netQuantity": "100 ml",
+    "itemWeight": "0.1 kg",
+    "dimensions": "38 x 15 x 153 mm",
+    "packageQuantity": 1,
+    "specialFeature": "Nourishing",
+    "benefits": [
+      "Cleansing",
+      "Hydrating",
+      "Moisturizing",
+      "Radiant Skin"
+    ],
+    "expiry": "18 Dec 2026"
+  },
+
+  "deliveryInfo": {
+    "delivery": "Amazon Delivered",
+    "returnPolicy": "Non-Returnable",
+    "cashOnDelivery": true,
+    "secureTransaction": true,
+    "freeDelivery": true
+  },
+
+  "offers": {
+    "cashback": "Up to ₹2 cashback with Amazon Pay ICICI Bank Credit Cards",
+    "partnerOffer": "Buy 3 Get 3% Off, Buy 4 Get 4% Off, Buy 5 Get 5% Off",
+    "bankOffer": "Up to ₹1,000 instant discount on select Credit Cards and SBI Debit Cards"
+  },
+
+  "additionalInfo": {
+    "directions": "Spray Dabur Gulabari Rose Face Cleanser directly on the face and gently wipe with a cotton ball.",
+    "firstAid": "In case of eye contact, rinse immediately with plenty of clean water for several minutes.",
+    "allergyTest": "Apply a small amount on the forearm and wait a few minutes before regular use.",
+    "recommendedUse": "Daily facial cleansing and refreshing."
+  },
+
+  "tags": [
+    "Dabur",
+    "Gulabari",
+    "Rose Glow",
+    "Face Cleanser",
+    "Rose Cleanser",
+    "Face Mist",
+    "Hydrating",
+    "Moisturizing",
+    "All Skin Types",
+    "Skincare",
+    "Beauty",
+    "Amazon Choice",
+    "Top Brand",
+    "Daily Use",
+    "100ml"
+  ]
 }
 ]
