@@ -24870,5 +24870,194 @@
     "Daily Use",
     "100ml"
   ]
+},
+
+{
+  "id": "peter-england-mens-everyday-chino-casual-trouser-khaki",
+  "name": "Peter England Men's Everyday Chino Casual Trouser",
+  "brand": "Peter England",
+  "category": "fashion",
+  "subCategory": "men's trousers",
+  "price": 1999,
+  "discountPrice": 939,
+  "discountRate": 53,
+  "rating": 3.7,
+  "reviews": 125,
+  "ratingText": "3.7 out of 5 stars",
+  "reviewText": "Based on 125 customer ratings on Amazon",
+  "badge": "Top Brand",
+
+  "shortLink": "https://link.amazon/B09Pbzfo2",
+  "fullLink": "https://www.amazon.in/dp/B0DRP8P6DN?social_share=cm_sw_r_cso_wa_apan_dp_15Z7MJWMWTBXQ08TFTHQ&th=1&psc=1&linkCode=ll2&tag=valdio-21&linkId=b3f50c0a9f71239cb7a06db89cff8a3d&ref_=as_li_ss_tl",
+  "image": "https://m.media-amazon.com/images/I/51akXLkK2xL._SY741_.jpg",
+
+  "description": "Peter England Men's Everyday Chino Casual Trouser is designed for everyday comfort and style. Made from a soft cotton blend fabric, these solid chinos feature a low-rise skinny fit with a flat front and button closure, making them suitable for casual outings, office wear, and smart-casual occasions.",
+
+  "features": [
+    "Premium cotton blend fabric",
+    "Solid color casual chino",
+    "Low-rise skinny fit",
+    "Flat front design",
+    "Button closure",
+    "Standard length",
+    "Soft and comfortable for daily wear",
+    "Machine washable",
+    "Suitable for office and casual occasions",
+    "Made in India"
+  ],
+
+  "variants": [
+    {
+      "color": "Khaki",
+      "price": 939,
+      "mrp": 1999,
+      "discountRate": 53
+    },
+    {
+      "color": "Ghost White",
+      "price": 1009,
+      "mrp": 1999,
+      "discountRate": 50
+    },
+    {
+      "color": "White",
+      "price": 999,
+      "mrp": 1999,
+      "discountRate": 50
+    },
+    {
+      "color": "Jet Black",
+      "price": 1139,
+      "mrp": 1999,
+      "discountRate": 43
+    },
+    {
+      "color": "Olive",
+      "price": 1149,
+      "mrp": 1999,
+      "discountRate": 43
+    },
+    {
+      "color": "Carbon Black",
+      "price": 1159,
+      "mrp": 1999,
+      "discountRate": 42
+    },
+    {
+      "color": "Dark Navy",
+      "price": 1159,
+      "mrp": 1999,
+      "discountRate": 42
+    },
+    {
+      "color": "Navy Blue",
+      "price": 1159,
+      "mrp": 1999,
+      "discountRate": 42
+    },
+    {
+      "color": "Charcoal",
+      "price": 1219,
+      "mrp": 1999,
+      "discountRate": 39
+    },
+    {
+      "color": "Brown",
+      "price": 1229,
+      "mrp": 1999,
+      "discountRate": 39
+    },
+    {
+      "color": "Grey",
+      "price": 1269,
+      "mrp": 1999,
+      "discountRate": 37
+    },
+    {
+      "color": "Beige",
+      "price": 1269,
+      "mrp": 1999,
+      "discountRate": 37
+    },
+    {
+      "color": "Midnight Navy",
+      "price": 1794,
+      "mrp": 1999,
+      "discountRate": 10
+    }
+  ],
+
+  "availableSizes": [
+    "28",
+    "30",
+    "32",
+    "34",
+    "36",
+    "38",
+    "40",
+    "42"
+  ],
+
+  "productDetails": {
+    "brand": "Peter England",
+    "productType": "Men's Chino Trouser",
+    "material": "Cotton Blend",
+    "fit": "Low Skinny Fit",
+    "style": "Chino",
+    "pattern": "Solid",
+    "frontStyle": "Flat Front",
+    "closure": "Button",
+    "length": "Standard Length",
+    "careInstructions": "Machine Wash",
+    "occasion": "Casual",
+    "countryOfOrigin": "India"
+  },
+
+  "deliveryInfo": {
+    "delivery": "Amazon Delivered",
+    "returnPolicy": "10 Days Return & Exchange",
+    "cashOnDelivery": false,
+    "secureTransaction": true,
+    "freeDelivery": true
+  },
+
+  "offers": {
+    "cashback": "Up to ₹28 cashback with Amazon Pay ICICI Bank Credit Cards",
+    "bankOffer": "Up to ₹1,000 instant discount on select Credit Cards and SBI Debit Cards",
+    "businessOffer": "GST invoice available for eligible business purchases",
+    "upiReward": "Earn ₹9.30 on eligible UPI payments"
+  },
+
+  "additionalInfo": {
+    "idealFor": [
+      "Casual Wear",
+      "Office Wear",
+      "College",
+      "Travel",
+      "Daily Wear"
+    ],
+    "styleTips": [
+      "Pair with polo shirts or casual shirts",
+      "Wear with sneakers or loafers for a smart casual look"
+    ]
+  },
+
+  "tags": [
+    "Peter England",
+    "Men",
+    "Chino",
+    "Trouser",
+    "Casual Trouser",
+    "Cotton Blend",
+    "Skinny Fit",
+    "Khaki",
+    "Flat Front",
+    "Office Wear",
+    "Daily Wear",
+    "Top Brand",
+    "Fashion",
+    "Men's Clothing",
+    "Solid Trouser"
+  ]
 }
 ]
