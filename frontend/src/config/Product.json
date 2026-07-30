@@ -25218,5 +25218,150 @@
     "Top Brand",
     "Kitchen Essentials"
   ]
+},
+
+{
+  "id": "sf-jeans-co-aware-men-shirt-blue-indigo",
+  "name": "S F JEANS CO AWARE Men Shirt (Blue Indigo)",
+  "brand": "S F JEANS CO AWARE",
+  "category": "fashion",
+  "subCategory": "men's shirts",
+  "price": 1499,
+  "discountPrice": 974.35,
+  "discountRate": 35,
+  "rating": 0,
+  "reviews": 0,
+  "ratingText": "",
+  "reviewText": "",
+  "badge": "Top Brand",
+
+  "shortLink": "https://link.amazon/B07Pef1KD",
+  "fullLink": "https://www.amazon.in/gp/product/B0DS2V1M6B?smid=A1WYWER0W24N8S&th=1&psc=1&linkCode=ll2&tag=valdio-21&linkId=81ad9331cb09be3353468346555dd432&ref_=as_li_ss_tl",
+  "image": "https://m.media-amazon.com/images/I/71MbscxRHbL._SY741_.jpg",
+
+  "description": "The S F JEANS CO AWARE Men's Shirt is a premium slim-fit casual shirt crafted from 100% cotton for superior comfort and breathability. Featuring a classic design with long sleeves and yarn-dyed fabric, this Blue Indigo shirt is ideal for everyday wear, office, college, and casual outings. Its soft cotton construction ensures lasting comfort while maintaining a stylish appearance.",
+
+  "features": [
+    "100% premium cotton fabric",
+    "Slim fit design",
+    "Classic full-sleeve shirt",
+    "Yarn-dyed fabric for long-lasting color",
+    "Soft, breathable and comfortable",
+    "Machine washable",
+    "Suitable for casual and smart-casual wear",
+    "Premium stitching and finish",
+    "Made in India",
+    "Ideal for everyday wear"
+  ],
+
+  "variants": [
+    {
+      "color": "Blue Indigo",
+      "size": "S",
+      "price": 974.35,
+      "mrp": 1499,
+      "discountRate": 35
+    },
+    {
+      "color": "Blue Indigo",
+      "size": "M",
+      "price": 974.35,
+      "mrp": 1499,
+      "discountRate": 35
+    },
+    {
+      "color": "Blue Indigo",
+      "size": "L",
+      "price": 974.35,
+      "mrp": 1499,
+      "discountRate": 35
+    },
+    {
+      "color": "Blue Indigo",
+      "size": "XL",
+      "price": 974.35,
+      "mrp": 1499,
+      "discountRate": 35
+    },
+    {
+      "color": "Blue Indigo",
+      "size": "2XL",
+      "price": 974.35,
+      "mrp": 1499,
+      "discountRate": 35
+    }
+  ],
+
+  "availableSizes": [
+    "S",
+    "M",
+    "L",
+    "XL",
+    "2XL"
+  ],
+
+  "productDetails": {
+    "brand": "S F JEANS CO AWARE",
+    "productType": "Men's Shirt",
+    "material": "100% Cotton",
+    "fabric": "Yarn Dyed Cotton",
+    "fit": "Slim Fit",
+    "style": "Classic",
+    "sleeveType": "Long Sleeve",
+    "color": "Blue Indigo",
+    "careInstructions": "Machine Wash",
+    "itemWeight": "200 g",
+    "dimensions": "25 x 22 x 2 cm",
+    "countryOfOrigin": "India",
+    "manufacturer": "Aditya Birla Fashion & Retail Limited"
+  },
+
+  "deliveryInfo": {
+    "delivery": "Amazon Delivered",
+    "returnPolicy": "10 Days Return & Exchange",
+    "cashOnDelivery": true,
+    "secureTransaction": true,
+    "freeDelivery": true
+  },
+
+  "offers": {
+    "cashback": "Up to ₹29 cashback with Amazon Pay ICICI Bank Credit Cards",
+    "bankOffer": "Up to ₹1,000 instant discount on select Credit Cards and SBI Debit Cards",
+    "businessOffer": "GST invoice available for eligible business purchases",
+    "upiReward": "Earn ₹9.70 on eligible UPI payments"
+  },
+
+  "additionalInfo": {
+    "idealFor": [
+      "Casual Wear",
+      "Office Wear",
+      "College",
+      "Travel",
+      "Daily Wear"
+    ],
+    "styleTips": [
+      "Pair with jeans for a casual look",
+      "Wear with chinos for a smart-casual outfit",
+      "Layer with a jacket during cooler weather"
+    ]
+  },
+
+  "tags": [
+    "S F JEANS CO AWARE",
+    "Men Shirt",
+    "Blue Indigo",
+    "Cotton Shirt",
+    "Slim Fit",
+    "Full Sleeve Shirt",
+    "Yarn Dyed",
+    "Casual Shirt",
+    "Classic Shirt",
+    "Men Clothing",
+    "Office Wear",
+    "Daily Wear",
+    "Top Brand",
+    "Fashion",
+    "Made in India"
+  ]
 }
 ]
