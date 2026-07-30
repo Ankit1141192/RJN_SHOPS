@@ -25059,5 +25059,164 @@
     "Men's Clothing",
     "Solid Trouser"
   ]
+},
+
+{
+  "id": "milton-duo-dlx-1000-thermosteel-water-bottle-1l-silver",
+  "name": "Milton Duo DLX 1000 Thermosteel 24 Hours Hot and Cold Water Bottle, 1 Litre, Silver",
+  "brand": "MILTON",
+  "category": "home & kitchen",
+  "subCategory": "insulated water bottles",
+  "price": 1450,
+  "discountPrice": 980,
+  "discountRate": 32,
+  "rating": 4.4,
+  "reviews": 75733,
+  "ratingText": "4.4 out of 5 stars",
+  "reviewText": "Based on 75,733 customer ratings on Amazon",
+  "badge": "Top Brand",
+
+  "shortLink": "https://link.amazon/B01PxNfa9",
+  "fullLink": "https://www.amazon.in/Milton-Thermosteel-Deluxe-1000-Bottle-Vacuum/dp/B00JDACK3S?crid=304P1RM1YIUEH&dib=eyJ2IjoiMSJ9.jLF-Oc8iR1wfWe_cGIqdmYnZYikxeANFEDxmTV3v218aUNuDTImGzre8YTAhTunHeYBy0JAGKaSQNL-Zycizfa7Qwtw-UwL8ZuQWaMvVhee-syneYhxurD-7mknctf14dN1TMST23Jxr9nHphJIl4C-VCfobvHBWQdHsl95opAWehMx4vAxAO0OKj-5l2yW9F2_wsLMoGb-Q6yoX0s_pLIVAC_MjnBNc7AA72yV6O2M8B_a62p0kP35hFtqi9CW2eqo70XpKTZGZ0GDb1k9xb7u7Q8FIq3Atmu9Iz8WIu5c.nWcofihrvO_8vH9uitcIm5vnsy9QrtXdfoghuVfcpqM&dib_tag=se&keywords=milton&nsdOptOutParam=true&qid=1785389657&sprefix=milton%2Caps%2C310&sr=8-7&th=1&linkCode=ll2&tag=valdio-21&linkId=0fab9599824b0da444338717998de4fb&ref_=as_li_ss_tl",
+  "image": "https://m.media-amazon.com/images/I/518vfYI5WJL._SL1500_.jpg",
+
+  "description": "The Milton Duo DLX 1000 Thermosteel Water Bottle features double-walled vacuum insulation that keeps beverages hot or cold for up to 24 hours. Made from premium SS304 stainless steel with copper coating, this ISI-certified bottle is leak-proof, durable, rust-resistant, and ideal for office, school, gym, travel, and everyday hydration.",
+
+  "features": [
+    "24 hours hot and cold insulation",
+    "Double-wall vacuum insulated construction",
+    "Premium SS304 stainless steel inside and outside",
+    "Copper coating for enhanced temperature retention",
+    "Leak-proof and spill-resistant design",
+    "ISI certified for quality and durability",
+    "Rust and corrosion resistant",
+    "BPA-free and food-safe construction",
+    "Suitable for office, school, travel and gym",
+    "1-year manufacturer warranty"
+  ],
+
+  "variants": [
+    {
+      "color": "Silver",
+      "capacity": "1000 ml",
+      "price": 980,
+      "mrp": 1450,
+      "discountRate": 32
+    },
+    {
+      "color": "Green Purple",
+      "capacity": "1000 ml",
+      "price": 1040,
+      "mrp": 1300,
+      "discountRate": 20
+    },
+    {
+      "color": "Matt Black",
+      "capacity": "1000 ml",
+      "price": 1089,
+      "mrp": 1365,
+      "discountRate": 20
+    },
+    {
+      "color": "Matt Blue",
+      "capacity": "1000 ml",
+      "price": 1091,
+      "mrp": 1365,
+      "discountRate": 20
+    },
+    {
+      "color": "Matt Green",
+      "capacity": "1000 ml",
+      "price": 1091,
+      "mrp": 1365,
+      "discountRate": 20
+    },
+    {
+      "color": "Peach Purple",
+      "capacity": "1000 ml",
+      "price": 1040,
+      "mrp": 1160,
+      "discountRate": 10
+    }
+  ],
+
+  "availableSizes": [
+    "1000 ml"
+  ],
+
+  "productDetails": {
+    "brand": "MILTON",
+    "productType": "Insulated Water Bottle",
+    "model": "Duo DLX 1000",
+    "material": "SS304 Stainless Steel",
+    "capacity": "1000 ml",
+    "color": "Silver",
+    "insulationType": "Double Wall Vacuum Insulated",
+    "temperatureRetention": {
+      "hot": "24 Hours",
+      "cold": "24 Hours"
+    },
+    "specialFeatures": [
+      "Leak Proof",
+      "Copper Coating",
+      "ISI Certified",
+      "Rust Resistant",
+      "Corrosion Resistant"
+    ],
+    "recommendedUses": [
+      "Water",
+      "Tea",
+      "Coffee",
+      "Cold Drinks"
+    ]
+  },
+
+  "deliveryInfo": {
+    "delivery": "Amazon Delivered",
+    "returnPolicy": "10 Days Returnable",
+    "cashOnDelivery": false,
+    "secureTransaction": true,
+    "freeDelivery": true,
+    "warranty": "1 Year Manufacturer Warranty"
+  },
+
+  "offers": {
+    "cashback": "Up to ₹29 cashback with Amazon Pay ICICI Bank Credit Cards",
+    "bankOffer": "Up to ₹1,000 instant discount on select Credit Cards and SBI Debit Cards",
+    "businessOffer": "GST invoice available for eligible business purchases",
+    "upiReward": "Earn ₹9.80 on eligible UPI payments"
+  },
+
+  "additionalInfo": {
+    "idealFor": [
+      "Office",
+      "School",
+      "College",
+      "Gym",
+      "Travel",
+      "Hiking",
+      "Home"
+    ],
+    "certification": "ISI Certified",
+    "careInstructions": "Wash before first use. Clean with mild soap and a soft bottle brush. Do not use bleach or abrasive cleaners."
+  },
+
+  "tags": [
+    "MILTON",
+    "Thermosteel",
+    "Vacuum Bottle",
+    "Insulated Bottle",
+    "Water Bottle",
+    "1 Litre",
+    "1000ml",
+    "Stainless Steel",
+    "SS304",
+    "Hot and Cold Bottle",
+    "Leak Proof",
+    "Travel Bottle",
+    "Gym Bottle",
+    "Top Brand",
+    "Kitchen Essentials"
+  ]
 }
 ]
