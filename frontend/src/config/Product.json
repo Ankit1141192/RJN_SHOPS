@@ -25520,5 +25520,143 @@
     "Top Brand",
     "Gift for Kids"
   ]
+},
+
+{
+  "id": "portronics-adapto-66-dual-usb-wall-charger-12w-white",
+  "name": "Portronics Adapto 66 12W Dual USB Wall Charger with 1M Micro USB Cable (White)",
+  "brand": "Portronics",
+  "category": "electronics",
+  "subCategory": "mobile chargers",
+  "price": 499,
+  "discountPrice": 189,
+  "discountRate": 62,
+  "rating": 4.0,
+  "reviews": 3138,
+  "ratingText": "4.0 out of 5 stars",
+  "reviewText": "Based on 3,138 customer ratings on Amazon",
+  "badge": "Amazon's Choice",
+
+  "shortLink": "https://link.amazon/B014hDEsD",
+  "fullLink": "https://www.amazon.in/Portronics-66-POR-1066-Charging-Adapter/dp/B08LQNKJH9?crid=U2IY4UF9DROC&dib=eyJ2IjoiMSJ9.S8IHdXQw8HK3k_VUh9CsstlrmwCBofgb7heo2hb-U2BxhGiEQRZMuOgYosZbMCrK4nExNA6mcPdaTZPcaRGHUF5NAWjGmGcOWbHWy5f76MoED4VTRAsxh0sywBvT7h9gsiDArI8tY0Lh3e1wedSK_KkSYr6cTzlxRZcehCf-foxJ3pxS_Klq-mN7Yfx1EST7awk4YKP4mbAXr2iA2m03Ghvmy3OnHOV6hp5fssX_EpA.oHxbv1IC8xRoqOO9O1LO8X5wi60x2IyHHbhPNrIpSVQ&dib_tag=se&keywords=mobile+adapter&qid=1785512106&sprefix=mobile+adpto%2Caps%2C313&sr=8-4&linkCode=ll2&tag=valdio-21&linkId=b2d6d38efb353c3b95971c3d6dde2675&ref_=as_li_ss_tl",
+  "image": "https://m.media-amazon.com/images/I/51NVz6hIzGL._SL1200_.jpg",
+
+  "description": "The Portronics Adapto 66 is a 12W dual USB wall charger designed to charge two devices simultaneously with a total output of 5V/2.4A. It comes with a 1-meter Micro USB cable and features intelligent charging technology with multiple safety protections. Compatible with smartphones, tablets, power banks, wireless headphones, and other USB-powered devices, this BIS-certified charger is ideal for home, office, and travel use.",
+
+  "features": [
+    "12W fast charging output",
+    "Dual USB-A charging ports",
+    "Total output of 5V/2.4A",
+    "Includes 1-meter Micro USB cable",
+    "Charge two devices simultaneously",
+    "Intelligent auto current detection",
+    "Over-current, over-voltage and short-circuit protection",
+    "Compact and lightweight design",
+    "BIS Certified and Made in India",
+    "6-month manufacturer warranty"
+  ],
+
+  "variants": [
+    {
+      "color": "White",
+      "output": "12W",
+      "price": 189,
+      "mrp": 499,
+      "discountRate": 62
+    }
+  ],
+
+  "availableSizes": [
+    "12W"
+  ],
+
+  "productDetails": {
+    "brand": "Portronics",
+    "model": "Adapto 66",
+    "productType": "Dual USB Wall Charger",
+    "color": "White",
+    "connectorType": [
+      "USB-A",
+      "Micro USB"
+    ],
+    "inputVoltage": "AC 100-280V, 50/60Hz",
+    "output": "DC 5V/2.4A",
+    "wattage": "12W",
+    "totalUSBPorts": 2,
+    "chargingCableLength": "1 Meter",
+    "dimensions": "6.36 x 4.22 x 2.36 cm",
+    "weight": "42 g",
+    "includedComponents": [
+      "1 Wall Charger",
+      "1 Meter Micro USB Cable",
+      "User Manual"
+    ],
+    "specialFeatures": [
+      "Dual USB Ports",
+      "Smart Charging Chip",
+      "Over Current Protection",
+      "Over Voltage Protection",
+      "Short Circuit Protection",
+      "Over Temperature Protection",
+      "BIS Certified",
+      "Made in India"
+    ],
+    "compatibleDevices": [
+      "Android Smartphones",
+      "iPhone",
+      "iPad",
+      "Google Pixel",
+      "Samsung Galaxy",
+      "Power Banks",
+      "Wireless Headphones",
+      "MP3 Players",
+      "USB Powered Devices"
+    ]
+  },
+
+  "deliveryInfo": {
+    "delivery": "Amazon Delivered",
+    "returnPolicy": "10 Days Service Centre Replacement",
+    "cashOnDelivery": true,
+    "secureTransaction": true,
+    "freeDelivery": true,
+    "warranty": "6 Month Manufacturer Warranty"
+  },
+
+  "offers": {
+    "cashback": "Up to ₹50 cashback with eligible Credit Cards",
+    "bankOffer": "Up to ₹1,000 instant discount on select Credit Cards and SBI Debit Cards",
+    "businessOffer": "GST invoice available for eligible business purchases"
+  },
+
+  "additionalInfo": {
+    "chargingTechnology": "Smart auto current adjustment for connected devices",
+    "idealFor": [
+      "Home",
+      "Office",
+      "Travel",
+      "Daily Charging"
+    ],
+    "certification": "BIS Certified",
+    "powerSource": "Corded Electric"
+  },
+
+  "tags": [
+    "Portronics",
+    "Adapto 66",
+    "12W Charger",
+    "Dual USB Charger",
+    "Wall Charger",
+    "Mobile Charger",
+    "Micro USB Cable",
+    "USB Adapter",
+    "Fast Charger",
+    "BIS Certified",
+    "Made in India",
+    "iPhone Charger",
+    "Android Charger",
+    "Amazon Choice",
+    "Electronics"
+  ]
 }
 ]
