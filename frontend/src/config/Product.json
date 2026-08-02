@@ -25913,5 +25913,367 @@
     "Top Brand",
     "Grocery"
   ]
+},
+
+{
+  "id": "omega-tape-dispenser-cello-1-inch",
+  "name": "OMEGA Tape Dispenser (Cello) - 1 Inch",
+  "brand": "OMEGA",
+  "category": "office supplies",
+  "subCategory": "tape dispensers",
+  "price": 150,
+  "discountPrice": 144,
+  "discountRate": 4,
+  "rating": 4.4,
+  "reviews": 2734,
+  "ratingText": "4.4 out of 5 stars",
+  "reviewText": "Based on 2,734 customer ratings on Amazon",
+  "badge": "Amazon's Choice",
+
+  "shortLink": "https://link.amazon/B0gS3LZxo",
+  "fullLink": "https://www.amazon.in/Omega-No-1775-Cello-Tape-Dispensar/dp/B00Q6TL8D2?crid=1VL8VEQ9AIJEC&dib=eyJ2IjoiMSJ9.GZdhWYo97g-JuarIQfTCjW_iXD_HX55Fx8AhMLh5xmb8n2mcD3k7HhZ4hCE0Glrjk5lGhmbQqxkLw5FNZfIJ887xaydeZLCqpzobwhAU5XtEbByXEqca2NFSYlHnsFD6tSYFijM5PRd3F-nL4-jXgcor1-6n9ZSTotY6wqIPgk32R_CVtA_43g1JIzYc0YCLXmlzA8j8rP1PWbng2ld6Jnnq_Q9uPQRqMKkPJqVyiFJi0FSS5S7ejiZmrYMHcKEdFZp59TTsJuzX1B0qbT3qeylL3EcKYjRxfymRXde1YzE.B8iS2vFSwLagS0xH-LOI652C2OzLu3GyB5KngUddjJA&dib_tag=se&keywords=tape%2Bmachine&qid=1785675409&sprefix=tape%2Bmachi%2Caps%2C309&sr=8-6&th=1&linkCode=ll2&tag=valdio-21&linkId=2d1e3a1db319326e9c4f145f69fcb84f&ref_=as_li_ss_tl",
+  "image": "https://m.media-amazon.com/images/I/715N6s3EFQL._SL1500_.jpg",
+
+  "description": "The OMEGA Tape Dispenser (Cello) is a heavy-duty desktop tape dispenser designed for smooth and convenient tape dispensing. Built with a sturdy plastic body and a weighted base, it accommodates 1-inch tape rolls and is suitable for office, school, warehouse, packaging, and home use.",
+
+  "features": [
+    "Suitable for 1-inch cello tape rolls",
+    "Heavy-duty weighted base for stability",
+    "Sharp metal cutting blade",
+    "Smooth one-hand tape dispensing",
+    "Durable plastic construction",
+    "Ideal for office and packaging use",
+    "Easy tape roll replacement",
+    "Anti-slip desktop design",
+    "Compact desktop size",
+    "Long-lasting performance"
+  ],
+
+  "variants": [
+    {
+      "setName": "Cello",
+      "size": "1 Inch",
+      "price": 144,
+      "mrp": 150,
+      "discountRate": 4
+    },
+    {
+      "setName": "Ezee Packer",
+      "size": "1 Inch"
+    }
+  ],
+
+  "availableSizes": [
+    "1 Inch"
+  ],
+
+  "productDetails": {
+    "brand": "OMEGA",
+    "productType": "Desktop Tape Dispenser",
+    "material": "Plastic",
+    "compatibleTapeWidth": "1 Inch",
+    "dispenserCoreDiameter": "25.4 mm",
+    "dimensions": "20.6 × 9.2 × 9.6 cm",
+    "weight": "891 g",
+    "bladeMaterial": "Metal",
+    "mountType": "Desktop",
+    "recommendedUses": [
+      "Office",
+      "School",
+      "Packaging",
+      "Gift Wrapping",
+      "Home",
+      "Warehouse"
+    ]
+  },
+
+  "deliveryInfo": {
+    "delivery": "Amazon Delivered",
+    "returnPolicy": "10 Days Returnable",
+    "cashOnDelivery": true,
+    "secureTransaction": true,
+    "freeDelivery": true,
+    "warranty": "Warranty Policy Available"
+  },
+
+  "offers": {
+    "cashback": "Up to ₹50 cashback with eligible Credit Cards",
+    "bankOffer": "Up to ₹1,200 instant discount on select Credit Cards and SBI Debit Cards",
+    "businessOffer": "GST invoice available for eligible business purchases"
+  },
+
+  "additionalInfo": {
+    "idealFor": [
+      "Office Desk",
+      "Home Office",
+      "School",
+      "Retail Stores",
+      "Courier & Packaging"
+    ],
+    "careInstructions": "Keep the cutting blade clean and dry. Replace tape rolls carefully and store in a dry place."
+  },
+
+  "tags": [
+    "OMEGA",
+    "Tape Dispenser",
+    "Cello Tape Dispenser",
+    "1 Inch Tape Dispenser",
+    "Office Supplies",
+    "Packaging Tool",
+    "Desktop Tape Holder",
+    "Heavy Duty",
+    "Amazon Choice",
+    "Stationery",
+    "Office Accessories",
+    "Gift Wrapping",
+    "Plastic Tape Dispenser",
+    "Desk Organizer",
+    "Packing Supplies"
+  ]
+},
+
+{
+  "id": "pulgos-metal-cloth-hanger-12pcs-silver",
+  "name": "PulGos 12 Pcs Metal Cloth Hanger | Rust-Free Ultra Thin Wardrobe Hangers (Silver)",
+  "brand": "PulGos",
+  "category": "home & kitchen",
+  "subCategory": "clothes hangers",
+  "price": 399,
+  "discountPrice": 199,
+  "discountRate": 50,
+  "rating": 3.8,
+  "reviews": 5512,
+  "ratingText": "3.8 out of 5 stars",
+  "reviewText": "Based on 5,512 customer ratings on Amazon",
+  "badge": "#1 Best Seller",
+
+  "shortLink": "https://link.amazon/B0eGFvG06",
+  "fullLink": "https://www.amazon.in/PulGos-Metal-Clothes-Hanger-Heavy/dp/B09KPKQLMT?pd_rd_w=Qvgid&content-id=amzn1.sym.41279fa1-dd23-4c70-9745-af6d0ebf3670%3Aamzn1.symc.30e3dbb4-8dd8-4bad-b7a1-a45bcdbc49b8&pf_rd_p=41279fa1-dd23-4c70-9745-af6d0ebf3670&pf_rd_r=SHN234Q70GG96YA2FWPX&pd_rd_wg=Z5t43&pd_rd_r=61e4e26d-f506-49d0-b898-074b1ea27a34&pd_rd_i=B09KPKQLMT&th=1&linkCode=ll2&tag=valdio-21&linkId=d06a903eecf288b34cfeee729c30818f&ref_=as_li_ss_tl",
+  "image": "https://m.media-amazon.com/images/I/81Qm2xl0KqL._SL1500_.jpg",
+
+  "description": "The PulGos 12-piece Metal Cloth Hanger Set is made from high-quality rust-resistant alloy steel for long-lasting durability. Its ultra-thin, space-saving design helps maximize wardrobe space while securely holding clothes with a smooth, non-slip finish. Suitable for shirts, pants, sarees, suits, tops, and delicate garments, these lightweight hangers offer an organized and stylish storage solution.",
+
+  "features": [
+    "Pack of 12 premium metal hangers",
+    "Rust-free alloy steel construction",
+    "Ultra-thin space-saving design",
+    "Non-slip smooth finish",
+    "Strong and durable for everyday use",
+    "Lightweight yet heavy-duty",
+    "Suitable for shirts, pants, sarees, suits and dresses",
+    "Helps organize wardrobes efficiently",
+    "Modern silver finish",
+    "Ideal for home and closet organization"
+  ],
+
+  "variants": [
+    {
+      "color": "Silver",
+      "packSize": "12 Pieces",
+      "price": 199,
+      "mrp": 399,
+      "discountRate": 50
+    }
+  ],
+
+  "availableSizes": [
+    "12 Pieces"
+  ],
+
+  "productDetails": {
+    "brand": "PulGos",
+    "productType": "Metal Clothes Hanger",
+    "material": "Alloy Steel",
+    "color": "Silver",
+    "dimensions": "41.9 x 20.8 cm",
+    "specialFeatures": [
+      "Rust Resistant",
+      "Ultra Thin",
+      "Space Saving",
+      "Non Slip Grip",
+      "Smooth Finish",
+      "Heavy Duty",
+      "Lightweight",
+      "Durable"
+    ],
+    "recommendedUses": [
+      "Wardrobe Organization",
+      "Closet Storage",
+      "Home",
+      "Laundry Room"
+    ],
+    "compatibleGarments": [
+      "Shirts",
+      "T-Shirts",
+      "Pants",
+      "Jeans",
+      "Suits",
+      "Sarees",
+      "Tops",
+      "Dresses",
+      "Delicate Clothing"
+    ]
+  },
+
+  "deliveryInfo": {
+    "delivery": "Amazon Delivered",
+    "returnPolicy": "10 Days Returnable",
+    "cashOnDelivery": true,
+    "secureTransaction": true,
+    "freeDelivery": true
+  },
+
+  "offers": {
+    "cashback": "Up to ₹50 cashback with eligible Credit Cards",
+    "bankOffer": "Up to ₹1,200 instant discount on select Credit Cards and SBI Debit Cards",
+    "businessOffer": "GST invoice available for eligible business purchases"
+  },
+
+  "additionalInfo": {
+    "idealFor": [
+      "Home",
+      "Wardrobe",
+      "Closet",
+      "Laundry",
+      "Apartments",
+      "Hostels"
+    ],
+    "careInstructions": "Wipe with a soft dry cloth. Avoid prolonged exposure to harsh chemicals or moisture."
+  },
+
+  "tags": [
+    "PulGos",
+    "Metal Hanger",
+    "Clothes Hanger",
+    "Wardrobe Organizer",
+    "Closet Hanger",
+    "Ultra Thin Hanger",
+    "Rust Free",
+    "Alloy Steel",
+    "Space Saving",
+    "Non Slip",
+    "Silver Hanger",
+    "Pack of 12",
+    "Home Organization",
+    "Closet Accessories",
+    "Best Seller"
+  ]
+},
+
+{
+  "id": "mattel-games-uno-flip-card-game",
+  "name": "Mattel Games UNO Flip Card Game",
+  "brand": "Mattel Games",
+  "category": "toys & games",
+  "subCategory": "card games",
+  "price": 199,
+  "discountPrice": 148,
+  "discountRate": 26,
+  "rating": 4.5,
+  "reviews": 60645,
+  "ratingText": "4.5 out of 5 stars",
+  "reviewText": "Based on 60,645 customer ratings on Amazon",
+  "badge": "Amazon's Choice",
+
+  "shortLink": "https://link.amazon/B07cpg0mz",
+  "fullLink": "https://www.amazon.in/gp/product/B07JKB2H59?smid=A2GTG1HPYW8M2P&psc=1&linkCode=ll2&tag=valdio-21&linkId=6157c0c836d884a4b7afb36922a70c8c&ref_=as_li_ss_tl",
+  "image": "https://m.media-amazon.com/images/I/81juewgV8cL._SL1500_.jpg",
+
+  "description": "UNO Flip is an exciting twist on the classic UNO card game featuring a double-sided deck with Light and Dark sides. Special Flip cards completely change gameplay by switching the deck to the opposite side, introducing tougher action cards and new strategies. Players race to empty their hands while using skips, reverses, wild cards, Draw Five, and Skip Everyone cards to outsmart opponents.",
+
+  "features": [
+    "Double-sided Light and Dark deck",
+    "Unique Flip card changes gameplay instantly",
+    "Includes classic Skip, Reverse and Wild cards",
+    "New Draw Five and Skip Everyone action cards",
+    "Easy to learn and quick to play",
+    "Fun for family game nights and parties",
+    "Portable travel-friendly card game",
+    "Suitable for kids and adults",
+    "Encourages strategic thinking",
+    "Shout 'UNO!' when one card remains"
+  ],
+
+  "variants": [
+    {
+      "color": "Multi Color",
+      "price": 148,
+      "mrp": 199,
+      "discountRate": 26
+    }
+  ],
+
+  "availableColors": [
+    "Multi Color"
+  ],
+
+  "productDetails": {
+    "brand": "Mattel Games",
+    "gameType": "Card Game",
+    "theme": "UNO Flip",
+    "material": "Paper Cards",
+    "color": "Multi Color",
+    "players": "2–10 Players",
+    "recommendedAge": "7 Years and Above",
+    "gameplay": [
+      "Matching Cards",
+      "Strategy",
+      "Family Game",
+      "Party Game"
+    ],
+    "specialCards": [
+      "Flip Card",
+      "Draw Five",
+      "Skip Everyone",
+      "Wild",
+      "Reverse",
+      "Skip"
+    ]
+  },
+
+  "deliveryInfo": {
+    "delivery": "Amazon Delivered",
+    "replacementPolicy": "10 Days Replacement",
+    "cashOnDelivery": true,
+    "secureTransaction": true,
+    "freeDelivery": true
+  },
+
+  "offers": {
+    "cashback": "Up to ₹4 cashback with eligible Amazon Pay ICICI Bank Credit Cards",
+    "bankOffer": "Up to ₹1,200 instant discount on select Credit Cards and SBI Debit Cards",
+    "partnerOffer": "Buy 3 Get 3% Off, Buy 4 Get 4% Off, Buy 5 Get 5% Off",
+    "upiReward": "Earn 14 Amazon Pay Rewards points on eligible UPI payments"
+  },
+
+  "additionalInfo": {
+    "idealFor": [
+      "Kids",
+      "Families",
+      "Friends",
+      "Travel",
+      "Party Games",
+      "Game Night"
+    ],
+    "boxContents": [
+      "UNO Flip Card Deck",
+      "Game Instructions"
+    ]
+  },
+
+  "tags": [
+    "UNO",
+    "UNO Flip",
+    "Mattel Games",
+    "Card Game",
+    "Family Game",
+    "Party Game",
+    "Strategy Game",
+    "Kids Game",
+    "Travel Game",
+    "Indoor Game",
+    "Amazon Choice",
+    "Multiplayer Game"
+  ]
 }
 ]
