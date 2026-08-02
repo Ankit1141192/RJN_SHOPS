@@ -25793,5 +25793,125 @@
     "Amazon Choice",
     "Electronics"
   ]
+},
+{
+  "id": "toblerone-fruit-nut-chocolate-bar-pack-of-4-100g",
+  "name": "Toblerone Fruit & Nut Chocolate Bar with Raisins, Honey & Almonds (Pack of 4 x 100g)",
+  "brand": "Toblerone",
+  "category": "grocery",
+  "subCategory": "chocolates",
+  "price": 999,
+  "discountPrice": 449,
+  "discountRate": 55,
+  "rating": 4.0,
+  "reviews": 21,
+  "ratingText": "4.0 out of 5 stars",
+  "reviewText": "Based on 21 customer ratings on Amazon",
+  "badge": "Top Brand",
+
+  "shortLink": "https://link.amazon/B07abmRIP",
+  "fullLink": "https://www.amazon.in/dp/B085MWMXNK?social_share=cm_sw_r_cso_tg_apan_dp_2SX42SWMCCNFFXNMSHXB&th=1&linkCode=ll2&tag=valdio-21&linkId=045115ac5e7987d4eb4c62180f127969&ref_=as_li_ss_tl",
+  "image": "https://m.media-amazon.com/images/I/712V-M4abdL._SL1500_.jpg",
+
+  "description": "Toblerone Fruit & Nut Chocolate Bars combine smooth Swiss milk chocolate with crunchy almonds, sweet raisins, honey, and the brand's signature nougat. This value pack includes four 100g bars, making it perfect for sharing, gifting, or enjoying as a premium chocolate treat.",
+
+  "features": [
+    "Authentic Swiss milk chocolate",
+    "Made with raisins, honey and almonds",
+    "Signature Toblerone nougat recipe",
+    "Pack of 4 chocolate bars",
+    "100g per bar (400g total)",
+    "Smooth and crunchy texture",
+    "Ideal for gifting and sharing",
+    "Premium imported chocolate",
+    "No artificial colours",
+    "No artificial flavours"
+  ],
+
+  "variants": [
+    {
+      "flavour": "Fruit & Nut (Raisins, Honey & Almonds)",
+      "packSize": "4 x 100g",
+      "price": 449,
+      "mrp": 999,
+      "discountRate": 55
+    },
+    {
+      "flavour": "Fruit & Nut (Raisins, Honey & Almonds)",
+      "packSize": "12 x 100g",
+      "price": 1589,
+      "mrp": 2999,
+      "discountRate": 47
+    }
+  ],
+
+  "availableSizes": [
+    "100g (Pack of 4)",
+    "100g (Pack of 12)"
+  ],
+
+  "productDetails": {
+    "brand": "Toblerone",
+    "productType": "Chocolate Bar",
+    "chocolateType": "Milk Chocolate",
+    "flavour": "Fruit & Nut",
+    "ingredients": [
+      "Milk Chocolate",
+      "Raisins",
+      "Honey",
+      "Almonds",
+      "Nougat"
+    ],
+    "netQuantity": "400 g",
+    "packSize": "4 x 100 g",
+    "specialFeatures": [
+      "No Artificial Colours",
+      "No Artificial Flavours",
+      "Swiss Chocolate"
+    ]
+  },
+
+  "deliveryInfo": {
+    "delivery": "Amazon Delivered",
+    "returnPolicy": "Non-Returnable",
+    "cashOnDelivery": true,
+    "secureTransaction": true,
+    "freeDelivery": true
+  },
+
+  "offers": {
+    "cashback": "Up to ₹50 cashback with eligible Credit Cards",
+    "bankOffer": "Up to ₹200 instant discount on select Credit Cards and SBI Debit Cards",
+    "businessOffer": "GST invoice available for eligible business purchases"
+  },
+
+  "additionalInfo": {
+    "idealFor": [
+      "Snacking",
+      "Gifting",
+      "Festivals",
+      "Birthdays",
+      "Chocolate Lovers"
+    ],
+    "storageInstructions": "Store in a cool, dry place away from direct sunlight and heat."
+  },
+
+  "tags": [
+    "Toblerone",
+    "Swiss Chocolate",
+    "Fruit and Nut",
+    "Milk Chocolate",
+    "Chocolate Bar",
+    "Raisins",
+    "Honey",
+    "Almond",
+    "Nougat",
+    "Pack of 4",
+    "400g",
+    "Imported Chocolate",
+    "Premium Chocolate",
+    "Top Brand",
+    "Grocery"
+  ]
 }
 ]
