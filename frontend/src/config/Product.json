@@ -26275,5 +26275,217 @@
     "Amazon Choice",
     "Multiplayer Game"
   ]
+},
+
+{
+  "id": "esiflo-250-transhaler-120-metered-doses",
+  "name": "Esiflo 250 Transhaler",
+  "brand": "Esiflo",
+  "category": "health & personal care",
+  "subCategory": "prescription medicines",
+  "price": 986.35,
+  "discountPrice": 848.26,
+  "discountRate": 14,
+  "rating": null,
+  "reviews": null,
+  "ratingText": "",
+  "reviewText": "",
+  "badge": "Prescription Required (Rx)",
+
+  "shortLink": "https://link.amazon/B06PfoXMT",
+  "fullLink": "https://www.amazon.in/gp/product/B0834HWRZG?smid=A2785T0G6STJW6&psc=1&s=prime-wardrobe&isTryState=1&linkCode=ll2&tag=valdio-21&linkId=668662393f4d762d47aeba1a62aa7c26&ref_=as_li_ss_tl",
+  "image": "https://m.media-amazon.com/images/I/71TTG0TsY2L._SL1500_.jpg",
+
+  "description": "Esiflo 250 Transhaler is a prescription inhalation medicine containing Salmeterol and Fluticasone Propionate. It is supplied as a bottle containing 120 metered doses and is commonly prescribed by physicians for long-term management of respiratory conditions such as asthma and chronic obstructive pulmonary disease (COPD). Use only as directed by a registered medical practitioner.",
+
+  "features": [
+    "Prescription (Rx) medicine",
+    "120 metered doses per bottle",
+    "Combination inhaler with Salmeterol and Fluticasone Propionate",
+    "Designed for inhalation using a transhaler device",
+    "Long-term maintenance therapy",
+    "Amazon Pharmacy product",
+    "Pay on Delivery available",
+    "Amazon Delivered"
+  ],
+
+  "variants": [
+    {
+      "strength": "Salmeterol 25 mcg + Fluticasone Propionate 250 mcg",
+      "packSize": "120 Metered Doses",
+      "price": 848.26,
+      "mrp": 986.35,
+      "discountRate": 14
+    }
+  ],
+
+  "productDetails": {
+    "brand": "Esiflo",
+    "dosageForm": "Transhaler",
+    "packSize": "120 Metered Doses",
+    "composition": {
+      "Salmeterol": "25 mcg",
+      "Fluticasone Propionate": "250 mcg"
+    },
+    "dosage": "As directed by the physician",
+    "prescriptionRequired": true,
+    "expiry": "30 DEC 2027",
+    "storage": "Store protected from moisture at a temperature not exceeding 30°C"
+  },
+
+  "deliveryInfo": {
+    "delivery": "Amazon Delivered",
+    "returnPolicy": "Non-Returnable",
+    "cashOnDelivery": true,
+    "pharmacy": "Amazon Pharmacy"
+  },
+
+  "offers": {
+    "amazonBusiness": "Eligible business customers may save up to 13%."
+  },
+
+  "additionalInfo": {
+    "medicineType": "Prescription Inhaler",
+    "usage": "Use only under medical supervision.",
+    "warning": "Do not discontinue or change the prescribed dose without consulting your physician."
+  },
+
+  "tags": [
+    "Esiflo",
+    "Transhaler",
+    "Prescription Medicine",
+    "Rx",
+    "Salmeterol",
+    "Fluticasone Propionate",
+    "Asthma",
+    "COPD",
+    "Respiratory Care",
+    "Inhaler",
+    "120 Metered Doses",
+    "Amazon Pharmacy"
+  ]
+},
+
+{
+  "id": "solar-moving-head-buddha-solar-crown-pack-1",
+  "name": "Solar Moving Head Buddha Statue",
+  "brand": "Generic",
+  "category": "home & garden",
+  "subCategory": "garden decor",
+  "price": 1599,
+  "discountPrice": 449,
+  "discountRate": 72,
+  "rating": 4.2,
+  "reviews": 28,
+  "ratingText": "4.2 out of 5 stars",
+  "reviewText": "Based on 28 customer ratings on Amazon",
+  "badge": "",
+
+  "shortLink": "https://link.amazon/B0h4CKZAU",
+  "fullLink": "https://www.amazon.in/gp/product/B0F9QYGRG4?smid=A24OLKBZ1SO012&th=1&linkCode=ll2&tag=valdio-21&linkId=179df46c000826a45b61861c9c0108cf&ref_=as_li_ss_tl",
+  "image": "https://m.media-amazon.com/images/I/41ETD-LaETL.jpg",
+
+  "description": "A solar-powered moving head Buddha decorative statue designed for gardens, patios, balconies, and outdoor spaces. The built-in solar panel powers the gently moving head, creating a calming and eye-catching display without requiring batteries or electrical wiring.",
+
+  "features": [
+    "Solar-powered operation",
+    "Automatic moving head mechanism",
+    "No batteries or external power required",
+    "Weather-resistant for outdoor use",
+    "Ideal for gardens, balconies, patios and lawns",
+    "Easy to install—simply place in sunlight",
+    "Decorative Buddha design for a peaceful ambience",
+    "Maintenance-free solar operation"
+  ],
+
+  "variants": [
+    {
+      "color": "SOLAR CROWN BUDDH",
+      "price": 449,
+      "mrp": 1599,
+      "discountRate": 72
+    },
+    {
+      "color": "SOLAR FAN BUDDHA",
+      "price": 600,
+      "mrp": 1599,
+      "discountRate": 62
+    },
+    {
+      "color": "SOLAR GOLDEN CHAKRA BUDDHA",
+      "price": 489,
+      "mrp": 1999,
+      "discountRate": 76
+    }
+  ],
+
+  "availableColors": [
+    "Solar Crown Buddha",
+    "Solar Fan Buddha",
+    "Solar Golden Chakra Buddha"
+  ],
+
+  "productDetails": {
+    "brand": "Generic",
+    "theme": "Garden",
+    "style": "Flower",
+    "material": "Plastic",
+    "color": "Solar Crown Buddha",
+    "dimensions": "10 × 6 × 12 cm",
+    "recommendedUse": [
+      "Garden Decoration",
+      "Patio Decor",
+      "Balcony Decor",
+      "Lawn Decoration",
+      "Car Dashboard Decoration"
+    ],
+    "powerSource": "Solar Energy",
+    "installation": "No wiring or batteries required"
+  },
+
+  "deliveryInfo": {
+    "delivery": "Amazon Delivered",
+    "returnPolicy": "10 Days Returnable",
+    "cashOnDelivery": false,
+    "freeDelivery": true,
+    "secureTransaction": true
+  },
+
+  "offers": {
+    "coupon": "5% coupon available on eligible orders",
+    "cashback": "Up to ₹13 Amazon Pay cashback on eligible ICICI Amazon Pay Credit Cards",
+    "bankOffer": "Up to ₹1,200 instant discount on select Credit Cards and SBI Debit Cards",
+    "partnerOffer": "GST invoice available for eligible business purchases",
+    "upiReward": "Earn 44 Amazon Pay Rewards points on eligible UPI payments"
+  },
+
+  "additionalInfo": {
+    "idealFor": [
+      "Home Garden",
+      "Balcony",
+      "Patio",
+      "Outdoor Decoration",
+      "Gift Item",
+      "Meditation Corner"
+    ],
+    "packageContents": [
+      "1 Solar Moving Head Buddha Statue"
+    ]
+  },
+
+  "tags": [
+    "Solar Decor",
+    "Buddha Statue",
+    "Garden Decor",
+    "Outdoor Decoration",
+    "Solar Powered",
+    "Moving Head Buddha",
+    "Patio Decor",
+    "Balcony Decor",
+    "Weather Resistant",
+    "Home Decoration",
+    "Meditation Decor",
+    "Generic"
+  ]
 }
 ]
