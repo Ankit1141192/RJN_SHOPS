@@ -26767,5 +26767,151 @@
     "Mercury Free",
     "Indoor Lighting"
   ]
+},
+
+{
+  "id": "himalaya-baby-massage-oil-500ml-olive",
+  "name": "Himalaya Baby Massage Oil",
+  "brand": "Himalaya",
+  "category": "baby care",
+  "subCategory": "baby massage oil",
+  "price": 520,
+  "discountPrice": 374,
+  "discountRate": 28,
+  "rating": 4.4,
+  "reviews": 47204,
+  "ratingText": "4.4 out of 5 stars",
+  "reviewText": "Based on 47,204 customer ratings on Amazon",
+  "badge": "Top Brand",
+
+  "shortLink": "https://link.amazon/B08v4wTFR",
+  "fullLink": "https://www.amazon.in/Himalaya-Baby-Massage-Oil-500ml/dp/B00NOKRPD8?crid=2I0G8QBO24250&dib=eyJ2IjoiMSJ9.ZHgG5LbuTL5BFh9EzAYXXiwAxvlmsXkS4oCqMVcTS-vx_5d4EWXEkvQ0BbPEJCzD-dxagH6c-CaS5hphFWq6xg7Y4fgRsAncLzZhgxC7eRU8ruGq99O6kTM_SJk7bgH9GZqxLvp8uYmJOQJ_tHWWjVspK4rqMPgt9XvzVa9Nhcbs6G8iR9TTgwZPqLK-dghtcC6Sj7SLt2InchiOEEwdRf44ZUhemU-Oz0QXLsAdhLgqFHDVzClJbu7UT3FLPipBZ06pmJPQmpgVgPY3_YNaVlHyZzJdgs0SGFUaMNwlRi0._fqwYIULj26XRTwitVwl61VQKA5Hhxw97CslojwAm8Q&dib_tag=se&keywords=himalaya%2Bbaby%2Boil&qid=1785951753&sprefix=himalaya%2Bbaby%2Boi%2Caps%2C339&sr=8-6&th=1&linkCode=ll2&tag=valdio-21&linkId=dba803cca96d588b9538c04a4c84be13&ref_=as_li_ss_tl",
+  "image": "https://m.media-amazon.com/images/I/61tVKJowJaL._SL1500_.jpg",
+
+  "description": "Himalaya Baby Massage Oil is a gentle, mineral oil-free massage oil enriched with Ashwagandha, Country Mallow, Aloe Vera, and Vitamin E. Formulated to support a baby's all-round growth, it helps strengthen bones and muscles, improves blood circulation, nourishes delicate skin, and is suitable for newborns and babies of all ages.",
+
+  "features": [
+    "Supports baby's all-round growth",
+    "Helps strengthen bones and muscles",
+    "Enriched with Ashwagandha, Country Mallow and Aloe Vera",
+    "Contains Vitamin E for healthy skin",
+    "99% natural origin ingredients (NOI)",
+    "Mineral oil free",
+    "Dermatologically tested",
+    "Hypoallergenic formula",
+    "Free from parabens, phthalates and harsh chemicals",
+    "Suitable for newborns and babies of all ages"
+  ],
+
+  "variants": [
+    {
+      "size": "50 ml",
+      "price": 50,
+      "mrp": 65,
+      "discountRate": 23
+    },
+    {
+      "size": "100 ml",
+      "price": 140,
+      "mrp": 150,
+      "discountRate": 7
+    },
+    {
+      "size": "200 ml",
+      "price": 189,
+      "mrp": 210,
+      "discountRate": 10
+    },
+    {
+      "size": "200 ml (Pack of 2)",
+      "price": 378,
+      "mrp": 420,
+      "discountRate": 10
+    },
+    {
+      "size": "500 ml",
+      "price": 374,
+      "mrp": 520,
+      "discountRate": 28
+    },
+    {
+      "size": "500 ml (Pack of 2)",
+      "price": 769,
+      "mrp": 1030,
+      "discountRate": 25
+    }
+  ],
+
+  "availableStyles": [
+    "Massage Coconut Oil",
+    "Massage Mustard Oil",
+    "Massage Olive Oil"
+  ],
+
+  "productDetails": {
+    "brand": "Himalaya",
+    "itemForm": "Oil",
+    "volume": "500 ml",
+    "ageGroup": "Newborns and Babies",
+    "skinType": "All Skin Types",
+    "activeIngredients": [
+      "Vitamin E",
+      "Ashwagandha",
+      "Country Mallow",
+      "Aloe Vera"
+    ],
+    "specialFeatures": [
+      "Mineral Oil Free",
+      "Hypoallergenic",
+      "Dermatologically Tested",
+      "Paraben Free",
+      "Phthalate Free",
+      "99% Natural Origin Ingredients"
+    ],
+    "scent": "Massage Olive Oil",
+    "expiry": "30 JAN 2027"
+  },
+
+  "deliveryInfo": {
+    "delivery": "Amazon Delivered",
+    "returnPolicy": "Non-Returnable",
+    "cashOnDelivery": true,
+    "freeDelivery": true,
+    "secureTransaction": true
+  },
+
+  "offers": {
+    "cashback": "Up to ₹11 Amazon Pay Balance cashback on eligible Amazon Pay ICICI Bank Credit Cards",
+    "bankOffer": "Up to ₹56.10 instant discount on select Credit Cards and SBI Debit Cards",
+    "partnerOffer": "Buy 3 and get 5% off on eligible products",
+    "upiReward": "Earn 37 Amazon Pay Rewards points on eligible UPI payments"
+  },
+
+  "additionalInfo": {
+    "recommendedFor": [
+      "Daily Baby Massage",
+      "Newborn Care",
+      "Infant Skin Care",
+      "Baby Wellness"
+    ],
+    "packageContents": [
+      "1 × Himalaya Baby Massage Oil (500 ml)"
+    ]
+  },
+
+  "tags": [
+    "Himalaya",
+    "Baby Massage Oil",
+    "Baby Care",
+    "Massage Oil",
+    "Vitamin E",
+    "Ashwagandha",
+    "Aloe Vera",
+    "Country Mallow",
+    "Mineral Oil Free",
+    "Hypoallergenic",
+    "Newborn Care",
+    "500ml"
+  ]
 }
 ]
