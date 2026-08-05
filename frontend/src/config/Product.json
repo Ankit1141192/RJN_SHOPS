@@ -26487,5 +26487,285 @@
     "Meditation Decor",
     "Generic"
   ]
+},
+
+{
+  "id": "milton-duo-dlx-1000-thermosteel-1l-silver",
+  "name": "Milton Duo DLX 1000 Thermosteel Water Bottle",
+  "brand": "MILTON",
+  "category": "home & kitchen",
+  "subCategory": "insulated water bottles",
+  "price": 1365,
+  "discountPrice": 999,
+  "discountRate": 27,
+  "rating": 4.4,
+  "reviews": 75750,
+  "ratingText": "4.4 out of 5 stars",
+  "reviewText": "Based on 75,750 customer ratings on Amazon",
+  "badge": "Top Brand",
+
+  "shortLink": "https://link.amazon/B0btl5Pn9",
+  "fullLink": "https://www.amazon.in/gp/product/B00JDACK3S?smid=A1WI4RWMH2OKKI&th=1&linkCode=ll2&tag=valdio-21&linkId=a138e4db94040177a3cb575f279b580c&ref_=as_li_ss_tl",
+  "image": "https://m.media-amazon.com/images/I/518vfYI5WJL._SL1500_.jpg",
+
+  "description": "The Milton Duo DLX 1000 is a premium double-wall vacuum insulated stainless steel water bottle with a 1-litre capacity. Built with SS304 stainless steel and copper coating, it keeps beverages hot or cold for up to 24 hours while offering a leak-proof design, ISI certification, and a 1-year warranty.",
+
+  "features": [
+    "24 hours hot and cold insulation",
+    "Double-wall vacuum insulated technology",
+    "Premium SS304 stainless steel construction",
+    "Copper-coated inner wall for enhanced temperature retention",
+    "Leak-proof design",
+    "ISI certified quality",
+    "Rust-resistant and durable",
+    "Suitable for office, school, gym, travel and home",
+    "1-year manufacturer warranty",
+    "Reusable and eco-friendly"
+  ],
+
+  "variants": [
+    {
+      "color": "Silver",
+      "price": 999,
+      "mrp": 1365,
+      "discountRate": 27
+    },
+    {
+      "color": "Green Purple",
+      "price": 1040,
+      "mrp": 1300,
+      "discountRate": 20
+    },
+    {
+      "color": "Matt Black",
+      "price": 1089,
+      "mrp": 1365,
+      "discountRate": 20
+    },
+    {
+      "color": "Matt Blue",
+      "price": 1091,
+      "mrp": 1250,
+      "discountRate": 13
+    },
+    {
+      "color": "Matt Green",
+      "price": 1091,
+      "mrp": 1365,
+      "discountRate": 20
+    },
+    {
+      "color": "Peach Purple",
+      "price": 1040,
+      "mrp": 1160,
+      "discountRate": 10
+    }
+  ],
+
+  "availableColors": [
+    "Silver",
+    "Green Purple",
+    "Matt Black",
+    "Matt Blue",
+    "Matt Green",
+    "Peach Purple"
+  ],
+
+  "productDetails": {
+    "brand": "MILTON",
+    "capacity": "1000 ml",
+    "material": "SS304 Stainless Steel",
+    "insulation": "Double Wall Vacuum Insulated",
+    "temperatureRetention": "Keeps beverages hot or cold for up to 24 hours",
+    "specialFeatures": [
+      "Leak Proof",
+      "Copper Coating",
+      "ISI Certified",
+      "Reusable",
+      "BPA Free"
+    ],
+    "recommendedUses": [
+      "Water",
+      "Tea",
+      "Coffee",
+      "Cold Beverages"
+    ]
+  },
+
+  "deliveryInfo": {
+    "delivery": "Amazon Delivered",
+    "returnPolicy": "10 Days Returnable",
+    "cashOnDelivery": false,
+    "freeDelivery": true,
+    "warranty": "1 Year Manufacturer Warranty"
+  },
+
+  "offers": {
+    "cashback": "Up to ₹29 Amazon Pay Balance cashback on eligible Amazon Pay ICICI Bank Credit Cards",
+    "bankOffer": "Up to ₹1,250 instant discount on select Credit Cards and SBI Debit Cards",
+    "partnerOffer": "GST invoice available for eligible business purchases",
+    "upiReward": "Earn 99 Amazon Pay Rewards points on eligible UPI payments"
+  },
+
+  "additionalInfo": {
+    "idealFor": [
+      "Office",
+      "School",
+      "College",
+      "Gym",
+      "Travel",
+      "Outdoor Activities",
+      "Home"
+    ],
+    "packageContents": [
+      "1 x Milton Duo DLX 1000 Thermosteel Water Bottle"
+    ]
+  },
+
+  "tags": [
+    "Milton",
+    "Thermosteel",
+    "Water Bottle",
+    "Vacuum Insulated",
+    "Hot and Cold Bottle",
+    "SS304",
+    "1 Litre Bottle",
+    "Leak Proof",
+    "Travel Bottle",
+    "Reusable Bottle",
+    "ISI Certified",
+    "Stainless Steel Bottle"
+  ]
+},
+
+{
+  "id": "eveready-40w-led-hammer-bulb-b22-pack-of-2",
+  "name": "Eveready 40W LED Hammer Bulb",
+  "brand": "EVEREADY",
+  "category": "home improvement",
+  "subCategory": "led bulbs",
+  "price": 1998,
+  "discountPrice": 689,
+  "discountRate": 66,
+  "rating": 4.2,
+  "reviews": 162,
+  "ratingText": "4.2 out of 5 stars",
+  "reviewText": "Based on 162 customer ratings on Amazon",
+  "badge": "Top Brand",
+
+  "shortLink": "https://link.amazon/B05cVtL0U",
+  "fullLink": "https://www.amazon.in/Eveready-Efficiency-Efficient-Mercury-Free-Protection/dp/B0D66C68HM?crid=MA2MTPAZO17D&dib=eyJ2IjoiMSJ9.vQkPgWlC-LBSjzGSy0x0htY4j1KKftTwCwcU-2Zuj7-xtykdxZPQAgRFLfz4H24HnBBY74Um8giK3J5mdggiMTvIFXo4VxBki_dCYrJucr_gKHimMRBqYTVcUy4z2DrrK4DcV6VxZ3KDgfOPpdfedOJPfT0dcYfZEtUMkoSDu_XCFpwwfCw9bum5v0_qKyHeB1WM4DQ-_dhLpSZQbRcVAIaoIeRP4ktPbcEHui5b8667Cwfa0ADUp5Nu0ayv8fQobWIhYDfuJaNcJxnnb0mRVecO5Oi28GvR70iUi3tx8ro.qcmI2F269xEX_A0PiJIpPUa_3lLh1470GkqD5xXjiic&dib_tag=se&keywords=40%2Bwatt%2Bled%2Bbulb&qid=1785950137&sprefix=40%2Bwatt%2Bled%2Bbulb%2Caps%2C317&sr=8-6&th=1&linkCode=ll2&tag=valdio-21&linkId=b83b4d43748cee7e71b71b7322912964&ref_=as_li_ss_tl",
+  "image": "https://m.media-amazon.com/images/I/51CIhQkai1L._SL1000_.jpg",
+
+  "description": "Eveready 40W LED Hammer Bulb delivers bright Cool Day Light (6500K) with high energy efficiency of 100 lumens per watt. Featuring high CRI, 4KV surge protection, BIS certification, and a mercury-free design, it is ideal for utility areas, workshops, garages, retail shops, and other indoor spaces requiring powerful illumination.",
+
+  "features": [
+    "40W high brightness LED Hammer Bulb",
+    "100 lumens per watt energy efficiency",
+    "Cool Day Light (6500K)",
+    "High CRI for accurate colour rendering",
+    "4KV surge protection",
+    "Mercury-free eco-friendly design",
+    "BIS certified",
+    "Built-in constant current driver for glare-free lighting",
+    "Uniform light distribution",
+    "Long lifespan with reduced replacement frequency"
+  ],
+
+  "variants": [
+    {
+      "wattage": "30W",
+      "base": "B22"
+    },
+    {
+      "wattage": "40W",
+      "base": "B22",
+      "price": 689,
+      "mrp": 1998,
+      "discountRate": 66
+    },
+    {
+      "wattage": "50W",
+      "base": "B22"
+    },
+    {
+      "wattage": "60W",
+      "base": "B22"
+    }
+  ],
+
+  "availablePackSizes": [
+    "1 Count",
+    "2 Count",
+    "3 Count",
+    "4 Count",
+    "6 Count",
+    "10 Count"
+  ],
+
+  "productDetails": {
+    "brand": "EVEREADY",
+    "lightType": "LED",
+    "wattage": "40 Watts",
+    "bulbBase": "B22D",
+    "lightColor": "Cool White",
+    "colorTemperature": "6500K",
+    "brightness": "100 Lumens per Watt",
+    "specialFeatures": [
+      "High Efficiency",
+      "High CRI",
+      "4KV Surge Protection",
+      "Constant Current Driver",
+      "Mercury Free",
+      "Wide Voltage Operation"
+    ],
+    "indoorOutdoorUsage": "Indoor",
+    "powerSource": "Electrical"
+  },
+
+  "deliveryInfo": {
+    "delivery": "Amazon Delivered",
+    "returnPolicy": "10 Days Replacement",
+    "cashOnDelivery": true,
+    "freeDelivery": true,
+    "secureTransaction": true
+  },
+
+  "offers": {
+    "cashback": "Up to ₹20 Amazon Pay Balance cashback on eligible Amazon Pay ICICI Bank Credit Cards",
+    "bankOffer": "Up to ₹1,250 instant discount on select Credit Cards and SBI Debit Cards",
+    "partnerOffer": "GST invoice available for eligible business purchases",
+    "upiReward": "Earn 68 Amazon Pay Rewards points on eligible UPI payments"
+  },
+
+  "additionalInfo": {
+    "idealFor": [
+      "Home",
+      "Utility Areas",
+      "Garages",
+      "Workshops",
+      "Retail Stores",
+      "Warehouses",
+      "Small Shops"
+    ],
+    "packageContents": [
+      "2 × Eveready 40W LED Hammer Bulbs"
+    ]
+  },
+
+  "tags": [
+    "Eveready",
+    "LED Bulb",
+    "Hammer Bulb",
+    "40W",
+    "B22",
+    "Cool White",
+    "6500K",
+    "High CRI",
+    "Energy Efficient",
+    "Surge Protection",
+    "Mercury Free",
+    "Indoor Lighting"
+  ]
 }
 ]
