@@ -28065,5 +28065,560 @@
     "Office Decor",
     "Artificial Greenery"
   ]
+},
+
+{
+  "id": "wipro-garnet-3w-led-mini-downlight-warm-white-pack-1",
+  "name": "Wipro Garnet 3W LED Mini Downlight Warm White (2700K)",
+  "brand": "Wipro",
+  "category": "home improvement",
+  "subCategory": "led downlights",
+  "price": 270,
+  "discountPrice": 99,
+  "discountRate": 63,
+  "rating": 4.0,
+  "reviews": 1516,
+  "ratingText": "4.0 out of 5 stars",
+  "reviewText": "Based on 1,516 customer ratings on Amazon",
+  "badge": "Amazon's Choice",
+
+  "shortLink": "https://link.amazon/B0hTrFMA6",
+  "fullLink": "https://www.amazon.in/wipro-Polycarbonate-Downlight-Recessed-Cutout-2-3/dp/B09TDWNT9Z?crid=LA6R6WWBMUT2&dib=eyJ2IjoiMSJ9.AR8pEtyskG0g9wG2h8Ll62wglWxlOgUxLGACOwmof9wOZ-5TtwoU2eC8kIWsvGwbPxH-ybgsVxoeDwBmij2x6s5sIQXOL4JvDirZ_P9uZn3lIUFevujWI9QrcIHxN_vL2IjwB1eUvmeAy-b3H8Gg98eaMCeTvYl0ixoU5zBR3d6bqbm3-eiYCZsBhzTBJZplCXNjpWG_A7R9oaUZmmyinYB5NYOqUOYUOiHOxygi4tRTQiSVG3z7N68k_CYvIxfgHj-AB9lk_wrP9E4FgYQ7EX7zTkpTiCD--oD_THAikKg.6Ud0Bp1cAO-L_cBo0DV_JFZqbqkmQt7H-5Xkoq1LBh4&dib_tag=se&keywords=3%2Bwatt%2Bled%2Blight&qid=1786039434&sprefix=3%2Bwatt%2B%2Caps%2C367&sr=8-9&th=1&linkCode=ll2&tag=valdio-21&linkId=e4b93de12c04443872e22e2684d0471a&ref_=as_li_ss_tl",
+  "image": "https://m.media-amazon.com/images/I/71xavH7JstL._SL1500_.jpg",
+
+  "description": "The Wipro Garnet 3W LED Mini Downlight is a compact recessed ceiling light designed for false ceilings, wardrobes, cabinets, shelves, and accent lighting. It delivers warm white illumination (2700K), offers excellent energy efficiency, and features wide voltage protection for long-lasting, reliable performance.",
+
+  "features": [
+    "3W energy-efficient LED downlight",
+    "Warm White 2700K light",
+    "120° wide beam angle",
+    "Compact recessed ceiling design",
+    "Suitable for 2.3-inch cutout",
+    "Up to 50% energy saving",
+    "LM80 tested long-life LED",
+    "150V–300V wide operating voltage",
+    "400V high-voltage protection",
+    "2.5kV surge protection",
+    "Easy installation",
+    "Ideal for cabinets, wardrobes and false ceilings"
+  ],
+
+  "variants": [
+    {
+      "pack": "Pack of 1",
+      "price": 99,
+      "mrp": 270,
+      "discountRate": 63
+    },
+    {
+      "pack": "Pack of 2",
+      "price": 198,
+      "mrp": 540,
+      "discountRate": 63
+    },
+    {
+      "pack": "Pack of 4",
+      "price": 389,
+      "mrp": 1080,
+      "discountRate": 64
+    },
+    {
+      "pack": "Pack of 6",
+      "price": 575,
+      "mrp": 1620,
+      "discountRate": 65
+    },
+    {
+      "pack": "Pack of 12",
+      "price": 1099,
+      "mrp": 3240,
+      "discountRate": 66
+    },
+    {
+      "pack": "Pack of 20",
+      "price": 1699,
+      "mrp": 5400,
+      "discountRate": 69
+    }
+  ],
+
+  "availablePacks": [
+    "Pack of 1",
+    "Pack of 2",
+    "Pack of 4",
+    "Pack of 6",
+    "Pack of 12",
+    "Pack of 20"
+  ],
+
+  "productDetails": {
+    "brand": "Wipro",
+    "model": "Garnet Mini Downlight",
+    "wattage": "3W",
+    "lightColor": "Warm White",
+    "colorTemperature": "2700K",
+    "beamAngle": "120°",
+    "material": "Polycarbonate",
+    "style": "Modern",
+    "fixtureType": "Recessed Ceiling Downlight",
+    "cutoutSize": "2.3 Inches",
+    "dimensions": "8 × 8 × 4.5 cm",
+    "powerSource": "Corded Electric",
+    "voltageRange": "150–300 VAC",
+    "highVoltageProtection": "Up to 400 VAC",
+    "surgeProtection": "2.5 kV",
+    "ledCertification": "LM80 Tested",
+    "indoorOutdoor": "Indoor",
+    "roomType": "Living Room"
+  },
+
+  "deliveryInfo": {
+    "delivery": "Amazon Delivered",
+    "returnPolicy": "10 Days Returnable",
+    "cashOnDelivery": true,
+    "freeDelivery": true,
+    "secureTransaction": true,
+    "warranty": "Warranty Policy Available"
+  },
+
+  "offers": {
+    "cashback": "Up to ₹2 Amazon Pay Balance cashback on eligible Amazon Pay ICICI Bank Credit Cards",
+    "bankOffer": "Up to ₹1,500 instant discount on eligible HDFC Bank Credit Cards",
+    "partnerOffer": "Buy any 2 get 2% off; Buy any 3 get 10% off on eligible products"
+  },
+
+  "additionalInfo": {
+    "recommendedUses": [
+      "False Ceiling",
+      "Wardrobes",
+      "Cabinets",
+      "Shelves",
+      "Living Room",
+      "Home Accent Lighting",
+      "Hospitality",
+      "Commercial Spaces"
+    ],
+    "availableLightColors": [
+      "Warm White (2700K)",
+      "Cool Day White",
+      "Blue",
+      "Red",
+      "Green"
+    ],
+    "availableWattages": [
+      "3W",
+      "8W",
+      "15W"
+    ]
+  },
+
+  "tags": [
+    "Wipro",
+    "LED Downlight",
+    "Mini Downlight",
+    "Warm White",
+    "False Ceiling Light",
+    "Recessed Light",
+    "Cabinet Light",
+    "Wardrobe Light",
+    "3W LED",
+    "Accent Lighting",
+    "Indoor Lighting"
+  ]
+},
+{
+  "id": "little-angel-baby-easy-dry-diaper-pants-large-62",
+  "name": "Little Angel Baby Easy Dry Diaper Pants - Large (62 Pieces)",
+  "brand": "Little Angel",
+  "category": "baby care",
+  "subCategory": "baby diapers",
+  "price": 1099,
+  "discountPrice": 489,
+  "discountRate": 56,
+  "rating": 3.7,
+  "reviews": 4124,
+  "ratingText": "3.7 out of 5 stars",
+  "reviewText": "Based on 4,124 customer ratings on Amazon",
+  "badge": "Top Brand",
+
+  "shortLink": "https://link.amazon/B02CUxnCJ",
+  "fullLink": "https://www.amazon.in/gp/product/B0CNK44YP8?smid=A15APWRK6P7LBV&th=1&linkCode=ll2&tag=valdio-21&linkId=2b07000fe15cf23608474793f5ea00c6&ref_=as_li_ss_tl",
+  "image": "https://m.media-amazon.com/images/I/81RM7is8qtL._SL1500_.jpg",
+
+  "description": "Little Angel Baby Easy Dry Diaper Pants are designed to provide up to 12 hours of absorption with a super absorbent core for overnight dryness. These pant-style disposable diapers feature a soft cotton-like material, breathable air-fresh cover, and flexible waistband for a comfortable, leak-proof fit suitable for babies weighing 9–14 kg.",
+
+  "features": [
+    "Up to 12 hours absorption",
+    "Super absorbent core",
+    "Cottony soft material",
+    "Pant-style diaper",
+    "Leak-proof stretchable waistband",
+    "Breathable air-fresh cover",
+    "Dermatologically tested",
+    "Rash-free material",
+    "Easy pull-on and tear-off removal",
+    "Disposable diaper"
+  ],
+
+  "variants": [
+    {
+      "size": "Large",
+      "weightRange": "9-14 kg",
+      "unitCount": 62,
+      "price": 489,
+      "mrp": 1099,
+      "discountRate": 56
+    },
+    {
+      "size": "Large",
+      "unitCount": 124,
+      "price": 899,
+      "mrp": 2058,
+      "discountRate": 56
+    },
+    {
+      "size": "XS"
+    },
+    {
+      "size": "S"
+    },
+    {
+      "size": "M"
+    },
+    {
+      "size": "XL"
+    },
+    {
+      "size": "XXL"
+    }
+  ],
+
+  "availableSizes": [
+    "XS",
+    "S",
+    "M",
+    "Large",
+    "XL",
+    "XXL"
+  ],
+
+  "availablePackOptions": [
+    "62 Count",
+    "124 Count",
+    "Pack of 2",
+    "Pack of 3"
+  ],
+
+  "productDetails": {
+    "brand": "Little Angel",
+    "productType": "Baby Diaper Pants",
+    "size": "Large",
+    "recommendedWeight": "9-14 kg",
+    "ageGroup": "Infant",
+    "material": "Cotton",
+    "materialTypeFree": "Rash Free",
+    "color": "Blue",
+    "reusability": "Disposable",
+    "numberOfItems": 62,
+    "netQuantity": "62 Count",
+    "absorptionTime": "Up to 12 Hours"
+  },
+
+  "deliveryInfo": {
+    "delivery": "Amazon Delivered",
+    "returnPolicy": "Non-Returnable",
+    "cashOnDelivery": true,
+    "freeDelivery": true,
+    "secureTransaction": true
+  },
+
+  "offers": {
+    "cashback": "5% Amazon Pay ICICI Bank Credit Card cashback for Prime members (3% for others, where eligible)",
+    "bankOffer": "10% instant discount up to ₹1,250 on eligible HDFC Bank Credit Cards",
+    "upiReward": "Earn 48 Amazon Pay Rewards points on eligible UPI payments"
+  },
+
+  "additionalInfo": {
+    "expiry": "02 Jan 2027",
+    "recommendedUses": [
+      "Daytime Use",
+      "Nighttime Use",
+      "Overnight Protection",
+      "Daily Baby Care"
+    ],
+    "keyBenefits": [
+      "Leak protection",
+      "Long-lasting dryness",
+      "Breathable comfort",
+      "Gentle on sensitive skin",
+      "Comfortable fit"
+    ]
+  },
+
+  "tags": [
+    "Little Angel",
+    "Baby Diapers",
+    "Diaper Pants",
+    "Large Diapers",
+    "Disposable Diapers",
+    "12 Hour Absorption",
+    "Cotton Soft",
+    "Rash Free",
+    "Infant Care",
+    "Baby Care"
+  ]
+},
+
+{
+  "id": "mamaearth-onion-hair-oil-redensyl-200ml",
+  "name": "Mamaearth Onion Hair Oil with Onion Oil & Redensyl for Hair Fall Control",
+  "brand": "Mamaearth",
+  "category": "beauty & personal care",
+  "subCategory": "hair oil",
+  "price": 499,
+  "discountPrice": 250,
+  "discountRate": 50,
+  "rating": 4.0,
+  "reviews": 17985,
+  "ratingText": "4.0 out of 5 stars",
+  "reviewText": "Based on 17,985 customer ratings on Amazon",
+  "badge": "Top Brand",
+
+  "shortLink": "https://link.amazon/B0epVUCuc",
+  "fullLink": "https://www.amazon.in/gp/product/B0CGTZ7CW9?smid=A61C6NUFGVGS7&th=1&linkCode=ll2&tag=valdio-21&linkId=071c1adfa72dabfd3ffc45c8ee912285&ref_=as_li_ss_tl",
+  "image": "https://m.media-amazon.com/images/I/51IG5jOsNcL._SL1200_.jpg",
+
+  "description": "Mamaearth Onion Hair Oil is formulated with Onion Oil and Redensyl to help reduce hair fall, promote healthier hair growth, and strengthen hair from the roots. Enriched with Castor Oil and Almond Oil, it nourishes the scalp, improves hair shine, and is suitable for all hair types.",
+
+  "features": [
+    "Helps reduce hair fall",
+    "Promotes hair growth with Redensyl",
+    "Strengthens hair from the roots",
+    "Adds natural shine",
+    "Nourishes and balances the scalp",
+    "Dermatologically tested",
+    "Suitable for all hair types",
+    "Free from Sulfates",
+    "Free from Parabens",
+    "Free from SLS",
+    "Free from Petroleum",
+    "No Artificial Preservatives or Colors"
+  ],
+
+  "variants": [
+    {
+      "size": "200 ml",
+      "price": 250,
+      "mrp": 499,
+      "discountRate": 50
+    },
+    {
+      "size": "250 ml",
+      "price": 506,
+      "mrp": 599,
+      "discountRate": 16
+    }
+  ],
+
+  "availableSizes": [
+    "200 ml",
+    "250 ml"
+  ],
+
+  "productDetails": {
+    "brand": "Mamaearth",
+    "productType": "Hair Oil",
+    "itemForm": "Oil",
+    "scent": "Onion",
+    "netQuantity": "200 ml",
+    "itemWeight": "200 g",
+    "ageRange": "Adult",
+    "hairType": "All Hair Types",
+    "dermatologicallyTested": true
+  },
+
+  "ingredients": {
+    "keyIngredients": [
+      "Onion Oil",
+      "Redensyl",
+      "Castor Oil",
+      "Almond Oil"
+    ],
+    "freeFrom": [
+      "Sulfates",
+      "Parabens",
+      "SLS",
+      "Petroleum",
+      "Artificial Preservatives",
+      "Artificial Colors"
+    ]
+  },
+
+  "benefits": [
+    "Boosts hair growth",
+    "Controls hair fall",
+    "Strengthens weak hair",
+    "Improves scalp nourishment",
+    "Enhances natural shine",
+    "Supports healthier-looking hair"
+  ],
+
+  "deliveryInfo": {
+    "delivery": "Amazon Delivered",
+    "returnPolicy": "Non-Returnable",
+    "cashOnDelivery": true,
+    "freeDelivery": true,
+    "secureTransaction": true
+  },
+
+  "offers": {
+    "cashback": "Up to ₹7 Amazon Pay Balance cashback on eligible Amazon Pay ICICI Bank Credit Cards",
+    "bankOffer": "Up to ₹1,500 instant discount on eligible HDFC Bank Credit Cards",
+    "partnerOffer": "Buy 2 or more and get 10% off on eligible products",
+    "upiReward": "Earn 25 Amazon Pay Rewards points on eligible UPI payments"
+  },
+
+  "additionalInfo": {
+    "expiry": "18 Mar 2028",
+    "recommendedUsage": [
+      "Massage gently into scalp",
+      "Leave on for a few hours or overnight",
+      "Wash with a mild shampoo",
+      "Use regularly for best results"
+    ]
+  },
+
+  "tags": [
+    "Mamaearth",
+    "Onion Hair Oil",
+    "Hair Oil",
+    "Hair Fall Control",
+    "Hair Growth",
+    "Redensyl",
+    "Castor Oil",
+    "Almond Oil",
+    "Natural Hair Care",
+    "Sulfate Free",
+    "Paraben Free"
+  ]
+},
+{
+  "id": "little-angel-baby-easy-dry-diaper-pants-large-124-pack2",
+  "name": "Little Angel Baby Easy Dry Diaper Pants With 12 Hrs Absorption Large (L) Size, 124 Count (Pack of 2)",
+  "brand": "Little Angel",
+  "category": "baby care",
+  "subCategory": "baby diapers",
+  "price": 2058,
+  "discountPrice": 899,
+  "discountRate": 56,
+  "rating": 3.7,
+  "reviews": 4124,
+  "ratingText": "3.7 out of 5 stars",
+  "reviewText": "Based on 4,124 customer ratings on Amazon",
+  "badge": "Top Brand",
+
+  "shortLink": "https://link.amazon/B0jkmXgOb",
+  "fullLink": "https://www.amazon.in/gp/product/B0CPBWW1KB?th=1&linkCode=ll2&tag=valdio-21&linkId=a8b33bb35aa3b3ab08ff89f146152edd&ref_=as_li_ss_tl",
+  "image": "https://m.media-amazon.com/images/I/81vNgxRzOmL._SL1500_.jpg",
+
+  "description": "Little Angel Baby Easy Dry Diaper Pants are designed for babies weighing 9–14 kg. Featuring a super absorbent core that provides up to 12 hours of dryness, these cottony-soft diaper pants help keep your baby's skin dry, comfortable, and rash-free throughout the day and night.",
+
+  "features": [
+    "Up to 12 hours absorption",
+    "Super absorbent core",
+    "Ultra-soft cottony material",
+    "Rash-free design",
+    "Pant-style diapers",
+    "Stretchable waistband",
+    "Leak-proof fit",
+    "Breathable air-fresh cover",
+    "Dermatologically tested",
+    "Easy pull-on and tear-off removal"
+  ],
+
+  "variants": [
+    {
+      "size": "Large (62 Count)",
+      "weightRange": "9-14 kg",
+      "price": 489,
+      "mrp": 1099,
+      "discountRate": 56
+    },
+    {
+      "size": "Large (124 Count, Pack of 2)",
+      "weightRange": "9-14 kg",
+      "price": 899,
+      "mrp": 2058,
+      "discountRate": 56
+    }
+  ],
+
+  "availableSizes": [
+    "XS",
+    "S",
+    "M",
+    "L",
+    "XL",
+    "XXL"
+  ],
+
+  "productDetails": {
+    "brand": "Little Angel",
+    "productType": "Baby Diaper Pants",
+    "size": "Large (L)",
+    "weightRange": "9-14 kg",
+    "netQuantity": "124 Count",
+    "packSize": "Pack of 2",
+    "material": "Cotton",
+    "color": "White",
+    "ageRange": "Infant",
+    "reusability": "Disposable",
+    "materialTypeFree": "Rash Free"
+  },
+
+  "benefits": [
+    "Keeps baby dry for up to 12 hours",
+    "Helps prevent rashes and irritation",
+    "Provides overnight protection",
+    "Soft and gentle on delicate skin",
+    "Comfortable breathable fit",
+    "Easy to wear and remove",
+    "Leak-proof protection"
+  ],
+
+  "deliveryInfo": {
+    "delivery": "Amazon Delivered",
+    "returnPolicy": "Non-Returnable",
+    "cashOnDelivery": true,
+    "freeDelivery": true,
+    "secureTransaction": true
+  },
+
+  "offers": {
+    "coupon": "Extra 10% coupon available",
+    "cashback": "Up to 5% Amazon Pay ICICI Bank Credit Card cashback",
+    "bankOffer": "10% Instant Discount on eligible HDFC Bank Credit Cards",
+    "upiReward": "Earn 89 Amazon Pay Rewards points on eligible UPI payments"
+  },
+
+  "additionalInfo": {
+    "expiry": "03 Mar 2027",
+    "unitPrice": "₹7.25 per diaper"
+  },
+
+  "tags": [
+    "Little Angel",
+    "Baby Diapers",
+    "Diaper Pants",
+    "Large Diapers",
+    "9-14 kg",
+    "12 Hours Protection",
+    "Disposable Diapers",
+    "Baby Care",
+    "Rash Free",
+    "Cotton Soft",
+    "Leak Proof"
+  ]
 }
+
 ]
