@@ -26913,5 +26913,1157 @@
     "Newborn Care",
     "500ml"
   ]
+},
+
+{
+  "id": "sphinx-decorative-glass-vase-black-9-inch",
+  "name": "SPHINX Decorative Glass Vase",
+  "brand": "SPHINX",
+  "category": "home & kitchen",
+  "subCategory": "decorative vases",
+  "price": 999,
+  "discountPrice": 269,
+  "discountRate": 73,
+  "rating": 4.2,
+  "reviews": 1660,
+  "ratingText": "4.2 out of 5 stars",
+  "reviewText": "Based on 1,660 customer ratings on Amazon",
+  "badge": "Amazon's Choice",
+
+  "shortLink": "https://link.amazon/B07lUk2OP",
+  "fullLink": "https://www.amazon.in/gp/product/B0CV84FXSN?smid=A1004EMV11IX47&th=1&linkCode=ll2&tag=valdio-21&linkId=d8eaeeb680a5daabe2b2aeead751eb30&ref_=as_li_ss_tl",
+  "image": "https://m.media-amazon.com/images/I/613h1hzV-TL._SL1082_.jpg",
+
+  "description": "The SPHINX Decorative Glass Vase features a modern tapered cylinder design with a premium luster finish that enhances any living room, office, bedroom, or tabletop. Ideal for dried flowers, artificial arrangements, decorative stems, or as a standalone centerpiece. The transparent variants can also be used with fresh flowers and water.",
+
+  "features": [
+    "Premium decorative glass vase",
+    "Modern tapered cylinder design",
+    "Elegant luster finish",
+    "Perfect for home and office décor",
+    "Suitable for tabletops, shelves and center tables",
+    "Ideal for dried flowers and artificial plants",
+    "Transparent variants support fresh flowers with water",
+    "Smooth surface for easy cleaning",
+    "Lightweight and durable construction",
+    "Excellent gift for housewarming, weddings and birthdays"
+  ],
+
+  "variants": [
+    {
+      "model": "Black, 9 Inches",
+      "price": 269,
+      "mrp": 999,
+      "discountRate": 73
+    },
+    {
+      "model": "Clear, 9 Inches",
+      "price": 279,
+      "mrp": 999,
+      "discountRate": 72
+    },
+    {
+      "model": "Crystal Amber, 9 Inches",
+      "price": 299
+    },
+    {
+      "model": "Green, 9 Inches",
+      "price": 327,
+      "mrp": 999,
+      "discountRate": 67
+    },
+    {
+      "model": "Mercury Gold Cylinder, 9 Inches",
+      "price": 363,
+      "mrp": 999,
+      "discountRate": 64
+    },
+    {
+      "model": "Amber Gold 2-Piece Set",
+      "price": 724,
+      "mrp": 999,
+      "discountRate": 28
+    },
+    {
+      "model": "Clear Golden Rim, 9 Inches",
+      "price": 499,
+      "mrp": 999,
+      "discountRate": 50
+    },
+    {
+      "model": "Iridescent, 9 Inches",
+      "price": 332,
+      "mrp": 999,
+      "discountRate": 67
+    },
+    {
+      "model": "Dark Amber Diamond Cut, 10 Inches",
+      "price": 598,
+      "mrp": 999,
+      "discountRate": 40
+    },
+    {
+      "model": "Green Diamond Cut, 10 Inches",
+      "price": 608,
+      "mrp": 999,
+      "discountRate": 39
+    }
+  ],
+
+  "availableColors": [
+    "Black",
+    "Clear",
+    "Crystal Amber",
+    "Green",
+    "Mercury Gold",
+    "Amber Gold",
+    "Clear Golden Rim",
+    "Iridescent",
+    "Dark Amber Diamond Cut",
+    "Green Diamond Cut"
+  ],
+
+  "productDetails": {
+    "brand": "SPHINX",
+    "material": "Glass",
+    "color": "Black",
+    "shape": "Tapered Cylinder",
+    "dimensions": {
+      "height": "22 cm (Approx. 9 Inches)",
+      "topDiameter": "6.5 cm",
+      "bottomDiameter": "10 cm"
+    },
+    "weight": "Approx. 300 g",
+    "recommendedUses": [
+      "Fresh Flowers",
+      "Artificial Flowers",
+      "Dried Flowers",
+      "Decorative Branches",
+      "Table Centerpiece",
+      "Home Decoration",
+      "Office Decoration"
+    ]
+  },
+
+  "deliveryInfo": {
+    "delivery": "Amazon Delivered",
+    "returnPolicy": "10 Days Returnable",
+    "cashOnDelivery": true,
+    "freeDelivery": true,
+    "secureTransaction": true,
+    "warranty": "Warranty Policy Available"
+  },
+
+  "offers": {
+    "cashback": "Up to ₹8 Amazon Pay Balance cashback on eligible Amazon Pay ICICI Bank Credit Cards",
+    "bankOffer": "Up to ₹1,250 instant discount on select Credit Cards and SBI Debit Cards",
+    "partnerOffer": "GST invoice available for eligible business purchases",
+    "upiReward": "Earn 26 Amazon Pay Rewards points on eligible UPI payments"
+  },
+
+  "additionalInfo": {
+    "packageContents": [
+      "1 × SPHINX Decorative Glass Vase"
+    ],
+    "careInstructions": [
+      "For coloured vases, place a small container inside before adding water for fresh flowers.",
+      "Transparent variants can be filled directly with water.",
+      "Clean with a soft cloth to preserve the glass finish."
+    ]
+  },
+
+  "tags": [
+    "SPHINX",
+    "Glass Vase",
+    "Flower Vase",
+    "Home Decor",
+    "Office Decor",
+    "Table Decor",
+    "Living Room Decor",
+    "Modern Vase",
+    "Decorative Vase",
+    "Glass Decoration",
+    "Centerpiece",
+    "Gift Item"
+  ]
+},
+
+{
+  "id": "vrb-dec-dahlia-artificial-flower-bunch-white",
+  "name": "VRB Dec Dahlia Artificial Flower Bunch",
+  "brand": "VRB Dec",
+  "category": "home & kitchen",
+  "subCategory": "artificial flowers",
+  "price": 1249,
+  "discountPrice": 269,
+  "discountRate": 78,
+  "rating": 3.9,
+  "reviews": 547,
+  "ratingText": "3.9 out of 5 stars",
+  "reviewText": "Based on 547 customer ratings on Amazon",
+  "badge": "Top Brand",
+
+  "shortLink": "https://link.amazon/B0atYecmk",
+  "fullLink": "https://www.amazon.in/gp/product/B0D7MDZY5C?smid=A3BQD278O11K4&th=1&linkCode=ll2&tag=valdio-21&linkId=7e1c1f4b526ccd95491b3fedcf2424c0&ref_=as_li_ss_tl",
+  "image": "https://m.media-amazon.com/images/I/51SVtaiz6wL._SL1000_.jpg",
+
+  "description": "VRB Dec Artificial Dahlia Flower Bunch is a decorative floral arrangement designed to enhance home, office, bedroom, and event décor. Made from fabric flowers with durable plastic stems, it offers a natural-looking appearance without maintenance. Ideal for use in vases (vase not included), weddings, festivals, parties, and gifting.",
+
+  "features": [
+    "Realistic artificial dahlia flower bunch",
+    "Made with fabric flowers and durable plastic stems",
+    "No watering or maintenance required",
+    "Ideal for home, office and bedroom decoration",
+    "Suitable for table décor and flower vases",
+    "Perfect for weddings, festivals and parties",
+    "Reusable and long-lasting",
+    "Lightweight and easy to arrange",
+    "Indoor and outdoor decorative use",
+    "Vase not included"
+  ],
+
+  "variants": [
+    {
+      "color": "White",
+      "price": 269,
+      "mrp": 1249,
+      "discountRate": 78
+    },
+    {
+      "color": "Pink",
+      "price": 279,
+      "mrp": 1249,
+      "discountRate": 78
+    },
+    {
+      "color": "Red",
+      "price": 269,
+      "mrp": 1249,
+      "discountRate": 78
+    },
+    {
+      "color": "Yellow",
+      "price": 289,
+      "mrp": 1249,
+      "discountRate": 77
+    },
+    {
+      "color": "2 Pcs White",
+      "price": 399,
+      "mrp": 1249,
+      "discountRate": 68
+    },
+    {
+      "color": "2 Pcs Red",
+      "price": 399,
+      "mrp": 1249,
+      "discountRate": 68
+    },
+    {
+      "color": "2 Pcs White + Pink",
+      "price": 399,
+      "mrp": 1249,
+      "discountRate": 68
+    },
+    {
+      "color": "2 Pcs White + Red",
+      "price": 399,
+      "mrp": 1249,
+      "discountRate": 68
+    },
+    {
+      "color": "2 Pcs Orange",
+      "price": 399,
+      "mrp": 1249,
+      "discountRate": 68
+    },
+    {
+      "color": "2 Pcs Orange + Purple",
+      "price": 399,
+      "mrp": 1249,
+      "discountRate": 68
+    },
+    {
+      "color": "2 Pcs Pink",
+      "price": 399,
+      "mrp": 1249,
+      "discountRate": 68
+    },
+    {
+      "color": "2 Pcs Purple",
+      "price": 399,
+      "mrp": 1249,
+      "discountRate": 68
+    },
+    {
+      "color": "2 Pcs Yellow",
+      "price": 399,
+      "mrp": 1249,
+      "discountRate": 68
+    },
+    {
+      "color": "2 Pcs Yellow + Purple",
+      "price": 399,
+      "mrp": 1249,
+      "discountRate": 68
+    }
+  ],
+
+  "availableColors": [
+    "White",
+    "Pink",
+    "Red",
+    "Yellow",
+    "Orange",
+    "Purple"
+  ],
+
+  "productDetails": {
+    "brand": "VRB Dec",
+    "plantType": "Dahlia",
+    "material": [
+      "Fabric",
+      "Plastic"
+    ],
+    "color": "White",
+    "dimensions": "100 × 40 × 50 mm",
+    "packageContents": "1 Artificial Dahlia Flower Bunch",
+    "vaseIncluded": false,
+    "recommendedUses": [
+      "Home Decor",
+      "Living Room",
+      "Bedroom",
+      "Office",
+      "Table Decoration",
+      "Flower Vase",
+      "Wedding Decoration",
+      "Festival Decoration",
+      "Party Decoration"
+    ],
+    "usage": [
+      "Indoor",
+      "Outdoor"
+    ]
+  },
+
+  "deliveryInfo": {
+    "delivery": "Amazon Delivered",
+    "returnPolicy": "10 Days Returnable",
+    "cashOnDelivery": true,
+    "freeDelivery": true,
+    "secureTransaction": true,
+    "warranty": "7 Days Warranty"
+  },
+
+  "offers": {
+    "cashback": "Up to ₹8 Amazon Pay Balance cashback on eligible Amazon Pay ICICI Bank Credit Cards",
+    "bankOffer": "Up to ₹1,250 instant discount on select Credit Cards and SBI Debit Cards",
+    "partnerOffer": "Buy any 2 and get 3% off, Buy any 3 and get 5% off",
+    "upiReward": "Earn 26 Amazon Pay Rewards points on eligible UPI payments"
+  },
+
+  "additionalInfo": {
+    "idealFor": [
+      "Home Decoration",
+      "Office Decoration",
+      "Wedding Decor",
+      "Festival Decor",
+      "Birthday Decoration",
+      "Anniversary Decoration",
+      "Valentine's Day",
+      "Christmas",
+      "Diwali",
+      "Housewarming Gift"
+    ]
+  },
+
+  "tags": [
+    "VRB Dec",
+    "Artificial Flowers",
+    "Dahlia",
+    "Flower Bunch",
+    "Home Decor",
+    "Office Decor",
+    "Wedding Decoration",
+    "Vase Flowers",
+    "Artificial Plant",
+    "Living Room Decor",
+    "Bedroom Decor",
+    "White Flowers"
+  ]
+},
+
+{
+  "id": "wolpin-floral-damask-self-adhesive-wallpaper-gold-45x500cm",
+  "name": "wolpin Floral Damask Self Adhesive Wallpaper",
+  "brand": "wolpin",
+  "category": "home & kitchen",
+  "subCategory": "wallpaper",
+  "price": 1499,
+  "discountPrice": 229,
+  "discountRate": 85,
+  "rating": 4.1,
+  "reviews": 25514,
+  "ratingText": "4.1 out of 5 stars",
+  "reviewText": "Based on 25,514 customer ratings on Amazon",
+  "badge": "Amazon's Choice",
+
+  "shortLink": "https://link.amazon/B0cVPnqXT",
+  "fullLink": "https://www.amazon.in/gp/product/B08MBZ5VL7?smid=A1B09NHTAUCIPF&th=1&linkCode=ll2&tag=valdio-21&linkId=5319ef649aac0578427f3f35c3e94474&ref_=as_li_ss_tl",
+  "image": "https://m.media-amazon.com/images/I/81VGQESWuPL._SL1500_.jpg",
+
+  "description": "The wolpin Floral Damask Self Adhesive Wallpaper features an elegant gold floral damask design that enhances living rooms, halls, bedrooms, and office interiors. Made from durable PVC material with a peel-and-stick backing, it offers a quick DIY solution for decorating walls, furniture, shelves, and other smooth surfaces without requiring glue.",
+
+  "features": [
+    "Self-adhesive peel and stick installation",
+    "Elegant floral damask pattern",
+    "Premium PVC construction",
+    "Large 500 cm roll for wider coverage",
+    "No additional glue required",
+    "Easy DIY installation",
+    "Can be cut to custom sizes",
+    "Suitable for walls, furniture and cabinets",
+    "Easy to clean with a damp cloth",
+    "Ideal for modern and classic interiors"
+  ],
+
+  "variants": [
+    {
+      "color": "Gold",
+      "size": "45 x 500 cm",
+      "price": 229,
+      "mrp": 1499,
+      "discountRate": 85
+    },
+    {
+      "color": "Black",
+      "size": "45 x 500 cm",
+      "price": 229,
+      "mrp": 1499,
+      "discountRate": 85
+    },
+    {
+      "color": "Grey",
+      "size": "45 x 500 cm",
+      "price": 229,
+      "mrp": 1499,
+      "discountRate": 85
+    },
+    {
+      "color": "Gold",
+      "size": "45 x 1000 cm"
+    }
+  ],
+
+  "availableColors": [
+    "Gold",
+    "Black",
+    "Grey"
+  ],
+
+  "availableSizes": [
+    "45 x 500 cm",
+    "45 x 1000 cm"
+  ],
+
+  "productDetails": {
+    "brand": "wolpin",
+    "material": "Polyvinyl Chloride (PVC)",
+    "color": "Gold",
+    "style": "Modern",
+    "dimensions": "45 x 500 cm",
+    "weight": "300 g",
+    "finish": "Matte Printed",
+    "installationType": "Self Adhesive Peel & Stick",
+    "reusable": false,
+    "waterResistant": true,
+    "recommendedUses": [
+      "Living Room",
+      "Hall",
+      "Bedroom",
+      "Sofa Background",
+      "TV Background",
+      "Furniture Decoration",
+      "Cabinets",
+      "Shelves",
+      "Office Decoration"
+    ],
+    "surfaceCompatibility": [
+      "Painted Walls",
+      "Wood",
+      "Glass",
+      "Metal",
+      "Plastic",
+      "Smooth Flat Surfaces"
+    ]
+  },
+
+  "deliveryInfo": {
+    "delivery": "Amazon Delivered",
+    "returnPolicy": "Non-Returnable",
+    "cashOnDelivery": true,
+    "freeDelivery": true,
+    "secureTransaction": true
+  },
+
+  "offers": {
+    "cashback": "Up to ₹6 Amazon Pay Balance cashback on eligible Amazon Pay ICICI Bank Credit Cards",
+    "bankOffer": "Up to ₹1,000 instant discount on select Credit Cards and SBI Debit Cards",
+    "partnerOffer": "GST invoice available for eligible business purchases",
+    "upiReward": "Earn 22 Amazon Pay Rewards points on eligible UPI payments"
+  },
+
+  "additionalInfo": {
+    "applicationSteps": [
+      "Clean and dry the surface",
+      "Measure and cut to required size",
+      "Peel off the backing paper",
+      "Apply gradually while smoothing out air bubbles"
+    ],
+    "careInstructions": [
+      "Wipe with a soft damp cloth",
+      "Avoid abrasive cleaners",
+      "Apply only on clean, smooth and dry surfaces"
+    ]
+  },
+
+  "tags": [
+    "wolpin",
+    "Wallpaper",
+    "Self Adhesive Wallpaper",
+    "Peel and Stick",
+    "PVC Wallpaper",
+    "Damask Wallpaper",
+    "Gold Wallpaper",
+    "Wall Sticker",
+    "DIY Decor",
+    "Living Room Decor",
+    "Home Decoration",
+    "Interior Design"
+  ]
+},
+
+{
+  "id": "rynogear-regular-fit-super-stretchable-track-pant-men-navy-blue",
+  "name": "RynoGear Regular Fit Super Stretchable Track Pant for Men",
+  "brand": "RynoGear",
+  "category": "fashion",
+  "subCategory": "men track pants",
+  "price": 999,
+  "discountPrice": 549,
+  "discountRate": 45,
+  "rating": 4.0,
+  "reviews": 4890,
+  "ratingText": "4.0 out of 5 stars",
+  "reviewText": "Based on 4,890 customer ratings on Amazon",
+  "badge": "Top Brand",
+
+  "shortLink": "https://link.amazon/B0eufDp66",
+  "fullLink": "https://www.amazon.in/gp/product/B0CQ4ZBXLZ?smid=A6I4FPTNLCPKQ&th=1&psc=1&linkCode=ll2&tag=valdio-21&linkId=b0043af63ffcc4d354943618d3f80b45&ref_=as_li_ss_tl",
+  "image": "https://m.media-amazon.com/images/I/61gIpChOZ3L._SY741_.jpg",
+
+  "description": "RynoGear Regular Fit Super Stretchable Track Pant for Men is designed with lightweight 4-way stretch fabric for maximum comfort during workouts, jogging, sports, travel, and daily wear. It features three secure zipper pockets, breathable moisture-wicking material, and a comfortable drawstring waistband.",
+
+  "features": [
+    "Regular fit jogger track pant",
+    "4-way super stretch fabric",
+    "Soft, breathable and lightweight",
+    "Moisture-wicking material",
+    "3 secure zipper pockets",
+    "Drawstring elastic waistband",
+    "Machine washable",
+    "Ideal for gym, running, walking and casual wear"
+  ],
+
+  "variants": [
+    {
+      "color": "Navy Blue",
+      "size": "M",
+      "price": 549,
+      "mrp": 999,
+      "discountRate": 45
+    },
+    {
+      "color": "Air Force"
+    },
+    {
+      "color": "Black"
+    },
+    {
+      "color": "Dark Grey"
+    },
+    {
+      "color": "Light Grey"
+    }
+  ],
+
+  "availableColors": [
+    "Navy Blue",
+    "Air Force",
+    "Black",
+    "Dark Grey",
+    "Light Grey"
+  ],
+
+  "availableSizes": [
+    "S",
+    "M",
+    "L",
+    "XL",
+    "2XL",
+    "3XL",
+    "4XL"
+  ],
+
+  "productDetails": {
+    "brand": "RynoGear",
+    "material": "Spandex",
+    "fit": "Regular Fit",
+    "style": "Jogger",
+    "length": "Long Length",
+    "closure": "Drawstring",
+    "occasion": "Outdoor Activity",
+    "careInstructions": "Machine Wash",
+    "countryOfOrigin": "India",
+    "pockets": 3,
+    "pocketType": "Zipper Pockets",
+    "fabricFeatures": [
+      "4-Way Stretch",
+      "Breathable",
+      "Moisture Wicking",
+      "Lightweight",
+      "Soft",
+      "Comfortable"
+    ]
+  },
+
+  "deliveryInfo": {
+    "delivery": "Amazon Delivered",
+    "returnPolicy": "10 Days Return & Exchange",
+    "cashOnDelivery": true,
+    "freeDelivery": true,
+    "secureTransaction": true
+  },
+
+  "offers": {
+    "cashback": "Up to ₹16 Amazon Pay Balance cashback on eligible Amazon Pay ICICI Bank Credit Cards",
+    "bankOffer": "Up to ₹1,250 instant discount on select Credit Cards and SBI Debit Cards",
+    "partnerOffer": "GST invoice available for eligible business purchases",
+    "upiReward": "Earn 54 Amazon Pay Rewards points on eligible UPI payments"
+  },
+
+  "additionalInfo": {
+    "pocketDetails": [
+      "2 large front zipper pockets for phone and essentials",
+      "1 rear zipper pocket for keys, wallet or cards"
+    ],
+    "recommendedUses": [
+      "Gym",
+      "Running",
+      "Jogging",
+      "Walking",
+      "Sports",
+      "Travel",
+      "Casual Wear",
+      "Outdoor Activities"
+    ]
+  },
+
+  "tags": [
+    "RynoGear",
+    "Track Pant",
+    "Jogger",
+    "Men Track Pant",
+    "Stretchable Track Pant",
+    "Gym Wear",
+    "Sports Wear",
+    "Running Pants",
+    "Workout Pants",
+    "Casual Wear"
+  ]
+},
+
+{
+  "id": "ecofynd-macrame-plant-hanger-ivory-39-inch-pack-1",
+  "name": "ecofynd Macrame Plant Hanger",
+  "brand": "ecofynd",
+  "category": "home & garden",
+  "subCategory": "plant hanger",
+  "price": 549,
+  "discountPrice": 189,
+  "discountRate": 66,
+  "rating": 4.3,
+  "reviews": 1203,
+  "ratingText": "4.3 out of 5 stars",
+  "reviewText": "Based on 1,203 customer ratings on Amazon",
+  "badge": "Amazon's Choice",
+
+  "shortLink": "https://link.amazon/B0gUi3Seu",
+  "fullLink": "https://www.amazon.in/gp/product/B07JDT2C53?smid=A2AL6IVND0I91F&th=1&linkCode=ll2&tag=valdio-21&linkId=baa0489787230a11cf414d110226bd3f&ref_=as_li_ss_tl",
+  "image": "https://m.media-amazon.com/images/I/71HkkB5Y4aL._SL1500_.jpg",
+
+  "description": "The ecofynd Macrame Plant Hanger is a handcrafted bohemian-style cotton rope planter holder designed for indoor and outdoor decoration. Made from 100% natural cotton, it accommodates flower pots between 4 and 9 inches in diameter, making it ideal for balconies, gardens, living rooms, kitchens, patios, and offices.",
+
+  "features": [
+    "Handmade macrame design",
+    "100% natural cotton rope",
+    "39-inch hanging length",
+    "Suitable for 4–9 inch pots",
+    "Supports over 10 kg weight",
+    "Fits round and square pots",
+    "Bohemian home decor style",
+    "Indoor and outdoor use",
+    "Eco-friendly and chemical-free",
+    "Durable hand-knotted construction"
+  ],
+
+  "variants": [
+    {
+      "color": "Ivory",
+      "length": "39 Inches",
+      "pack": "Pack of 1",
+      "price": 189,
+      "mrp": 549,
+      "discountRate": 66
+    },
+    {
+      "color": "Ivory - M3",
+      "price": 249,
+      "mrp": 649,
+      "discountRate": 62
+    },
+    {
+      "color": "Ivory - M44",
+      "price": 200,
+      "mrp": 539,
+      "discountRate": 63
+    }
+  ],
+
+  "availableColors": [
+    "Ivory",
+    "Ivory - M3",
+    "Ivory - M44"
+  ],
+
+  "availablePackSizes": [
+    "Pack of 1",
+    "Pack of 2",
+    "Pack of 3",
+    "Pack of 5"
+  ],
+
+  "productDetails": {
+    "brand": "ecofynd",
+    "material": "100% Natural Cotton",
+    "color": "Ivory",
+    "style": "Bohemian",
+    "planterForm": "Vertical",
+    "length": "39 Inches",
+    "recommendedPotSize": "4 to 9 Inches Diameter",
+    "maximumWeightCapacity": "10 kg+",
+    "legs": 4,
+    "ecoFriendly": true,
+    "handmade": true,
+    "chemicalFree": true
+  },
+
+  "deliveryInfo": {
+    "delivery": "Amazon Delivered",
+    "returnPolicy": "10 Days Returnable",
+    "cashOnDelivery": true,
+    "freeDelivery": true,
+    "secureTransaction": true
+  },
+
+  "offers": {
+    "cashback": "Up to ₹5 Amazon Pay Balance cashback on eligible Amazon Pay ICICI Bank Credit Cards",
+    "bankOffer": "Up to ₹1,250 instant discount on select Credit Cards and SBI Debit Cards",
+    "partnerOffer": "GST invoice available for eligible business purchases",
+    "upiReward": "Earn 18 Amazon Pay Rewards points on eligible UPI payments"
+  },
+
+  "additionalInfo": {
+    "compatiblePotTypes": [
+      "Ceramic Pots",
+      "Plastic Pots",
+      "Metal Pots",
+      "Glass Pots",
+      "Round Pots",
+      "Square Pots"
+    ],
+    "recommendedUses": [
+      "Indoor Plants",
+      "Outdoor Plants",
+      "Balcony Decor",
+      "Garden Decor",
+      "Living Room",
+      "Kitchen",
+      "Patio",
+      "Deck",
+      "Wall Hanging",
+      "Ceiling Hanging"
+    ],
+    "giftSuitableFor": [
+      "Plant Lovers",
+      "Housewarming",
+      "Wedding",
+      "Festivals",
+      "Home Decor Gifts"
+    ]
+  },
+
+  "tags": [
+    "ecofynd",
+    "Macrame Plant Hanger",
+    "Cotton Rope Hanger",
+    "Plant Holder",
+    "Boho Decor",
+    "Indoor Plant Hanger",
+    "Outdoor Plant Hanger",
+    "Balcony Decor",
+    "Garden Decor",
+    "Vertical Planter",
+    "Home Decoration"
+  ]
+},
+
+{
+  "id": "pauwer-silk-artificial-wisteria-vine-garland-blue-12-pack",
+  "name": "Pauwer Silk Artificial Wisteria Vine Garland",
+  "brand": "Pauwer",
+  "category": "home & garden",
+  "subCategory": "artificial flowers",
+  "price": 1499,
+  "discountPrice": 299,
+  "discountRate": 80,
+  "rating": 4.0,
+  "reviews": 5406,
+  "ratingText": "4.0 out of 5 stars",
+  "reviewText": "Based on 5,406 customer ratings on Amazon",
+  "badge": "Top Brand",
+
+  "shortLink": "https://link.amazon/B0cw7qKZc",
+  "fullLink": "https://www.amazon.in/Pauwer-Artificial-Wisteria-Hanging-Garland/dp/B07P2JWYQC?crid=2EA0ZWR4YTXRA&dib=eyJ2IjoiMSJ9.NRQ3_9Yt7PG5AMHJHVnviz4La5pE53DHZPAfVsoa1M4eu4L19HXu8G5B2obg8kSByiKhjHX9XpLhk-G20EJ4IQceC374iYuDmB5iuKO4oV5TbXjIfoeinKD3e4W4hZCpKBszs2WTr95eCZh9BzTOZYPsAmTbgmUqEV1zUPnt3cbYFk8Yjz9r8ZyPjkM00XI33Gj6LXk12t5DPn3-jeKznI1flZbRkIFJyafpBJ3QUrWPguWhQTWHto7Kl8Y4OKrVC4F5UBCwKFkqPF8ExnGd0uNR5aCIJHCpqH3bAKoRxUc.WOQ48o-SkKVRJvVkHVM9LaDQtDrLxoEFJqhbEufWTCM&dib_tag=se&keywords=hanging%2Bflowers&qid=1786036057&sprefix=hanging%2Bflower%2Caps%2C404&sr=8-19&th=1&linkCode=ll2&tag=valdio-21&linkId=849d47c79b1bf13ebb90f0332bbcebc4&ref_=as_li_ss_tl",
+  "image": "https://m.media-amazon.com/images/I/81j8s0JqtZL._SL1500_.jpg",
+
+  "description": "The Pauwer Silk Artificial Wisteria Vine Garland features realistic silk flowers with green leaves, ideal for decorating weddings, parties, balconies, walls, arches, and home interiors. Each garland measures approximately 3.6 feet in length and comes in a value pack of 12 pieces for creating elegant floral arrangements.",
+
+  "features": [
+    "Pack of 12 artificial wisteria vines",
+    "Approximately 3.6 feet per garland",
+    "Realistic silk flowers with green leaves",
+    "Non-toxic materials",
+    "Lightweight and reusable",
+    "Ideal for indoor decoration",
+    "Perfect for weddings and parties",
+    "Easy to hang and arrange"
+  ],
+
+  "variants": [
+    {
+      "color": "Blue",
+      "pack": "12 Pack",
+      "price": 299,
+      "mrp": 1499,
+      "discountRate": 80
+    },
+    {
+      "color": "Blush Pink",
+      "price": 261.10,
+      "mrp": 499,
+      "discountRate": 48
+    },
+    {
+      "color": "Green",
+      "price": 299,
+      "mrp": 1999,
+      "discountRate": 85
+    },
+    {
+      "color": "Pink",
+      "price": 299,
+      "mrp": 1999,
+      "discountRate": 85
+    },
+    {
+      "color": "Pink, Fuchsia",
+      "price": 299,
+      "mrp": 1399,
+      "discountRate": 79
+    },
+    {
+      "color": "Purple",
+      "price": 299,
+      "mrp": 1499,
+      "discountRate": 80
+    },
+    {
+      "color": "White",
+      "price": 223,
+      "mrp": 999,
+      "discountRate": 78
+    }
+  ],
+
+  "availableColors": [
+    "Blue",
+    "Blush Pink",
+    "Green",
+    "Pink",
+    "Pink Fuchsia",
+    "Purple",
+    "White"
+  ],
+
+  "availablePackSizes": [
+    "6 Pack",
+    "12 Pack",
+    "24 Pack",
+    "24 Pieces"
+  ],
+
+  "productDetails": {
+    "brand": "Pauwer",
+    "plantType": "Artificial Wisteria Flower Garland Vine",
+    "material": "Silk and Plastic",
+    "color": "Blue",
+    "lengthPerGarland": "3.6 Feet",
+    "dimensions": "5.1 × 27.9 × 109.2 cm",
+    "numberOfItems": 12,
+    "packageType": "Bag",
+    "indoorOutdoor": "Indoor",
+    "nonToxic": true,
+    "reusable": true
+  },
+
+  "deliveryInfo": {
+    "delivery": "Amazon Delivered",
+    "returnPolicy": "10 Days Returnable",
+    "cashOnDelivery": false,
+    "freeDelivery": true,
+    "secureTransaction": true
+  },
+
+  "offers": {
+    "cashback": "Up to ₹8 Amazon Pay Balance cashback on eligible Amazon Pay ICICI Bank Credit Cards",
+    "bankOffer": "Up to ₹1,250 instant discount on select Credit Cards and SBI Debit Cards",
+    "partnerOffer": "10% off on qualifying purchases above ₹249 from eligible seller",
+    "upiReward": "Earn 29 Amazon Pay Rewards points on eligible UPI payments"
+  },
+
+  "additionalInfo": {
+    "includedComponents": [
+      "12 Artificial Wisteria Vine Garlands"
+    ],
+    "recommendedUses": [
+      "Wedding Decoration",
+      "Wedding Arch",
+      "Backdrop Decoration",
+      "Home Decor",
+      "Office Decor",
+      "Wall Decoration",
+      "Balcony Decoration",
+      "Party Decoration",
+      "Festival Decoration",
+      "Photo Booth Decoration"
+    ],
+    "careInstructions": [
+      "Keep away from direct flames",
+      "Dust gently with a soft cloth",
+      "Store in a dry place after use"
+    ]
+  },
+
+  "tags": [
+    "Pauwer",
+    "Artificial Flowers",
+    "Wisteria Vine",
+    "Silk Garland",
+    "Wedding Decor",
+    "Backdrop Decoration",
+    "Home Decoration",
+    "Hanging Flowers",
+    "Blue Wisteria",
+    "Party Decoration",
+    "Floral Garland"
+  ]
+},
+
+{
+  "id": "fancymart-artificial-hanging-ivy-plant-white-pot-pack-2-design-02",
+  "name": "fancymart Artificial Hanging Ivy Plant with White Hanging Pot & Rope",
+  "brand": "fancymart",
+  "category": "home & garden",
+  "subCategory": "artificial plants",
+  "price": 490,
+  "discountPrice": 242,
+  "discountRate": 51,
+  "rating": 4.2,
+  "reviews": 1649,
+  "ratingText": "4.2 out of 5 stars",
+  "reviewText": "Based on 1,649 customer ratings on Amazon",
+  "badge": "#1 Best Seller in Artificial Plants",
+
+  "shortLink": "https://link.amazon/B091jhHhx",
+  "fullLink": "https://www.amazon.in/gp/product/B0H7C9HMM5?th=1&linkCode=ll2&tag=valdio-21&linkId=4c42ab13bdea0fa6461ca7c72438dcf8&ref_=as_li_ss_tl",
+  "image": "https://m.media-amazon.com/images/I/717GDZ9o+zL._SL1500_.jpg",
+
+  "description": "The fancymart Artificial Hanging Ivy Plant features realistic green ivy leaves with stylish white hanging pots and ropes, creating a fresh natural look without maintenance. Ideal for decorating living rooms, bedrooms, offices, balconies, cafés, hotels, and indoor walls, this pack includes two decorative hanging plants measuring 60 cm each.",
+
+  "features": [
+    "Realistic artificial ivy leaves",
+    "Includes white hanging pots and ropes",
+    "Pack of 2 hanging plants",
+    "60 cm hanging height",
+    "Premium plastic and fabric construction",
+    "No watering or maintenance required",
+    "Lightweight and durable",
+    "Perfect for modern home and office décor"
+  ],
+
+  "variants": [
+    {
+      "color": "DESIGN-02",
+      "pack": "Pack of 2",
+      "price": 242,
+      "mrp": 490,
+      "discountRate": 51
+    },
+    {
+      "color": "DESIGN-01",
+      "price": 242,
+      "mrp": 490,
+      "discountRate": 51
+    },
+    {
+      "color": "DESIGN-03",
+      "price": 242,
+      "mrp": 490,
+      "discountRate": 51
+    },
+    {
+      "color": "DESIGN-04",
+      "price": 242,
+      "mrp": 490,
+      "discountRate": 51
+    },
+    {
+      "color": "DESIGN-05",
+      "price": 245,
+      "mrp": 600,
+      "discountRate": 59
+    },
+    {
+      "color": "DESIGN-06",
+      "price": 285,
+      "mrp": 600,
+      "discountRate": 53
+    },
+    {
+      "color": "DESIGN-07",
+      "price": 274,
+      "mrp": 600,
+      "discountRate": 54
+    },
+    {
+      "color": "DESIGN-08",
+      "price": 249,
+      "mrp": 600,
+      "discountRate": 59
+    }
+  ],
+
+  "availableColors": [
+    "DESIGN-01",
+    "DESIGN-02",
+    "DESIGN-03",
+    "DESIGN-04",
+    "DESIGN-05",
+    "DESIGN-06",
+    "DESIGN-07",
+    "DESIGN-08",
+    "DESIGN-09",
+    "DESIGN-10",
+    "DESIGN-11",
+    "DESIGN-12",
+    "DESIGN-13",
+    "DESIGN-14",
+    "DESIGN-15",
+    "DESIGN-16",
+    "DESIGN-17",
+    "DESIGN-18",
+    "DESIGN-19",
+    "DESIGN-20",
+    "DESIGN-21",
+    "DESIGN-22"
+  ],
+
+  "productDetails": {
+    "brand": "fancymart",
+    "plantType": "Artificial Money Plant / Hanging Ivy",
+    "material": "Plastic, Fabric",
+    "color": "DESIGN-02",
+    "dimensions": "16 × 16 × 60 cm",
+    "height": "60 cm",
+    "weight": "200 g",
+    "numberOfItems": 2,
+    "includes": [
+      "2 Artificial Hanging Ivy Plants",
+      "2 White Hanging Pots",
+      "2 Hanging Ropes"
+    ],
+    "indoorOutdoor": "Indoor"
+  },
+
+  "deliveryInfo": {
+    "delivery": "Amazon Delivered",
+    "returnPolicy": "10 Days Returnable",
+    "cashOnDelivery": true,
+    "freeDelivery": true,
+    "secureTransaction": true
+  },
+
+  "offers": {
+    "cashback": "Up to ₹7 Amazon Pay Balance cashback on eligible Amazon Pay ICICI Bank Credit Cards",
+    "bankOffer": "Up to ₹1,250 instant discount on select Credit Cards and SBI Debit Cards",
+    "partnerOffer": "3% off on 2 items and 5% off on 5 qualifying items",
+    "upiReward": "Earn 24 Amazon Pay Rewards points on eligible UPI payments"
+  },
+
+  "additionalInfo": {
+    "recommendedUses": [
+      "Home Decor",
+      "Living Room",
+      "Bedroom",
+      "Office Decor",
+      "Hotel Decor",
+      "Reception Area",
+      "Balcony",
+      "Wall Decoration",
+      "Shelf Decoration",
+      "Café Decoration"
+    ],
+    "careInstructions": [
+      "No watering required",
+      "Dust occasionally with a dry cloth",
+      "Keep away from direct flames",
+      "Suitable for indoor use"
+    ]
+  },
+
+  "tags": [
+    "fancymart",
+    "Artificial Plant",
+    "Hanging Ivy",
+    "Money Plant",
+    "Artificial Creeper",
+    "White Hanging Pot",
+    "Wall Decor",
+    "Indoor Plants",
+    "Home Decoration",
+    "Office Decor",
+    "Artificial Greenery"
+  ]
 }
 ]
