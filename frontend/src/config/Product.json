@@ -28760,6 +28760,131 @@
     "Moisturizing Lotion",
     "700ml"
   ]
+},
+
+{
+  "id": "ecofynd-macrame-plant-hanger-m2-pack1-39-inch-ivory",
+  "name": "ecofynd Macrame Plant Hanger with Wood Beads, M2, 39 Inch, Ivory (Pack of 1)",
+  "brand": "ecofynd",
+  "category": "home decor",
+  "subCategory": "plant hangers",
+  "price": 399,
+  "discountPrice": 109,
+  "discountRate": 73,
+  "rating": 4.3,
+  "reviews": 1057,
+  "ratingText": "4.3 out of 5 stars",
+  "reviewText": "Based on 1,057 customer ratings on Amazon",
+  "badge": "Top Brand",
+
+  "shortLink": "https://link.amazon/B0aYZwKlP",
+  "fullLink": "https://www.amazon.in/dp/B08547JTTH?pd_rd_i=B083QLBT4S&pd_rd_w=WGJFf&content-id=amzn1.sym.9a67d0ba-b3d8-41ee-8e29-a3d839054b56&pf_rd_p=9a67d0ba-b3d8-41ee-8e29-a3d839054b56&pf_rd_r=78HK0R4NX80M01M8BX8F&pd_rd_wg=MARZA&pd_rd_r=f9ffe592-775a-43e5-b148-d1c90a7a99e4&aref=JL6OhpTK5H&sp_csd=d2lkZ2V0TmFtZT1zcF9kZXRhaWwy&th=1&linkCode=ll2&tag=valdio-21&linkId=a92a919dc28fef3241e7eaeb6d5eec8c&ref_=as_li_ss_tl",
+  "image": "https://m.media-amazon.com/images/I/51OvVvRqLrL._SL1500_.jpg",
+
+  "description": "ecofynd Macrame Plant Hanger is a handmade cotton rope planter holder featuring elegant wooden beads and a classic bohemian design. Suitable for medium-sized flower pots (4–6 inches), it enhances balconies, living rooms, patios, gardens, and indoor spaces while saving floor space. Pots are not included.",
+
+  "features": [
+    "100% handmade macrame weave",
+    "Premium natural cotton rope",
+    "Decorative wooden bead design",
+    "39-inch hanging length",
+    "Suitable for 4–6 inch pots",
+    "Bohemian home décor",
+    "Lightweight and durable",
+    "Indoor and outdoor use",
+    "Space-saving hanging planter",
+    "Pots not included"
+  ],
+
+  "variants": [
+    {
+      "pack": "Pack of 1",
+      "price": 109,
+      "mrp": 399,
+      "discountRate": 73
+    },
+    {
+      "pack": "Pack of 2",
+      "price": 237,
+      "mrp": 649,
+      "discountRate": 63
+    },
+    {
+      "pack": "Pack of 5",
+      "price": 422,
+      "mrp": 1299,
+      "discountRate": 68
+    }
+  ],
+
+  "productDetails": {
+    "brand": "ecofynd",
+    "productType": "Macrame Plant Hanger",
+    "material": "Natural Cotton",
+    "color": "Ivory",
+    "style": "Bohemian",
+    "length": "39 Inches",
+    "model": "M2",
+    "recommendedPotSize": "4-6 Inches",
+    "planterForm": "Plant Pot Holder",
+    "specialFeature": "Lightweight"
+  },
+
+  "applications": [
+    "Living room décor",
+    "Bedroom decoration",
+    "Balcony decoration",
+    "Garden decoration",
+    "Patio décor",
+    "Office décor",
+    "Kitchen décor",
+    "Indoor plant display",
+    "Outdoor hanging plants"
+  ],
+
+  "benefits": [
+    "Creates a stylish boho look",
+    "Saves floor space",
+    "Suitable for multiple planter types",
+    "Easy to hang",
+    "Complements modern and traditional interiors",
+    "Ideal gift for plant lovers"
+  ],
+
+  "deliveryInfo": {
+    "delivery": "Amazon Delivered",
+    "returnPolicy": "10 Days Returnable",
+    "cashOnDelivery": true,
+    "freeDelivery": true,
+    "secureTransaction": true
+  },
+
+  "offers": {
+    "cashback": "Up to ₹3 Amazon Pay cashback on eligible cards",
+    "partnerOffer": "Extra discount on buying multiple home décor products",
+    "bankOffer": "Eligible HDFC Bank offers available",
+    "upiReward": "Earn 10 Amazon Pay Rewards points on eligible UPI payments"
+  },
+
+  "additionalInfo": {
+    "includedItems": "1 Macrame Plant Hanger",
+    "potsIncluded": false
+  },
+
+  "tags": [
+    "ecofynd",
+    "Macrame Plant Hanger",
+    "Plant Holder",
+    "Cotton Rope Hanger",
+    "Boho Decor",
+    "Indoor Plants",
+    "Outdoor Plants",
+    "Balcony Decor",
+    "Wall Decor",
+    "Hanging Planter",
+    "Home Decoration",
+    "Ivory"
+  ]
 }
 
 ]
