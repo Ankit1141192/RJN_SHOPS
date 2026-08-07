@@ -28885,6 +28885,143 @@
     "Home Decoration",
     "Ivory"
   ]
+},
+
+{
+  "id": "goldmedal-g-spin-mini-3w-led-spot-light-warm-white-pack1",
+  "name": "Goldmedal G-Spin Mini 3W LED Round Spot Light with Concealed Junction Box - Warm White (3000K), Pack of 1",
+  "brand": "Goldmedal",
+  "category": "lighting",
+  "subCategory": "led spot lights",
+  "price": 195,
+  "discountPrice": 119,
+  "discountRate": 39,
+  "rating": 4.4,
+  "reviews": 102,
+  "ratingText": "4.4 out of 5 stars",
+  "reviewText": "Based on 102 customer ratings on Amazon",
+  "badge": "Amazon's Choice",
+
+  "shortLink": "https://link.amazon/B06Pn97c1",
+  "fullLink": "https://www.amazon.in/Goldmedal-G-Spin-Concealed-Junction-Round/dp/B0DTK5Z6FJ?pd_rd_w=JEB90&content-id=amzn1.sym.7ccbe032-5929-4c88-ab39-4923842061df&pf_rd_p=7ccbe032-5929-4c88-ab39-4923842061df&pf_rd_r=K3CWX8VNXFQ6JAT03NWN&pd_rd_wg=xcZBE&pd_rd_r=489c2906-ec13-4264-8867-7b7d8254a586&pd_rd_i=B0DTK5Z6FJ&th=1&linkCode=ll2&tag=valdio-21&linkId=11cb6a91e0f26ae907ee278d6cb2bd2a&ref_=as_li_ss_tl",
+  "image": "https://m.media-amazon.com/images/I/61mcAMLLydL._SL1200_.jpg",
+
+  "description": "Goldmedal G-Spin Mini 3W LED Spot Light is a recessed indoor lighting fixture with a concealed junction box and swivel mechanism for adjustable illumination. It provides warm white (3000K) lighting, making it ideal for homes, offices, restaurants, hotels, and retail spaces while delivering high energy efficiency.",
+
+  "features": [
+    "3W LED recessed spot light",
+    "Warm White (3000K)",
+    "Swivel mechanism for adjustable lighting",
+    "Concealed junction box",
+    "Energy efficient",
+    "85 lumens per watt output",
+    "Round recessed design",
+    "Indoor lighting solution",
+    "High-quality polycarbonate construction",
+    "Easy false ceiling installation"
+  ],
+
+  "variants": [
+    {
+      "model": "3W Warm White",
+      "price": 119,
+      "mrp": 195,
+      "discountRate": 39
+    },
+    {
+      "model": "6W Warm White",
+      "price": 215,
+      "mrp": 490,
+      "discountRate": 56
+    },
+    {
+      "model": "6W Cool Daylight",
+      "price": 217,
+      "mrp": 490,
+      "discountRate": 56
+    },
+    {
+      "model": "9W Warm White",
+      "price": 274,
+      "mrp": 595,
+      "discountRate": 54
+    },
+    {
+      "model": "9W Cool Daylight",
+      "price": 274,
+      "mrp": 595,
+      "discountRate": 54
+    }
+  ],
+
+  "productDetails": {
+    "brand": "Goldmedal",
+    "productType": "LED Recessed Spot Light",
+    "wattage": "3W",
+    "lightColor": "Warm White",
+    "colorTemperature": "3000K",
+    "fixtureType": "Recessed",
+    "shape": "Round",
+    "material": "Aluminium",
+    "powerSource": "AC/DC",
+    "cutOutSize": "Ø2.24 Inches",
+    "dimensions": "9.5 × 9.5 × 4.2 cm",
+    "recommendedUse": "Indoor"
+  },
+
+  "applications": [
+    "Living room",
+    "Bedroom",
+    "Kitchen",
+    "Dining room",
+    "Office",
+    "Restaurant",
+    "Hotel",
+    "Retail shop",
+    "False ceiling lighting",
+    "Accent lighting"
+  ],
+
+  "benefits": [
+    "Adjustable light direction",
+    "Bright and energy-saving illumination",
+    "Modern recessed appearance",
+    "Easy installation in false ceilings",
+    "Long-lasting performance",
+    "Suitable for residential and commercial spaces"
+  ],
+
+  "deliveryInfo": {
+    "delivery": "Amazon Delivered",
+    "returnPolicy": "10 Days Returnable",
+    "cashOnDelivery": true,
+    "freeDelivery": true,
+    "secureTransaction": true,
+    "warranty": "1 Year"
+  },
+
+  "offers": {
+    "coupon": "Extra 3% coupon available",
+    "cashback": "Up to ₹3 Amazon Pay cashback on eligible cards",
+    "bankOffer": "Eligible HDFC Bank offers available",
+    "partnerOffer": "Extra discount on multiple home lighting purchases",
+    "upiReward": "Earn 11 Amazon Pay Rewards points on eligible UPI payments"
+  },
+
+  "tags": [
+    "Goldmedal",
+    "LED Spot Light",
+    "3W LED",
+    "Warm White",
+    "3000K",
+    "Recessed Light",
+    "Ceiling Light",
+    "False Ceiling",
+    "Indoor Lighting",
+    "Home Lighting",
+    "Office Lighting",
+    "Restaurant Lighting"
+  ]
 }
 
 ]
