@@ -29483,6 +29483,390 @@
     "Travel Friendly",
     "Beauty Accessories"
   ]
+},
+
+{
+  "id": "lindt-swiss-white-chocolate-100g",
+  "name": "Lindt Swiss White Chocolate 100g",
+  "brand": "Lindt",
+  "category": "food & beverages",
+  "subCategory": "chocolates",
+  "price": 499,
+  "discountPrice": 229,
+  "discountRate": 54,
+  "rating": 4.1,
+  "reviews": 249,
+  "ratingText": "4.1 out of 5 stars",
+  "reviewText": "Based on 249 customer ratings on Amazon",
+  "badge": "Top Brand",
+
+  "shortLink": "https://link.amazon/B0dQ6Po3h",
+  "fullLink": "https://www.amazon.in/gp/product/B00AZK361K?smid=AGFYBBENNXNMM&th=1&linkCode=ll2&tag=valdio-21&linkId=7e628f49e477890a4ed91cb731b59b06&ref_=as_li_ss_tl",
+  "image": "https://m.media-amazon.com/images/I/61R0W5JKSEL._SL1500_.jpg",
+
+  "description": "Lindt Swiss White Chocolate is a premium Swiss chocolate bar crafted with smooth, creamy white chocolate for a rich and indulgent taste. Made using Lindt's traditional chocolate-making expertise, it is ideal for gifting, sharing, or enjoying as a premium everyday treat.",
+
+  "features": [
+    "Premium Swiss white chocolate",
+    "Rich and creamy texture",
+    "Smooth melt-in-the-mouth taste",
+    "Made by Lindt master chocolatiers",
+    "Ideal for gifting",
+    "Perfect for desserts and snacking",
+    "Premium quality ingredients",
+    "100 g chocolate bar"
+  ],
+
+  "variants": [
+    {
+      "flavour": "White Chocolate",
+      "size": "100 g",
+      "price": 229,
+      "mrp": 499,
+      "discountRate": 54
+    },
+    {
+      "flavour": "Milk Chocolate",
+      "size": "100 g",
+      "price": 299,
+      "mrp": 499,
+      "discountRate": 40
+    }
+  ],
+
+  "productDetails": {
+    "brand": "Lindt",
+    "productType": "Chocolate Bar",
+    "flavour": "White Chocolate",
+    "netQuantity": "100 g",
+    "itemForm": "Bar",
+    "countryOfOrigin": "Switzerland"
+  },
+
+  "benefits": [
+    "Smooth and creamy flavor",
+    "Premium Swiss quality",
+    "Perfect for gifting",
+    "Great for celebrations",
+    "Ideal for personal indulgence",
+    "Can be used in desserts and baking"
+  ],
+
+  "deliveryInfo": {
+    "delivery": "Amazon Delivered",
+    "returnPolicy": "Non-Returnable",
+    "cashOnDelivery": true,
+    "freeDelivery": true,
+    "secureTransaction": true
+  },
+
+  "offers": {
+    "cashback": "Up to ₹50 Amazon Pay cashback on eligible cards",
+    "bankOffer": "Eligible credit card offers available",
+    "partnerOffer": "GST invoice available for business purchases"
+  },
+
+  "tags": [
+    "Lindt",
+    "Swiss Chocolate",
+    "White Chocolate",
+    "Premium Chocolate",
+    "Chocolate Bar",
+    "100g",
+    "Dessert",
+    "Gift Chocolate",
+    "Imported Chocolate",
+    "Sweet Treat"
+  ]
+},
+
+{
+  "id": "lindt-swiss-classic-milk-chocolate-roasted-almonds-100g",
+  "name": "Lindt Swiss Classic Milk Chocolate Bar with Roasted Almonds",
+  "brand": "Lindt",
+  "category": "food & beverages",
+  "subCategory": "chocolates",
+  "price": 499,
+  "discountPrice": 149,
+  "discountRate": 70,
+  "rating": null,
+  "reviews": null,
+  "ratingText": "",
+  "reviewText": "",
+  "badge": "",
+
+  "shortLink": "https://link.amazon/B0fRdpdDo",
+  "fullLink": "https://www.amazon.in/gp/product/B0G2MFSBRC?smid=AGFYBBENNXNMM&psc=1&linkCode=ll2&tag=valdio-21&linkId=76ecf6fabcd7118e0750b4c5fc9d2389&ref_=as_li_ss_tl",
+  "image": "https://m.media-amazon.com/images/I/51UcQEdsufL.jpg",
+
+  "description": "Lindt Swiss Classic Milk Chocolate with Roasted Almonds is a premium Swiss chocolate bar made with smooth milk chocolate and crunchy roasted almonds. Crafted in Switzerland by Lindt Master Chocolatiers, it delivers a rich, creamy texture with a satisfying nutty crunch, making it perfect for gifting or everyday indulgence.",
+
+  "features": [
+    "Premium Swiss milk chocolate",
+    "Loaded with roasted almonds",
+    "Rich, smooth and creamy texture",
+    "Made by Lindt Master Chocolatiers",
+    "Product of Switzerland",
+    "Perfect for gifting and celebrations",
+    "Premium quality ingredients",
+    "100 g chocolate bar"
+  ],
+
+  "variants": [
+    {
+      "flavour": "Milk Chocolate with Roasted Almonds",
+      "size": "100 g",
+      "price": 149,
+      "mrp": 499,
+      "discountRate": 70
+    }
+  ],
+
+  "productDetails": {
+    "brand": "Lindt",
+    "productType": "Chocolate Bar",
+    "flavour": "Milk Chocolate with Roasted Almonds",
+    "netQuantity": "100 g",
+    "itemForm": "Bar",
+    "countryOfOrigin": "Switzerland"
+  },
+
+  "benefits": [
+    "Creamy Swiss milk chocolate taste",
+    "Crunchy roasted almonds in every bite",
+    "Ideal for gifting",
+    "Perfect for sharing",
+    "Great for festive occasions",
+    "Suitable for dessert and snacking"
+  ],
+
+  "deliveryInfo": {
+    "delivery": "Amazon Delivered",
+    "returnPolicy": "Non-Returnable",
+    "cashOnDelivery": true,
+    "freeDelivery": true,
+    "secureTransaction": true
+  },
+
+  "offers": {
+    "cashback": "Up to ₹4 Amazon Pay cashback on eligible cards",
+    "bankOffer": "Eligible credit card offers available",
+    "partnerOffer": "GST invoice available for business purchases"
+  },
+
+  "tags": [
+    "Lindt",
+    "Swiss Chocolate",
+    "Milk Chocolate",
+    "Roasted Almonds",
+    "Premium Chocolate",
+    "Chocolate Bar",
+    "100g",
+    "Imported Chocolate",
+    "Gift Chocolate",
+    "Swiss Classic"
+  ]
+},
+
+{
+  "id": "earthen-story-certified-organic-pumpkin-seeds-500g",
+  "name": "Earthen Story Certified Organic Pumpkin Seeds",
+  "brand": "Earthen Story",
+  "category": "food & beverages",
+  "subCategory": "healthy seeds",
+  "price": 625,
+  "discountPrice": 448,
+  "discountRate": 28,
+  "rating": 4.5,
+  "reviews": 287,
+  "ratingText": "4.5 out of 5 stars",
+  "reviewText": "287 ratings",
+  "badge": "Amazon's Choice",
+
+  "shortLink": "https://link.amazon/B07idKk4W",
+  "fullLink": "https://www.amazon.in/gp/product/B0CM6FF62D?smid=A2OWLHY56O5ZF6&th=1&linkCode=ll2&tag=valdio-21&linkId=5f9e8d3547928f54a7f14a5c58858f33&ref_=as_li_ss_tl",
+  "image": "https://m.media-amazon.com/images/I/61ZYRcu+RHL._SL1200_.jpg",
+
+  "description": "Earthen Story Certified Organic Pumpkin Seeds are premium-quality raw pumpkin seeds certified organic under NPOP standards. They are lab tested for over 250 pesticide residues and come with full traceability through a transaction certificate. Naturally rich in protein, dietary fibre, healthy fats, magnesium, zinc, and iron, these seeds make a nutritious snack or ingredient for smoothies, salads, cereals, and baking.",
+
+  "features": [
+    "Certified Organic (NPOP Approved)",
+    "Lab tested for 250+ pesticide residues",
+    "Traceable with Transaction Certificate",
+    "Rich source of plant protein",
+    "High in dietary fibre",
+    "Contains magnesium, zinc and iron",
+    "No artificial additives or preservatives",
+    "Ideal for snacking, salads, smoothies and baking"
+  ],
+
+  "variants": [
+    {
+      "size": "250 g",
+      "price": 375,
+      "discountPrice": 265,
+      "discountRate": 29
+    },
+    {
+      "size": "500 g",
+      "price": 625,
+      "discountPrice": 448,
+      "discountRate": 28
+    },
+    {
+      "size": "1000 g",
+      "price": 1250,
+      "discountPrice": 849,
+      "discountRate": 32
+    }
+  ],
+
+  "productDetails": {
+    "brand": "Earthen Story",
+    "productType": "Organic Pumpkin Seeds",
+    "flavour": "Pumpkin Seeds",
+    "netQuantity": "500 g",
+    "dietType": "Vegetarian",
+    "certification": "NPOP Certified Organic",
+    "expiry": "01 Dec 2026"
+  },
+
+  "benefits": [
+    "Excellent source of plant-based protein",
+    "Supports muscle health",
+    "Rich in fibre for digestive wellness",
+    "Provides magnesium for bone and nerve health",
+    "Contains zinc to support immunity",
+    "Naturally nutrient-dense healthy snack"
+  ],
+
+  "deliveryInfo": {
+    "delivery": "Amazon Delivered",
+    "returnPolicy": "Non-Returnable",
+    "cashOnDelivery": true,
+    "freeDelivery": true,
+    "secureTransaction": true
+  },
+
+  "offers": {
+    "cashback": "Up to ₹13 Amazon Pay cashback on eligible cards",
+    "bankOffer": "Eligible credit card offers available",
+    "partnerOffer": "Buy 3 or more and get 3% off on qualifying Earthen Story products",
+    "coupon": "5% Subscribe & Save coupon"
+  },
+
+  "tags": [
+    "Earthen Story",
+    "Pumpkin Seeds",
+    "Organic Seeds",
+    "Healthy Snack",
+    "High Protein",
+    "High Fibre",
+    "Superfood",
+    "Plant Protein",
+    "NPOP Certified",
+    "500g"
+  ]
+},
+
+{
+  "id": "yogabar-sunflower-seeds-250g",
+  "name": "Yogabar Sunflower Seeds for Eating Protein and Fibre Rich Superfood",
+  "brand": "Yogabar",
+  "category": "food & beverages",
+  "subCategory": "healthy seeds",
+  "price": 175,
+  "discountPrice": 109,
+  "discountRate": 38,
+  "rating": 4.4,
+  "reviews": 291,
+  "ratingText": "4.4 out of 5 stars",
+  "reviewText": "291 ratings",
+  "badge": "Amazon's Choice",
+
+  "shortLink": "https://link.amazon/B09aEbXv5",
+  "fullLink": "https://www.amazon.in/gp/product/B09JZ8S2M3?smid=A15APWRK6P7LBV&th=1&linkCode=ll2&tag=valdio-21&linkId=e9cbd548b0df5e8eb06bc77d2b0d9ff4&ref_=as_li_ss_tl",
+  "image": "https://m.media-amazon.com/images/I/51LNBeavSyL.jpg",
+
+  "description": "Yogabar Sunflower Seeds are a nutritious superfood snack packed with plant protein, dietary fibre, healthy fats, vitamins, and minerals. They are perfect for healthy snacking or adding to smoothies, salads, yogurt, cereals, oatmeal, and baked foods. Suitable for everyday consumption as part of a balanced diet.",
+
+  "features": [
+    "Protein and fibre rich superfood",
+    "Healthy everyday snack",
+    "Naturally rich in healthy fats",
+    "Contains vitamins and essential minerals",
+    "Perfect for smoothies, salads and cereals",
+    "Ready to eat",
+    "Vegetarian product",
+    "No artificial flavours"
+  ],
+
+  "variants": [
+    {
+      "size": "250 g",
+      "price": 175,
+      "discountPrice": 109,
+      "discountRate": 38
+    },
+    {
+      "size": "250 g (Pack of 2)",
+      "price": 350,
+      "discountPrice": 218,
+      "discountRate": 38
+    },
+    {
+      "size": "250 g (Pack of 3)",
+      "price": 525,
+      "discountPrice": 327,
+      "discountRate": 38
+    }
+  ],
+
+  "productDetails": {
+    "brand": "Yogabar",
+    "productType": "Sunflower Seeds",
+    "flavour": "Sun Flower Seeds",
+    "netQuantity": "250 g",
+    "dietType": "Vegetarian",
+    "expiry": "28 Sep 2026"
+  },
+
+  "benefits": [
+    "Good source of plant protein",
+    "High in dietary fibre",
+    "Supports healthy snacking",
+    "Provides healthy unsaturated fats",
+    "Rich in vitamins and minerals",
+    "Easy to include in daily meals"
+  ],
+
+  "deliveryInfo": {
+    "delivery": "Amazon Delivered",
+    "returnPolicy": "Non-Returnable",
+    "cashOnDelivery": true,
+    "freeDelivery": true,
+    "secureTransaction": true
+  },
+
+  "offers": {
+    "cashback": "Up to ₹3 Amazon Pay cashback on eligible cards",
+    "bankOffer": "Eligible credit card offers available",
+    "partnerOffer": "GST invoice available for business purchases",
+    "coupon": "2% coupon available"
+  },
+
+  "tags": [
+    "Yogabar",
+    "Sunflower Seeds",
+    "Healthy Seeds",
+    "Superfood",
+    "Protein Rich",
+    "High Fibre",
+    "Healthy Snack",
+    "Vegetarian",
+    "250g",
+    "Ready to Eat"
+  ]
 }
 
 ]
