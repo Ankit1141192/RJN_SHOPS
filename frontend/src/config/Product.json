@@ -30635,6 +30635,99 @@
     "Office Decor",
     "Gallery Wall"
   ]
+},
+
+{
+  "id": "toy-imagine-2-in-1-ring-toss-game-kids",
+  "name": "Toy Imagine 2 in 1 Ring Toss Game for Kids",
+  "brand": "Toy Imagine",
+  "category": "toys & games",
+  "subCategory": "educational toys",
+  "price": 999,
+  "discountPrice": 174,
+  "discountRate": 83,
+  "rating": 4.1,
+  "reviews": 1213,
+  "ratingText": "4.1 out of 5 stars",
+  "reviewText": "1,213 ratings",
+  "badge": "Amazon's Choice",
+
+  "shortLink": "https://link.amazon/B0iF8xSYw",
+  "fullLink": "https://www.amazon.in/gp/product/B0B7NNKHTS?smid=A2GTG1HPYW8M2P&th=1&linkCode=ll2&tag=valdio-21&linkId=8b01f17dd0e3de58f019a2114e3f14fb&ref_=as_li_ss_tl",
+  "image": "https://m.media-amazon.com/images/I/51b9wUvP+nL._SL1000_.jpg",
+
+  "description": "Toy Imagine 2-in-1 Ring Toss Game is an educational activity toy designed for toddlers and preschool children aged 2–5 years. It helps improve hand-eye coordination, color recognition, concentration, counting skills, and motor development through fun indoor and outdoor play.",
+
+  "features": [
+    "2-in-1 ring toss educational game",
+    "Improves hand-eye coordination",
+    "Supports colour recognition and counting",
+    "Enhances motor skills and concentration",
+    "Suitable for indoor and outdoor play",
+    "Made from child-safe plastic",
+    "Smooth edges for safe play",
+    "Lightweight, easy to assemble and store"
+  ],
+
+  "variants": [
+    {
+      "colour": "Ringtoss",
+      "price": 174,
+      "mrp": 999,
+      "discountRate": 83
+    }
+  ],
+
+  "productDetails": {
+    "brand": "Toy Imagine",
+    "productType": "Educational Ring Toss Game",
+    "material": "Plastic",
+    "colour": "Ringtoss",
+    "recommendedAge": "2–5 Years",
+    "itemWeight": "245 g",
+    "dimensions": "50 × 23 × 5 cm",
+    "style": "Ring Toss"
+  },
+
+  "benefits": [
+    "Develops hand-eye coordination",
+    "Encourages active physical play",
+    "Improves colour recognition",
+    "Builds counting and learning skills",
+    "Enhances focus and concentration",
+    "Supports early brain development",
+    "Ideal for family play and preschool activities"
+  ],
+
+  "deliveryInfo": {
+    "delivery": "Amazon Delivered",
+    "returnPolicy": "10 Days Replacement",
+    "cashOnDelivery": true,
+    "secureTransaction": true,
+    "warranty": "Warranty Policy"
+  },
+
+  "offers": {
+    "cashback": "Up to ₹5 Amazon Pay cashback on eligible cards",
+    "bankOffer": "Eligible HDFC Bank credit card offers available",
+    "partnerOffer": "Buy 3 get 3% Off, Buy 4 get 4% Off, Buy 5 get 5% Off",
+    "upiReward": "Earn ₹17 worth of UPI rewards"
+  },
+
+  "tags": [
+    "Toy Imagine",
+    "Ring Toss",
+    "Educational Toy",
+    "Toddler Toy",
+    "Indoor Game",
+    "Outdoor Game",
+    "Learning Toy",
+    "Brain Development",
+    "Colour Recognition",
+    "Motor Skills",
+    "Birthday Gift",
+    "Kids Toy"
+  ]
 }
 
 ]
