@@ -28619,6 +28619,147 @@
     "Cotton Soft",
     "Leak Proof"
   ]
+},
+{
+  "id": "himalaya-gentle-baby-lotion-700ml",
+  "name": "Himalaya Gentle Baby Lotion 700ml with Almond Oil, Olive Oil & Country Mallow",
+  "brand": "Himalaya",
+  "category": "baby care",
+  "subCategory": "baby lotion",
+  "price": 650,
+  "discountPrice": 354,
+  "discountRate": 46,
+  "rating": 4.3,
+  "reviews": 3160,
+  "ratingText": "4.3 out of 5 stars",
+  "reviewText": "Based on 3,160 customer ratings on Amazon",
+  "badge": "Top Brand",
+
+  "shortLink": "https://link.amazon/B0cNO7wNU",
+  "fullLink": "https://www.amazon.in/Himalaya-Doctor-Prescribed-formulation-Nourishes-moisturizes/dp/B0GHXSSGGQ?crid=3LK8CCRXGU7KR&dib=eyJ2IjoiMSJ9.2WFg5xgo8-GbMB1Zg2WlFe4cSOWL02XU8sKAqGKxmxFDgkvWVuYg38mW6CcPUsYton9tR7Qx5AA2HpFCp8CH-CjlMCF_YdQGYRn-Gi19bTwe3XPcSKqr2Gta0i8tdkJRhlyOF75rf7q8WAGfmiHTTXNwjX8xv-qjsV0HavCSEgn3q6pfMk96O0MVQKjGGq6rUoQC1yYcaY0QkguvDeJ0mjfBNiQUnrUqm6L9vWTzJSQcw5cIx6She1Mf3AOlF0WvAYlAuVVHUJyjUWAY__62CQvivaQ8v5eUuBRj3dOd2ik.6PABlYQakcfJ0fxZjb_i1xxCZV_dcUgsv8MtIfjHcKI&dib_tag=se&keywords=himalaya%2Bbaby%2Blotion%2B700ml&nsdOptOutParam=true&qid=1786078852&sprefix=himalaya%2Bbaby%2Bloion%2Caps%2C284&sr=8-1-spons&aref=DVMW9HYj0D&sp_csd=d2lkZ2V0TmFtZT1zcF9hdGY&th=1&linkCode=ll2&tag=valdio-21&linkId=1fbb4acb4b43b4ce567fd750e85885ad&ref_=as_li_ss_tl",
+  "image": "https://m.media-amazon.com/images/I/61e4ga5Z-3L._SL1500_.jpg",
+
+  "description": "Himalaya Gentle Baby Lotion is a pH 5.5 balanced moisturizing lotion specially formulated for newborns and babies. Enriched with Almond Oil, Olive Oil, Country Mallow and Licorice, it nourishes, softens and protects delicate baby skin while helping keep it healthy, smooth and hydrated.",
+
+  "features": [
+    "Suitable for newborns",
+    "pH 5.5 balanced formula",
+    "No.1 Doctor-Prescribed Baby Care Brand",
+    "Deeply moisturizes baby skin",
+    "Enriched with Almond Oil",
+    "Contains Olive Oil",
+    "With Country Mallow extracts",
+    "Licorice helps soothe skin",
+    "Vitamin E enriched",
+    "Suitable for all skin types"
+  ],
+
+  "variants": [
+    {
+      "size": "100 ml",
+      "price": 85,
+      "mrp": 130,
+      "discountRate": 35
+    },
+    {
+      "size": "200 ml",
+      "price": 149,
+      "mrp": 230,
+      "discountRate": 35
+    },
+    {
+      "size": "200 ml (Pack of 2)",
+      "price": 298,
+      "mrp": 460,
+      "discountRate": 35
+    },
+    {
+      "size": "400 ml",
+      "price": 222,
+      "mrp": 425,
+      "discountRate": 48
+    },
+    {
+      "size": "400 ml (Pack of 2)",
+      "price": 444,
+      "mrp": 850,
+      "discountRate": 48
+    },
+    {
+      "size": "700 ml",
+      "price": 354,
+      "mrp": 650,
+      "discountRate": 46
+    },
+    {
+      "size": "700 ml (Pack of 2)",
+      "price": 708,
+      "mrp": 1200,
+      "discountRate": 41
+    }
+  ],
+
+  "ingredients": [
+    "Olive Oil",
+    "Almond Oil",
+    "Country Mallow",
+    "Licorice",
+    "Vitamin E"
+  ],
+
+  "productDetails": {
+    "brand": "Himalaya",
+    "productType": "Baby Lotion",
+    "skinType": "All Skin Types",
+    "itemForm": "Lotion",
+    "netQuantity": "700 ml",
+    "weight": "780 g",
+    "scent": "Gentle Lotion New",
+    "dimensions": "11.2 × 7 × 23 cm"
+  },
+
+  "benefits": [
+    "Provides long-lasting moisturization",
+    "Keeps baby's skin soft and smooth",
+    "Helps soothe dry and irritated skin",
+    "Supports healthy skin barrier",
+    "Nourishes delicate newborn skin",
+    "Suitable for daily use"
+  ],
+
+  "deliveryInfo": {
+    "delivery": "Amazon Delivered",
+    "returnPolicy": "Non-Returnable",
+    "cashOnDelivery": true,
+    "freeDelivery": true,
+    "secureTransaction": true
+  },
+
+  "offers": {
+    "cashback": "Up to 5% Amazon Pay ICICI Bank Credit Card cashback",
+    "bankOffer": "10% Instant Discount on eligible HDFC Bank Credit Cards",
+    "upiReward": "Earn 35 Amazon Pay Rewards points on eligible UPI payments"
+  },
+
+  "additionalInfo": {
+    "expiry": "17 Dec 2026",
+    "unitPrice": "₹50.57 per 100 ml"
+  },
+
+  "tags": [
+    "Himalaya",
+    "Baby Lotion",
+    "Baby Moisturizer",
+    "Newborn Care",
+    "Almond Oil",
+    "Olive Oil",
+    "Country Mallow",
+    "Licorice",
+    "pH 5.5",
+    "Baby Skin Care",
+    "Moisturizing Lotion",
+    "700ml"
+  ]
 }
 
 ]
