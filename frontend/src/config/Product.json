@@ -29867,6 +29867,406 @@
     "250g",
     "Ready to Eat"
   ]
+},
+
+{
+  "id": "yogabar-premium-roasted-salted-pista-500g",
+  "name": "Yogabar Premium Roasted Salted Pista 500g",
+  "brand": "Yogabar",
+  "category": "food & beverages",
+  "subCategory": "dry fruits & nuts",
+  "price": 1220,
+  "discountPrice": 749,
+  "discountRate": 39,
+  "rating": 4.2,
+  "reviews": 1345,
+  "ratingText": "4.2 out of 5 stars",
+  "reviewText": "1,345 ratings",
+  "badge": "",
+
+  "shortLink": "https://link.amazon/B0hAt2ww0",
+  "fullLink": "https://www.amazon.in/gp/product/B0CX9639Y8?smid=A15APWRK6P7LBV&th=1&linkCode=ll2&tag=valdio-21&linkId=0980b7cd5eb3ff55fbee1d7e48221427&ref_=as_li_ss_tl",
+  "image": "https://m.media-amazon.com/images/I/512R39+ge4L._SL1000_.jpg",
+
+  "description": "Yogabar Premium Roasted Salted Pista is a crunchy and delicious dry fruit snack made from premium quality pistachios. Naturally rich in protein, dietary fibre, healthy fats, vitamins, and minerals, these roasted and lightly salted pistachios are perfect for healthy snacking, festive gifting, and everyday nutrition.",
+
+  "features": [
+    "Premium quality roasted salted pistachios",
+    "Rich in plant protein and dietary fibre",
+    "Crunchy, tasty and ready to eat",
+    "Gluten free",
+    "Low calorie healthy snack",
+    "Ideal for daily snacking and festive gifting",
+    "Packed with healthy fats and essential nutrients",
+    "Suitable for vegetarians"
+  ],
+
+  "variants": [
+    {
+      "size": "500 g",
+      "price": 1220,
+      "discountPrice": 749,
+      "discountRate": 39
+    },
+    {
+      "size": "500 g (Pack of 2)",
+      "price": 2440,
+      "discountPrice": 1498,
+      "discountRate": 39
+    },
+    {
+      "size": "500 g (Pack of 3)",
+      "price": 3660,
+      "discountPrice": 2247,
+      "discountRate": 39
+    },
+    {
+      "size": "1000 g",
+      "price": 1850,
+      "discountPrice": 1499,
+      "discountRate": 19
+    },
+    {
+      "size": "1000 g (Pack of 2)",
+      "price": 3700,
+      "discountPrice": 2998,
+      "discountRate": 19
+    },
+    {
+      "size": "1000 g (Pack of 3)",
+      "price": 5550,
+      "discountPrice": 4497,
+      "discountRate": 19
+    }
+  ],
+
+  "productDetails": {
+    "brand": "Yogabar",
+    "productType": "Roasted Salted Pistachios",
+    "flavour": "Pista",
+    "netQuantity": "500 g",
+    "dietType": "Vegetarian",
+    "glutenFree": true,
+    "expiry": "01 Jan 2027"
+  },
+
+  "benefits": [
+    "Rich source of protein",
+    "High in dietary fibre",
+    "Contains healthy unsaturated fats",
+    "Supports healthy snacking",
+    "Naturally satisfying and crunchy",
+    "Suitable as a premium dry fruit gift"
+  ],
+
+  "deliveryInfo": {
+    "delivery": "Amazon Delivered",
+    "returnPolicy": "Non-Returnable",
+    "cashOnDelivery": true,
+    "freeDelivery": true,
+    "secureTransaction": true
+  },
+
+  "offers": {
+    "cashback": "Up to ₹22 Amazon Pay cashback on eligible cards",
+    "bankOffer": "Eligible credit card offers available",
+    "partnerOffer": "Buy 3 and get 5% off on qualifying products"
+  },
+
+  "tags": [
+    "Yogabar",
+    "Pista",
+    "Pistachios",
+    "Roasted Pistachios",
+    "Salted Pistachios",
+    "Dry Fruits",
+    "Healthy Snack",
+    "Protein Rich",
+    "Gluten Free",
+    "500g"
+  ]
+},
+
+{
+  "id": "happilo-premium-natural-whole-cashews-500g",
+  "name": "Happilo Premium Natural Whole Cashews 500g Value Pack",
+  "brand": "Happilo",
+  "category": "food & beverages",
+  "subCategory": "dry fruits & nuts",
+  "price": 995,
+  "discountPrice": 509,
+  "discountRate": 49,
+  "rating": 4.2,
+  "reviews": 16447,
+  "ratingText": "4.2 out of 5 stars",
+  "reviewText": "16,447 ratings",
+  "badge": "Top Brand",
+
+  "shortLink": "https://link.amazon/B00zDmi2B",
+  "fullLink": "https://www.amazon.in/gp/product/B08487XKYR?smid=A15APWRK6P7LBV&th=1&linkCode=ll2&tag=valdio-21&linkId=f345252cf8c3120c1597a3d978d814cd&ref_=as_li_ss_tl",
+  "image": "https://m.media-amazon.com/images/I/71508gFiKoL._SL1500_.jpg",
+
+  "description": "Happilo Premium Natural Whole Cashews are high-quality unsalted cashew nuts that offer a crunchy texture and naturally rich flavor. Packed with protein, healthy fats, magnesium, and phosphorus, they are ideal for healthy snacking, cooking, baking, desserts, and festive gifting.",
+
+  "features": [
+    "Premium whole natural cashews",
+    "Unsalted and ready to eat",
+    "Rich in protein and healthy fats",
+    "Source of magnesium and phosphorus",
+    "Crunchy and nutritious snack",
+    "Suitable for cooking, baking and desserts",
+    "Vegetarian product",
+    "Value pack for daily consumption"
+  ],
+
+  "variants": [
+    {
+      "size": "500 g",
+      "price": 995,
+      "discountPrice": 509,
+      "discountRate": 49
+    },
+    {
+      "size": "500 g (Pack of 2)",
+      "price": 1990,
+      "discountPrice": 1018,
+      "discountRate": 49
+    },
+    {
+      "size": "500 g (Pack of 5)",
+      "price": 4975,
+      "discountPrice": 2545,
+      "discountRate": 49
+    }
+  ],
+
+  "productDetails": {
+    "brand": "Happilo",
+    "productType": "Whole Cashew Nuts",
+    "flavour": "Natural",
+    "netQuantity": "500 g",
+    "dietType": "Vegetarian",
+    "salted": false,
+    "expiry": "01 Nov 2026"
+  },
+
+  "benefits": [
+    "Good source of plant protein",
+    "Rich in magnesium and phosphorus",
+    "Provides healthy unsaturated fats",
+    "Supports healthy snacking",
+    "Perfect for recipes, sweets and desserts",
+    "Naturally crunchy and delicious"
+  ],
+
+  "deliveryInfo": {
+    "delivery": "Amazon Delivered",
+    "returnPolicy": "Non-Returnable",
+    "cashOnDelivery": true,
+    "freeDelivery": true,
+    "secureTransaction": true
+  },
+
+  "offers": {
+    "cashback": "Up to ₹50 Amazon Pay cashback on eligible cards",
+    "bankOffer": "Eligible credit card offers available",
+    "partnerOffer": "Buy 3 and get 5% off on qualifying products"
+  },
+
+  "tags": [
+    "Happilo",
+    "Cashews",
+    "Kaju",
+    "Dry Fruits",
+    "Whole Cashews",
+    "Unsalted",
+    "Healthy Snack",
+    "Protein Rich",
+    "500g",
+    "Premium Nuts"
+  ]
+},
+
+{
+  "id": "global-grabbers-meditating-sitting-buddha-idol-25cm-orange-black",
+  "name": "Global Grabbers Limited Edition Meditating Sitting Buddha Idol Statue",
+  "brand": "Global Grabbers",
+  "category": "home & decor",
+  "subCategory": "idols & figurines",
+  "price": 2000,
+  "discountPrice": 353,
+  "discountRate": 82,
+  "rating": 4.2,
+  "reviews": 18143,
+  "ratingText": "4.2 out of 5 stars",
+  "reviewText": "18,143 ratings",
+  "badge": "#1 Best Seller",
+
+  "shortLink": "https://link.amazon/B000Tcnb4",
+  "fullLink": "https://www.amazon.in/gp/product/B07LF3PQYF?smid=A2AL6IVND0I91F&psc=1&linkCode=ll2&tag=valdio-21&linkId=81be92f06dde9cb577b0a8e32002217f&ref_=as_li_ss_tl",
+  "image": "https://m.media-amazon.com/images/I/71-05lf9pNL._SL1024_.jpg",
+
+  "description": "The Global Grabbers Limited Edition Meditating Sitting Buddha Idol is a beautifully crafted polyresin showpiece designed to bring peace, elegance, and positive energy to your home or office. Featuring a serene meditation pose with an attractive orange and black finish, this decorative Buddha statue is ideal for living rooms, offices, meditation spaces, and gifting on special occasions.",
+
+  "features": [
+    "Premium quality polyresin construction",
+    "Meditating Buddha design with peaceful expression",
+    "Hand-painted orange and black finish",
+    "Lightweight yet durable",
+    "Ideal for home, office, shop and garden décor",
+    "Suitable for meditation and spiritual spaces",
+    "Perfect gift for birthdays, anniversaries, weddings and festivals",
+    "Elegant decorative showpiece"
+  ],
+
+  "variants": [
+    {
+      "colour": "Orange Black",
+      "size": "25 cm",
+      "price": 353,
+      "mrp": 2000,
+      "discountRate": 82
+    }
+  ],
+
+  "productDetails": {
+    "brand": "Global Grabbers",
+    "productType": "Buddha Idol Statue",
+    "theme": "Home Decor & Gifts",
+    "material": "Polyresin",
+    "style": "Meditation",
+    "colour": "Orange Black",
+    "dimensions": "18.5 × 8 × 25 cm",
+    "recommendedUse": "Indoor"
+  },
+
+  "benefits": [
+    "Creates a calm and peaceful ambience",
+    "Enhances home and office décor",
+    "Adds a spiritual and elegant touch",
+    "Makes a thoughtful gift for loved ones",
+    "Lightweight and easy to place",
+    "Long-lasting hand-painted finish"
+  ],
+
+  "deliveryInfo": {
+    "delivery": "Amazon Delivered",
+    "returnPolicy": "10 Days Returnable",
+    "cashOnDelivery": true,
+    "freeDelivery": true,
+    "secureTransaction": true
+  },
+
+  "offers": {
+    "cashback": "Up to ₹10 Amazon Pay cashback on eligible cards",
+    "bankOffer": "Eligible HDFC Bank credit card offers available",
+    "partnerOffer": "Buy any 2 get extra 2% off; Buy any 3 get extra 4% off on select Home products"
+  },
+
+  "tags": [
+    "Global Grabbers",
+    "Buddha Idol",
+    "Meditating Buddha",
+    "Polyresin Statue",
+    "Home Decor",
+    "Living Room Decor",
+    "Office Decoration",
+    "Spiritual Decor",
+    "Gift Item",
+    "25cm Buddha Statue"
+  ]
+},
+
+{
+  "id": "moonlitdreams-7ft-artificial-money-plant-vine-30-led-warm-white",
+  "name": "MoonlitDreams 7ft Artificial Money Plant Vine with 30 Warm White LED Lights",
+  "brand": "MoonlitDreams",
+  "category": "home & decor",
+  "subCategory": "artificial plants & decorative lights",
+  "price": 999,
+  "discountPrice": 89,
+  "discountRate": 91,
+  "rating": 3.7,
+  "reviews": 612,
+  "ratingText": "3.7 out of 5 stars",
+  "reviewText": "612 ratings",
+  "badge": "Top Brand",
+
+  "shortLink": "https://link.amazon/B0dLuJTB1",
+  "fullLink": "https://www.amazon.in/gp/product/B0GYNHWKNP?smid=A2KLV5WEECA5G3&th=1&linkCode=ll2&tag=valdio-21&linkId=0c82e4c097fa1a64b281cfddf24b79e3&ref_=as_li_ss_tl",
+  "image": "https://m.media-amazon.com/images/I/71M0Y61Rf6L._SL1500_.jpg",
+
+  "description": "MoonlitDreams Artificial Money Plant Vine features a 7-foot realistic money plant creeper intertwined with 30 warm white LED lights on a flexible copper wire. Battery-operated and easy to install, it creates a cozy, aesthetic ambience for bedrooms, balconies, walls, living rooms, festivals, and indoor décor.",
+
+  "features": [
+    "7 ft artificial money plant vine",
+    "30 warm white LED lights",
+    "Flexible copper wire string",
+    "Battery operated (3 AA batteries required)",
+    "Realistic silk leaves with durable plastic stems",
+    "Easy to bend, shape and install",
+    "Suitable for bedroom, balcony, wall and home décor",
+    "Ideal for festive and aesthetic room decoration"
+  ],
+
+  "variants": [
+    {
+      "colour": "Money Plant Light P1",
+      "length": "7 ft",
+      "ledCount": 30,
+      "price": 89,
+      "mrp": 999,
+      "discountRate": 91
+    }
+  ],
+
+  "productDetails": {
+    "brand": "MoonlitDreams",
+    "productType": "Artificial Money Plant Vine with LED Lights",
+    "material": "Silk Leaves, Plastic Stem, Copper Wire",
+    "colour": "Money Plant Light P1",
+    "lightSource": "30 Warm White LEDs",
+    "powerSource": "Battery Powered",
+    "batteryRequirement": "3 × AA Batteries (Not Included)",
+    "length": "7 ft",
+    "weight": "200 g"
+  },
+
+  "benefits": [
+    "Creates a warm and cozy ambience",
+    "Adds greenery without maintenance",
+    "Perfect for aesthetic room decoration",
+    "Easy to shape around furniture and walls",
+    "Suitable for festivals and celebrations",
+    "Reusable and lightweight decorative item"
+  ],
+
+  "deliveryInfo": {
+    "delivery": "Amazon Delivered",
+    "returnPolicy": "10 Days Returnable",
+    "cashOnDelivery": true,
+    "freeDelivery": true,
+    "secureTransaction": true
+  },
+
+  "offers": {
+    "cashback": "Up to ₹50 Amazon Pay cashback on eligible cards",
+    "bankOffer": "Eligible HDFC Bank credit card offers available",
+    "partnerOffer": "3% off on any 2 and 5% off on any 4 qualifying products"
+  },
+
+  "tags": [
+    "MoonlitDreams",
+    "Money Plant Vine",
+    "Artificial Plant",
+    "LED Vine Lights",
+    "Fairy Lights",
+    "Bedroom Decor",
+    "Wall Decoration",
+    "Balcony Decor",
+    "Home Decoration",
+    "Battery Operated"
+  ]
 }
 
 ]
