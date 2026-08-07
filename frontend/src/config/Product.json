@@ -29258,6 +29258,117 @@
     "Gift Packaging",
     "Storage Box"
   ]
+},
+
+{
+  "id": "hit-crawling-insect-killer-cockroach-spray-700ml-pack2",
+  "name": "HIT Crawling Insect Killer Cockroach Killer Spray 700ml (Pack of 2)",
+  "brand": "HIT",
+  "category": "home care",
+  "subCategory": "insect killer spray",
+  "price": 680,
+  "discountPrice": 524,
+  "discountRate": 23,
+  "rating": 4.5,
+  "reviews": 189,
+  "ratingText": "4.5 out of 5 stars",
+  "reviewText": "Based on 189 customer ratings on Amazon",
+  "badge": "Amazon's Choice",
+
+  "shortLink": "https://link.amazon/B0aahXmjc",
+  "fullLink": "https://www.amazon.in/HIT-Crawling-Insect-Killer-Deep-Reach/dp/B0CL441X1R?crid=3368F28LL1YAJ&dib=eyJ2IjoiMSJ9.IA6fRH2DzlYnMz5azAYXvyCTRs1WHPTg_4kYeby2YaJWpHdNegJ9sE_lgYN5Ee1IR91lzIOejxt2kYq05JF07svGZkv8d5vaTvv188B8ZWMtfmX6jGsW2mcLlsxFanVf1bAnMwJBGQ7IrJgx91J9g0KhgVAbrsP-0ASGj_-bsD7c2BFLeqX_6i0f0l6cnOAFow-JisWkS4-ofjXYJ9WOqCt3K6pjlaOLVhqMQLjShBBOftIxRRV5UBDI1v0sUSkblW1SEvPF__lPMS5ZByLTvPJUFVGscqKnkBI1nH6zIz8.grQ1es464pJc4VCevhmNiYBIwCEnp82Sgyak8r8XrB0&dib_tag=se&keywords=hit%2Bcockroach&qid=1786093420&sprefix=hit%2Caps%2C412&sr=8-9&th=1&linkCode=ll2&tag=valdio-21&linkId=f40ff9b12a519d7433257d0aaf1fdfc4&ref_=as_li_ss_tl",
+  "image": "https://m.media-amazon.com/images/I/41+LE4nwuCL.jpg",
+
+  "description": "HIT Crawling Insect Killer Spray is an instant-action cockroach killer designed to eliminate crawling insects within seconds. Its deep-reach nozzle penetrates cracks and hidden corners where cockroaches hide, while the fresh fragrance makes it comfortable for regular household use.",
+
+  "features": [
+    "Instant cockroach killer",
+    "Kills insects in about 3 seconds",
+    "Deep-reach precision nozzle",
+    "Fresh fragrance",
+    "Suitable for cracks and crevices",
+    "Ideal for kitchens and cabinets",
+    "Ready-to-use spray",
+    "Pack of 2",
+    "Large 700ml cans",
+    "Easy targeted application"
+  ],
+
+  "variants": [
+    {
+      "size": "400ml (Pack of 2)",
+      "price": 364,
+      "mrp": 390,
+      "discountRate": 7
+    },
+    {
+      "size": "700ml (Pack of 2)",
+      "price": 524,
+      "mrp": 680,
+      "discountRate": 23
+    }
+  ],
+
+  "productDetails": {
+    "brand": "HIT",
+    "productType": "Cockroach Killer Spray",
+    "itemForm": "Spray",
+    "scent": "Fresh Fragrance",
+    "materialFeature": "Fragrance Free",
+    "totalVolume": "1400 ml",
+    "packSize": "2 x 700 ml",
+    "netQuantity": "2 Count"
+  },
+
+  "recommendedUses": [
+    "Kitchen corners",
+    "Inside cabinets",
+    "Under refrigerator",
+    "Under gas cylinder",
+    "Sink pipes",
+    "Kitchen sink outlets",
+    "Wall cracks",
+    "Hidden crevices"
+  ],
+
+  "benefits": [
+    "Kills cockroaches quickly",
+    "Reaches difficult hiding places",
+    "Helps reduce disease-spreading pests",
+    "Pleasant fragrance during application",
+    "Convenient ready-to-use spray",
+    "Suitable for regular household pest control"
+  ],
+
+  "deliveryInfo": {
+    "delivery": "Amazon Delivered",
+    "returnPolicy": "Non-Returnable",
+    "cashOnDelivery": true,
+    "freeDelivery": true,
+    "secureTransaction": true
+  },
+
+  "offers": {
+    "cashback": "Up to ₹15 Amazon Pay cashback on eligible cards",
+    "bankOffer": "Eligible HDFC Bank offers available",
+    "partnerOffer": "GST invoice available for business purchases",
+    "upiReward": "Earn 52 Amazon Pay Rewards points on eligible UPI payments"
+  },
+
+  "tags": [
+    "HIT",
+    "Cockroach Killer",
+    "Insect Killer",
+    "Pest Control",
+    "Cockroach Spray",
+    "Home Care",
+    "Kitchen Cleaner",
+    "Deep Reach Nozzle",
+    "700ml",
+    "Pack of 2",
+    "Instant Kill",
+    "Household Spray"
+  ]
 }
 
 ]
