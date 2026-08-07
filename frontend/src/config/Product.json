@@ -29369,6 +29369,120 @@
     "Instant Kill",
     "Household Spray"
   ]
+},
+
+{
+  "id": "vega-round-hair-brush-r3-rb",
+  "name": "Vega Round Hair Brush for Curls, Volume & Waves (R3-RB)",
+  "brand": "VEGA",
+  "category": "beauty",
+  "subCategory": "hair brushes",
+  "price": 190,
+  "discountPrice": 169,
+  "discountRate": 11,
+  "rating": 4.0,
+  "reviews": 28233,
+  "ratingText": "4.0 out of 5 stars",
+  "reviewText": "Based on 28,233 customer ratings on Amazon",
+  "badge": "India's No.1 Hair Brush Brand",
+
+  "shortLink": "https://link.amazon/B0d9Ss2T5",
+  "fullLink": "https://www.amazon.in/Adding-Volumizer-Perfect-Drying-R3-RB/dp/B007E9DE9O?crid=13RPQJDPRNH69&dib=eyJ2IjoiMSJ9.QMBUw30MxHbvEOySAOHtX7y4ov7Cp9FbM9l1coF4jcYdeopMue2GJVrNwdQtzub6iVEBwsF-Mqr3ILC1HEk_8iQbKGLjZ4aRvPlQBDRAZU3eEO5xLZdrNB7m_oun0s5atX9qnoYpCsURZ3bO2SzV1BRDs3f_hBneiC9M4YjCs3JIjjb4MS-uNQXUSu6FG6bnuHIAhX53rQJFq421kx-IHPndbEW3szlvfr_oL5ne_tlvsC3Uqn1v-qlU9unn5jZBpVBta9XzDMEz6HAkASUXgnbP5Mp_9azbybCPQ9_ZzZU.gk-LApCZZg6-F8YXUd7Ne_tKOVMixesNcFlx8MgPOmk&dib_tag=se&keywords=round%2Bcomb&qid=1786094144&sprefix=round%2Bcom%2Caps%2C325&sr=8-2-spons&aref=xwbMgEtSvF&sp_csd=d2lkZ2V0TmFtZT1zcF9hdGY&th=1&linkCode=ll2&tag=valdio-21&linkId=182d6980c92cf831b37788f394c82d7f&ref_=as_li_ss_tl",
+  "image": "https://m.media-amazon.com/images/I/61+r6MURhPL._SL1500_.jpg",
+
+  "description": "Vega Round Hair Brush (R3-RB) is designed for adding volume, curls, and soft waves while blow drying. Suitable for men and women, it features ball-tipped nylon bristles that gently massage the scalp, reduce hair pulling, and provide smooth everyday styling for all hair types.",
+
+  "features": [
+    "Round styling brush",
+    "Ball-tipped nylon bristles",
+    "Adds curls and waves",
+    "Creates hair volume",
+    "Suitable for blow drying",
+    "Scalp massaging effect",
+    "Ergonomic handle",
+    "Lightweight and travel-friendly",
+    "Suitable for all hair types",
+    "For men and women"
+  ],
+
+  "variants": [
+    {
+      "style": "Round Hair Brush (R3-RB)",
+      "price": 169,
+      "mrp": 190,
+      "discountRate": 11
+    },
+    {
+      "style": "Round Brush",
+      "price": 279,
+      "mrp": 310,
+      "discountRate": 10
+    }
+  ],
+
+  "productDetails": {
+    "brand": "VEGA",
+    "model": "R3-RB",
+    "productType": "Round Hair Brush",
+    "shape": "Round",
+    "color": "Black",
+    "material": "Nylon",
+    "bristleMaterial": "Nylon",
+    "handleMaterial": "Nylon",
+    "specialFeature": "Flexible",
+    "netQuantity": "1 Count",
+    "weight": "60 g"
+  },
+
+  "benefits": [
+    "Adds natural curls and waves",
+    "Creates extra hair volume",
+    "Suitable for everyday styling",
+    "Gently massages the scalp",
+    "Improves grip during blow drying",
+    "Comfortable for prolonged use",
+    "Portable for travel"
+  ],
+
+  "recommendedFor": [
+    "Straight hair",
+    "Wavy hair",
+    "Curly hair",
+    "Daily grooming",
+    "Hair smoothening",
+    "Blow drying",
+    "Hair styling"
+  ],
+
+  "deliveryInfo": {
+    "delivery": "Amazon Delivered",
+    "returnPolicy": "Non-Returnable",
+    "cashOnDelivery": true,
+    "freeDelivery": true,
+    "secureTransaction": true
+  },
+
+  "offers": {
+    "cashback": "Up to ₹5 Amazon Pay cashback on eligible cards",
+    "bankOffer": "Eligible HDFC Bank offers available",
+    "partnerOffer": "Buy 3 Get 7% Off, Buy 4 Get 10% Off, Buy 5 Get 12% Off",
+    "upiReward": "Earn 16 Amazon Pay Rewards points on eligible UPI payments"
+  },
+
+  "tags": [
+    "VEGA",
+    "Round Hair Brush",
+    "Hair Brush",
+    "Hair Styling",
+    "Blow Dry Brush",
+    "Hair Volumizer",
+    "Hair Curl Brush",
+    "Hair Grooming",
+    "Scalp Massage",
+    "Nylon Bristles",
+    "Travel Friendly",
+    "Beauty Accessories"
+  ]
 }
 
 ]
