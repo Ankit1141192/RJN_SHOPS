@@ -33145,6 +33145,256 @@
     "Gift Combo",
     "Greeting Card"
   ]
+},
+
+{
+  "id": "motorola-g57-power-5g-corsair-8gb-128gb",
+  "name": "Motorola G57 Power 5G (PANTONE Corsair, 8GB RAM, 128GB Storage)",
+  "brand": "Motorola",
+  "category": "electronics",
+  "subCategory": "smartphones",
+  "price": 21999,
+  "discountPrice": 20059,
+  "discountRate": 9,
+  "rating": 4.3,
+  "reviews": 770,
+  "ratingText": "4.3 out of 5 stars",
+  "reviewText": "770 ratings",
+  "badge": "Amazon's Choice",
+
+  "shortLink": "https://link.amazon/B0gk44Rng",
+  "fullLink": "https://www.amazon.in/Motorola-G57-Snapdragon-Processor-TurboPower/dp/B0G3SWTTQ7?dib=eyJ2IjoiMSJ9.cf3a8pxhM0LpF5ZiYqwNJmHZDFnTP846NUhYnmHJKTspWqUBZqb9BuhR7v7Gkw85o1ULBZ8x959qDBuoatJSZT5oALZ6weoI8zMqEHFkZv8Jf6DqfeOFGKxX7wUokNz19lk1rog5FlGj8lBNCfe0hJmuSj3E8q8KWIZQB_2WRrFVZRI77iwSkWmgvl-CUtEKtrl26r4ybHLZrPimN46ZBTW2tdZy_ROGmyMIR7iqdbg.1jNqewr9Gujff20BVQIEoCVW26YiM6wSKei2M9DIqQc&dib_tag=se&keywords=motorola%2Bg96&qid=1786210680&sr=8-1&th=1&linkCode=ll2&tag=valdio-21&linkId=533d34ff9df675a65830c246db5e2a51&ref_=as_li_ss_tl",
+  "image": "https://m.media-amazon.com/images/I/51snxpxFOJL._SL1000_.jpg",
+
+  "description": "Motorola G57 Power 5G smartphone featuring the Snapdragon 6s Gen 4 processor, a 6.72-inch 120Hz FHD+ display, 50MP Sony LYT-600 camera, 7000mAh battery with 33W TurboPower charging, and IP64 protection for reliable everyday performance.",
+
+  "features": [
+    "Snapdragon 6s Gen 4 Processor",
+    "8GB RAM",
+    "128GB Internal Storage",
+    "6.72-inch FHD+ Display",
+    "120Hz Refresh Rate",
+    "Up to 1050 nits Brightness",
+    "50MP Sony LYT-600 Main Camera",
+    "8MP Ultra-Wide Camera",
+    "8MP Front Camera",
+    "7000mAh Battery",
+    "33W TurboPower Fast Charging",
+    "5G Connectivity",
+    "IP64 Dust & Water Resistance",
+    "Android Operating System"
+  ],
+
+  "variants": [
+    {
+      "color": "PANTONE Corsair",
+      "ram": "8GB",
+      "storage": "128GB",
+      "price": 20059,
+      "mrp": 21999,
+      "discountRate": 9
+    },
+    {
+      "color": "PANTONE Corsair",
+      "ram": "8GB",
+      "storage": "256GB"
+    },
+    {
+      "color": "PANTONE Corsair",
+      "ram": "12GB",
+      "storage": "256GB"
+    }
+  ],
+
+  "productDetails": {
+    "brand": "Motorola",
+    "model": "Moto G57 Power 5G",
+    "color": "PANTONE Corsair",
+    "operatingSystem": "Android",
+    "processor": "Qualcomm Snapdragon 6s Gen 4",
+    "cpuSpeed": "2 GHz",
+    "display": {
+      "size": "6.72 inches",
+      "resolution": "FHD+",
+      "refreshRate": "120Hz",
+      "brightness": "Up to 1050 nits"
+    },
+    "memory": {
+      "ram": "8GB",
+      "storage": "128GB"
+    },
+    "camera": {
+      "rear": [
+        "50MP Sony LYT-600 Main Camera",
+        "8MP Ultra-Wide Camera"
+      ],
+      "front": "8MP Selfie Camera"
+    },
+    "battery": {
+      "capacity": "7000mAh",
+      "charging": "33W TurboPower Fast Charging"
+    },
+    "protection": "IP64 Dust & Water Resistant",
+    "network": "5G"
+  },
+
+  "benefits": [
+    "Large 7000mAh battery for extended usage",
+    "Smooth 120Hz display for gaming and scrolling",
+    "Powerful Snapdragon processor for multitasking",
+    "High-quality Sony 50MP camera system",
+    "Fast 33W TurboPower charging",
+    "IP64-rated protection against dust and splashes"
+  ],
+
+  "deliveryInfo": {
+    "delivery": "Amazon Fulfilled",
+    "freeDelivery": true,
+    "cashOnDelivery": true,
+    "replacementPolicy": "10 Days Service Centre Replacement",
+    "warranty": "1 Year Manufacturer Warranty"
+  },
+
+  "offers": {
+    "cashback": "Up to ₹601 Amazon Pay cashback on eligible cards",
+    "emi": "No Cost EMI available",
+    "upiReward": "Earn ₹100 on eligible UPI payments",
+    "partnerOffer": "GST invoice available for business purchases"
+  },
+
+  "tags": [
+    "Motorola",
+    "Moto G57",
+    "G57 Power 5G",
+    "5G Smartphone",
+    "Snapdragon 6s Gen 4",
+    "7000mAh Battery",
+    "120Hz Display",
+    "50MP Camera",
+    "Android Phone",
+    "IP64",
+    "8GB RAM",
+    "128GB Storage"
+  ]
+},
+
+{
+  "id": "ecraftindia-set-3-designer-rakhi-best-bro-fridge-magnet",
+  "name": "eCraftIndia Set of 3 Golden & Red Lord Shiv Damru, Om & Bro Designer Rakhis with Best Bro Ever Fridge Magnet",
+  "brand": "eCraftIndia",
+  "category": "gifts & festive",
+  "subCategory": "rakhi gift sets",
+  "price": 399,
+  "discountPrice": 162,
+  "discountRate": 59,
+  "rating": 4.1,
+  "reviews": 265,
+  "ratingText": "4.1 out of 5 stars",
+  "reviewText": "265 ratings",
+  "badge": "Freedom Sale Deal",
+
+  "shortLink": "https://link.amazon/B0hK9CjWh",
+  "fullLink": "https://www.amazon.in/gp/product/B0D1CDNCRZ?smid=A2AL6IVND0I91F&th=1&linkCode=ll2&tag=valdio-21&linkId=0a344d65f47177038fa60fba19383f67&ref_=as_li_ss_tl",
+  "image": "https://m.media-amazon.com/images/I/81ewfZEsaZL._SL1500_.jpg",
+
+  "description": "Designer Raksha Bandhan gift set featuring three religious-themed Rakhis with Lord Shiv Damru, Om and Bro designs, a 'Best Bro Ever' fridge magnet, and a Roli Chawal pack. A complete festive combo for celebrating Raksha Bandhan with your brother.",
+
+  "features": [
+    "Set of 3 Designer Rakhis",
+    "Lord Shiv Damru Rakhi",
+    "Om Design Rakhi",
+    "Bro Designer Rakhi",
+    "Best Bro Ever Fridge Magnet",
+    "Roli Chawal Pack Included",
+    "Ready-to-Gift Rakhi Combo"
+  ],
+
+  "variants": [
+    {
+      "color": "Multicolor",
+      "price": 162,
+      "mrp": 399,
+      "discountRate": 59
+    },
+    {
+      "color": "D1363P6WMDFHR",
+      "price": 165.46,
+      "mrp": 599,
+      "discountRate": 72
+    },
+    {
+      "color": "D1482P6WMDFHR",
+      "price": 179,
+      "mrp": 499,
+      "discountRate": 64
+    },
+    {
+      "color": "D1811P6WMDFHR",
+      "price": 269,
+      "mrp": 599,
+      "discountRate": 55
+    },
+    {
+      "color": "Multicolor-2",
+      "price": 239,
+      "mrp": 499,
+      "discountRate": 52
+    }
+  ],
+
+  "productDetails": {
+    "brand": "eCraftIndia",
+    "productType": "Designer Rakhi Gift Set",
+    "theme": "Raksha Bandhan",
+    "color": "Multicolor",
+    "numberOfItems": 3,
+    "numberOfPieces": 3,
+    "weight": "200 g",
+    "packageContents": [
+      "1 Lord Shiv Damru Rakhi",
+      "1 Om Designer Rakhi",
+      "1 Bro Designer Rakhi",
+      "1 Best Bro Ever Fridge Magnet",
+      "1 Roli Chawal Pack"
+    ]
+  },
+
+  "benefits": [
+    "Complete Raksha Bandhan gift set",
+    "Religious-themed designer Rakhis",
+    "Reusable Best Bro Ever fridge magnet",
+    "Includes Roli Chawal for traditional rituals",
+    "Perfect gift for brother or bhaiya"
+  ],
+
+  "deliveryInfo": {
+    "delivery": "Amazon Delivered",
+    "freeDelivery": true,
+    "cashOnDelivery": true,
+    "returnPolicy": "10 Days Returnable",
+    "secureTransaction": true
+  },
+
+  "offers": {
+    "cashback": "Up to ₹4 Amazon Pay cashback on eligible cards",
+    "bankOffer": "Eligible bank offers available",
+    "partnerOffer": "Buy any 2 get extra 2% off; Buy any 3 get extra 10% off on qualifying products"
+  },
+
+  "tags": [
+    "eCraftIndia",
+    "Rakhi",
+    "Designer Rakhi",
+    "Lord Shiv Rakhi",
+    "Om Rakhi",
+    "Brother Rakhi",
+    "Best Bro Ever",
+    "Fridge Magnet",
+    "Roli Chawal",
+    "Raksha Bandhan",
+    "Gift Combo",
+    "Set of 3"
+  ]
 }
 
 ]
