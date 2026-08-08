@@ -33048,6 +33048,103 @@
     "Gift Combo",
     "Festive Gift"
   ]
+},
+
+{
+  "id": "craftvatika-bhaiya-bhabhi-rakhi-elephant-showpiece-gift-combo",
+  "name": "CraftVatika Bhaiya Bhabhi Rakhi Set with Metal Elephant Tea Light Showpiece - Kundan Couple Rakhi Gift Combo",
+  "brand": "CraftVatika",
+  "category": "gifts & festive",
+  "subCategory": "rakhi gift hampers",
+  "price": 499,
+  "discountPrice": 249,
+  "discountRate": 50,
+  "rating": 3.9,
+  "reviews": 62,
+  "ratingText": "3.9 out of 5 stars",
+  "reviewText": "62 ratings",
+  "badge": "Top Brand",
+
+  "shortLink": "https://link.amazon/B0cPn40pa",
+  "fullLink": "https://www.amazon.in/gp/product/B0CB8TQ2CM?smid=A2AL6IVND0I91F&psc=1&linkCode=ll2&tag=valdio-21&linkId=f321a9c436f2c48afbb3bb8b1b8c312e&ref_=as_li_ss_tl",
+  "image": "https://m.media-amazon.com/images/I/81ZWPkgTJjL._SL1500_.jpg",
+
+  "description": "Premium Raksha Bandhan gift combo featuring a Kundan Rakhi for Brother, a Red Floral Lumba Rakhi for Bhabhi, a decorative Metal Elephant Tea Light Candle Holder, and a best wishes greeting card. A thoughtful festive gift for Bhaiya and Bhabhi.",
+
+  "features": [
+    "Premium Kundan Rakhi for Brother",
+    "Red Floral Lumba Rakhi for Bhabhi",
+    "Metal Elephant Tea Light Candle Holder",
+    "Best Wishes Greeting Card",
+    "Home Decor Gift",
+    "Ready-to-Gift Raksha Bandhan Combo"
+  ],
+
+  "variants": [
+    {
+      "name": "Gold",
+      "price": 249,
+      "mrp": 499,
+      "discountRate": 50
+    }
+  ],
+
+  "productDetails": {
+    "brand": "CraftVatika",
+    "productType": "Rakhi Gift Combo",
+    "theme": "Raksha Bandhan",
+    "color": "Gold",
+    "material": "Metal",
+    "dimensions": {
+      "length": "11 cm",
+      "width": "10 cm",
+      "height": "8 cm"
+    },
+    "weight": "60 g",
+    "packageContents": [
+      "1 Metal Elephant Tea Light Candle Holder",
+      "1 Kundan Rakhi for Brother",
+      "1 Red Floral Lumba Rakhi for Bhabhi",
+      "1 Best Wishes Greeting Card"
+    ]
+  },
+
+  "benefits": [
+    "Includes reusable elephant home décor showpiece",
+    "Premium Rakhi set for Bhaiya and Bhabhi",
+    "Elegant festive gift with decorative candle holder",
+    "Ready-to-gift packaging",
+    "Suitable for Raksha Bandhan celebrations"
+  ],
+
+  "deliveryInfo": {
+    "delivery": "Amazon Delivered",
+    "freeDelivery": true,
+    "cashOnDelivery": true,
+    "returnPolicy": "10 Days Returnable",
+    "secureTransaction": true
+  },
+
+  "offers": {
+    "cashback": "Up to ₹7 Amazon Pay cashback on eligible cards",
+    "bankOffer": "Eligible bank offers available",
+    "partnerOffer": "Buy any 2 get extra 2% off; Buy any 3 get extra 10% off on qualifying products"
+  },
+
+  "tags": [
+    "CraftVatika",
+    "Rakhi",
+    "Brother Rakhi",
+    "Bhabhi Rakhi",
+    "Lumba Rakhi",
+    "Kundan Rakhi",
+    "Elephant Showpiece",
+    "Tea Light Holder",
+    "Home Decor",
+    "Raksha Bandhan",
+    "Gift Combo",
+    "Greeting Card"
+  ]
 }
 
 ]
