@@ -30728,6 +30728,101 @@
     "Birthday Gift",
     "Kids Toy"
   ]
+},
+
+{
+  "id": "plug-in-uv-mosquito-killer-lamp",
+  "name": "Plug-in Mosquito Killer Lamp with UV Light",
+  "brand": "Generic",
+  "category": "home & kitchen",
+  "subCategory": "pest control",
+  "price": 499,
+  "discountPrice": 204,
+  "discountRate": 59,
+  "rating": 5.0,
+  "reviews": 2,
+  "ratingText": "5.0 out of 5 stars",
+  "reviewText": "2 ratings",
+
+  "badge": "",
+
+  "shortLink": "https://link.amazon/B07x43coF",
+  "fullLink": "https://www.amazon.in/Mosquito-Killer-Lamp-Electric-%E0%A4%87%E0%A4%B2%E0%A5%87%E0%A4%95%E0%A5%8D%E0%A4%9F%E0%A5%8D%E0%A4%B0%E0%A4%BF%E0%A4%95/dp/B0H9YNVDCJ?crid=9TYQ1S37PMYZ&dib=eyJ2IjoiMSJ9.-QyqlLe0HIq6kNqxfzfYxrYUx3o9sCaK9i40clciQkaqw_OL4KgmHNTSjRsMFVHWa_q4ZFIpT5cN3NaUm7TGKv-viD7sFEJcp_6i8ERc3LPzvKQwEiXTGFl3aeQbMvsO25_6gjlCXrPEpGv3uMCL2RQnnJEimTiESRPz5SSBGtagiI2ZdWhH0Af4AcEHLD1LuXRG9BUInTBaCMJosKhWuNmTmqA5RfeMIbIAciSDubac-7YifYTVXHSLoeHvxrFraef7MRQ-oKF0QSgAklaqpm-IuIBNYPRSbzp70Du8C5E.HNprx8Y9zMQXAhXFRWEZOI4MXSi3l_Q5_tjJ3a6IG3g&dib_tag=se&keywords=mosquito+killer+lamp+for+home&qid=1786161668&sbm=true&setroute=search&sprefix=mosquito%2Caps%2C300&sr=8-10&linkCode=ll2&tag=valdio-21&linkId=e2bfbfb77b5018775ae88b34d13fb074&ref_=as_li_ss_tl",
+  "image": "https://m.media-amazon.com/images/I/613JDl4F8aL._SL1385_.jpg",
+
+  "description": "A plug-in UV mosquito killer lamp designed for indoor use. It attracts mosquitoes, flies, gnats, and other flying insects using UV light while also functioning as a soft night light. The device operates silently, uses no chemicals, and plugs directly into a wall socket for convenient pest control.",
+
+  "features": [
+    "Advanced UV light attracts mosquitoes and flying insects",
+    "Direct plug-in wall socket design",
+    "Silent operation for uninterrupted sleep",
+    "Chemical-free and smoke-free insect control",
+    "Built-in soft LED night light",
+    "Low power consumption",
+    "Easy to clean and maintain",
+    "Suitable for bedrooms, kitchens, offices and living rooms"
+  ],
+
+  "variants": [
+    {
+      "colour": "Multicolor",
+      "price": 204,
+      "mrp": 499,
+      "discountRate": 59
+    }
+  ],
+
+  "productDetails": {
+    "brand": "Generic",
+    "productType": "UV Mosquito Killer Lamp",
+    "material": "Plastic",
+    "colour": "Multicolor",
+    "style": "Modern",
+    "powerSource": "Plug-in",
+    "dimensions": "7 × 7 × 7 cm",
+    "itemWeight": "300 g",
+    "netQuantity": "1 Count"
+  },
+
+  "benefits": [
+    "Helps reduce mosquitoes and flying insects indoors",
+    "Safe alternative to chemical sprays",
+    "Quiet operation suitable for bedrooms",
+    "Provides soft ambient night lighting",
+    "Energy-efficient for daily use",
+    "No installation required",
+    "Ideal for homes, offices, hostels and hotels"
+  ],
+
+  "deliveryInfo": {
+    "delivery": "Amazon Delivered",
+    "returnPolicy": "10 Days Returnable",
+    "cashOnDelivery": false,
+    "secureTransaction": true,
+    "warranty": ""
+  },
+
+  "offers": {
+    "cashback": "Up to ₹6 Amazon Pay cashback on eligible cards",
+    "bankOffer": "Eligible HDFC Bank credit card offers available",
+    "partnerOffer": "GST invoice available for business purchases",
+    "upiReward": "Earn ₹20 worth of UPI rewards"
+  },
+
+  "tags": [
+    "Mosquito Killer",
+    "UV Lamp",
+    "Bug Zapper",
+    "Electric Insect Killer",
+    "Mosquito Trap",
+    "Night Light",
+    "Indoor Pest Control",
+    "Chemical Free",
+    "Plug-in Device",
+    "Bedroom",
+    "Living Room",
+    "Home Essentials"
+  ]
 }
 
 ]
