@@ -33696,6 +33696,133 @@
     "Premium Rakhi",
     "Rakhi Set of 2"
   ]
+},
+
+{
+  "id": "4700bc-nutty-tuxedo-chocolate-popcorn-150g",
+  "name": "4700BC Nutty Tuxedo Chocolate Popcorn | Gifting Tin | 150g",
+  "brand": "4700BC",
+  "category": "food",
+  "subCategory": "popcorn gifting",
+  "price": 182,
+  "discountPrice": 182,
+  "discountRate": 27,
+  "mrp": 250,
+  "rating": 4.1,
+  "reviews": 11379,
+  "ratingText": "4.1 out of 5 stars",
+  "badge": "Amazon Delivered",
+
+  "shortLink": "https://link.amazon/B0evwosdb",
+  "fullLink": "https://www.amazon.in/dp/B074DXB9SB?social_share=cm_sw_r_ud_dp_QB0D9R4P01HSCTAV6DKE&th=1&linkCode=ll2&tag=valdio-21&linkId=d54c985b05a0de1f78eeaf8730d8c5fb&ref_=as_li_ss_tl",
+  "image": "https://m.media-amazon.com/images/I/61pdVedpq8L._SL1024_.jpg",
+
+  "description": "Premium gourmet Nutty Tuxedo Chocolate Popcorn from 4700BC, featuring jumbo popcorn coated with three layers of chocolate and generously sprinkled with roasted almonds. Packed in a premium reusable gifting tin, making it suitable for gifting, celebrations and special occasions.",
+
+  "features": [
+    "Nutty Tuxedo Chocolate Flavour",
+    "Three Layers of Chocolate Coating",
+    "Roasted Almonds",
+    "Premium Reusable Gifting Tin",
+    "Jumbo Popcorn",
+    "Non-GMO Corn",
+    "Gluten Free",
+    "Trans-Fat Free",
+    "Cholesterol Free",
+    "No MSG",
+    "Vegan",
+    "Vegetarian Product"
+  ],
+
+  "variants": [
+    {
+      "name": "150 g (Pack of 1)",
+      "price": 182,
+      "mrp": 250,
+      "discountRate": 27
+    },
+    {
+      "name": "150 g (Pack of 2)",
+      "price": 364,
+      "mrp": 500,
+      "discountRate": 27
+    },
+    {
+      "name": "150 g (Pack of 3)",
+      "price": 546,
+      "mrp": 750,
+      "discountRate": 27
+    },
+    {
+      "name": "375 g (Pack of 1)",
+      "price": 450,
+      "mrp": 459,
+      "discountRate": 2
+    }
+  ],
+
+  "productDetails": {
+    "brand": "4700BC",
+    "productType": "Gourmet Chocolate Popcorn",
+    "quantity": "150 Grams",
+    "flavour": "Nutty Tuxedo Chocolate",
+    "packageInformation": "Tin",
+    "packageWeight": "0.25 Kilograms",
+    "numberOfPieces": 1,
+    "netQuantity": "150.0 Grams",
+    "dietType": "Vegan",
+    "speciality": "Non-GMO",
+    "allergenInformation": [
+      "Almonds",
+      "Gluten Free"
+    ],
+    "foodType": "Vegetarian",
+    "countryOfOrigin": "India"
+  },
+
+  "benefits": [
+    "Premium gourmet popcorn suitable for gifting",
+    "Three layers of chocolate provide a rich chocolate flavour",
+    "Roasted almonds add a nutty crunch",
+    "Premium tin can be reused and repurposed",
+    "Suitable for celebrations and special occasions",
+    "Made with Non-GMO corn",
+    "Free from MSG",
+    "Gluten free and trans-fat free"
+  ],
+
+  "deliveryInfo": {
+    "delivery": "Amazon Delivered",
+    "freeDelivery": true,
+    "cashOnDelivery": true,
+    "returnPolicy": "Non-Returnable",
+    "secureTransaction": true
+  },
+
+  "offers": {
+    "cashback": "Up to ₹5 Amazon Pay cashback with eligible Amazon Pay ICICI Bank Credit Cards",
+    "bankOffer": "Up to ₹27.30 discount on select Credit Cards",
+    "partnerOffer": "GST invoice and potential savings up to 18% on business purchases"
+  },
+
+  "tags": [
+    "4700BC",
+    "Popcorn",
+    "Chocolate Popcorn",
+    "Nutty Tuxedo Chocolate",
+    "Gourmet Popcorn",
+    "Gifting Tin",
+    "Chocolate Snack",
+    "Almond Popcorn",
+    "Premium Popcorn",
+    "Gift Pack",
+    "Gourmet Snack",
+    "Vegan",
+    "Non-GMO",
+    "Gluten Free",
+    "Vegetarian",
+    "150g Popcorn"
+  ]
 }
 
 ]
