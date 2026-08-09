@@ -33395,6 +33395,127 @@
     "Gift Combo",
     "Set of 3"
   ]
+},
+
+{
+  "id": "artstreet-customized-folding-table-stand-photo-frame-5x7-brown",
+  "name": "Art Street Customized Folding Table Stand Photo Frame - Personalized Book Style Frame for Two 5x7 Inch Photos",
+  "brand": "Art Street",
+  "category": "home decor",
+  "subCategory": "personalized photo frames",
+  "price": 1000,
+  "discountPrice": 255,
+  "discountRate": 75,
+  "rating": 4.1,
+  "reviews": 47,
+  "ratingText": "4.1 out of 5 stars",
+  "reviewText": "47 ratings",
+  "badge": "Limited Time Deal",
+
+  "shortLink": "https://link.amazon/B01UlurCP",
+  "fullLink": "https://www.amazon.in/dp/B0GHRQN9YP?social_share=cm_sw_r_ud_dp_1E00BGW79D0QRYZTMG7C&customizationToken=PS_Inline_1%23color%3A0yBYv45Y%7Cframe.material%3ANmt2BmRx%7Cmounting_type%3A5n7h07WT&th=1&linkCode=ll2&tag=valdio-21&linkId=e17cb5cc7c07eba420c17342ed046ed6&ref_=as_li_ss_tl",
+  "image": "https://m.media-amazon.com/images/I/71iTFQIDUfL._SX679_.jpg",
+
+  "description": "Personalized folding tabletop photo frame with a book-style design that displays two 5x7 inch photos. Made from premium engineered wood with acrylic plexiglass, metallic hinges, and MDF backing, making it a thoughtful keepsake or gift for special occasions.",
+
+  "features": [
+    "Displays Two 5x7 Inch Photos",
+    "Personalized with Names, Dates & Messages",
+    "Book-Style Foldable Design",
+    "Tabletop Display",
+    "Premium Engineered Wood Frame",
+    "Clear Acrylic Plexiglass Front",
+    "Strong MDF Backboard",
+    "Metallic Hinges",
+    "Ideal for Couples & Family Gifts"
+  ],
+
+  "variants": [
+    {
+      "color": "Brown",
+      "size": "5x7 Inch Customized",
+      "price": 255,
+      "mrp": 1000,
+      "discountRate": 75
+    },
+    {
+      "color": "Beige",
+      "size": "5x7 Inch Customized",
+      "price": 255
+    },
+    {
+      "color": "Black",
+      "size": "5x7 Inch Customized",
+      "price": 255
+    }
+  ],
+
+  "productDetails": {
+    "brand": "Art Street",
+    "productType": "Customized Folding Photo Frame",
+    "shape": "Rectangular",
+    "mountingType": "Tabletop",
+    "dimensions": {
+      "length": "22 cm",
+      "width": "17 cm"
+    },
+    "photoCapacity": "2 Photos",
+    "photoSize": "5x7 Inch (13 x 18 cm)",
+    "material": {
+      "frame": "Engineered Wood",
+      "front": "Acrylic Plexiglass",
+      "back": "MDF",
+      "hinges": "Metal"
+    },
+    "customization": {
+      "images": 16,
+      "textInputs": 12,
+      "frameColors": 5,
+      "mountingTypes": 5,
+      "frameMaterials": 5,
+      "coverMaterials": 5
+    },
+    "packageContents": [
+      "1 Customized Double-Joint Foldable Table Stand Photo Frame"
+    ]
+  },
+
+  "benefits": [
+    "Personalized keepsake with photos and text",
+    "Elegant foldable book-style design",
+    "Durable premium construction",
+    "Perfect for table, desk or shelf display",
+    "Ideal gift for couples, anniversaries, birthdays and Valentine's Day"
+  ],
+
+  "deliveryInfo": {
+    "delivery": "Amazon Delivered",
+    "freeDelivery": true,
+    "cashOnDelivery": false,
+    "returnPolicy": "Non-Returnable",
+    "secureTransaction": true
+  },
+
+  "offers": {
+    "cashback": "Eligible Amazon Pay cashback offers available",
+    "bankOffer": "Eligible HDFC Bank instant discount offers available",
+    "upiReward": "Earn ₹2.5 on eligible UPI payments"
+  },
+
+  "tags": [
+    "Art Street",
+    "Customized Photo Frame",
+    "Personalized Gift",
+    "Book Style Frame",
+    "Folding Photo Frame",
+    "Couple Gift",
+    "Anniversary Gift",
+    "Birthday Gift",
+    "Valentine Gift",
+    "Tabletop Frame",
+    "5x7 Photo Frame",
+    "Home Decor"
+  ]
 }
 
 ]
