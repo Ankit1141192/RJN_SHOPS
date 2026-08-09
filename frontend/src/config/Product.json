@@ -33516,6 +33516,186 @@
     "5x7 Photo Frame",
     "Home Decor"
   ]
+},
+
+{
+  "id": "ferrero-rocher-16-pieces-200g",
+  "name": "Ferrero Rocher, 16 Pieces, 200 gm",
+  "brand": "Ferrero Rocher",
+  "category": "food & beverages",
+  "subCategory": "chocolates",
+  "price": 529,
+  "discountPrice": 474,
+  "discountRate": 10,
+  "rating": 4.4,
+  "reviews": 16623,
+  "ratingText": "4.4 out of 5 stars",
+  "reviewText": "16,623 ratings",
+  "badge": "Amazon Delivered",
+
+  "shortLink": "https://link.amazon/B0fCECmv8",
+  "fullLink": "https://www.amazon.in/gp/product/B00BYQEIL6?smid=A15APWRK6P7LBV&psc=1&linkCode=ll2&tag=valdio-21&linkId=cda57cb1f020928bd72be484a011f470&ref_=as_li_ss_tl",
+  "image": "https://m.media-amazon.com/images/I/617c5JwVjQL._SL1500_.jpg",
+
+  "description": "Ferrero Rocher premium chocolate gift box containing 16 individually wrapped pieces with a combination of hazelnut, creamy filling, crispy wafer and milk chocolate with hazelnut pieces. A popular choice for gifting and celebrations.",
+
+  "features": [
+    "16 Ferrero Rocher Chocolates",
+    "200 g Pack",
+    "Premium Chocolate Gift Box",
+    "Individually Wrapped Pieces",
+    "Hazelnut & Chocolate Combination",
+    "Ideal for Gifting and Celebrations"
+  ],
+
+  "variants": [
+    {
+      "name": "16 Pieces, 200 gm",
+      "price": 474,
+      "mrp": 529,
+      "discountRate": 10
+    }
+  ],
+
+  "productDetails": {
+    "brand": "Ferrero Rocher",
+    "productType": "Chocolate",
+    "quantity": "16 Pieces",
+    "netWeight": "200 g",
+    "flavour": "Hazelnut Chocolate",
+    "packageContents": [
+      "16 Ferrero Rocher Chocolates"
+    ],
+    "useBy": "03 Oct 2026"
+  },
+
+  "benefits": [
+    "Premium chocolate suitable for gifting",
+    "Convenient individually wrapped pieces",
+    "Suitable for celebrations and special occasions",
+    "Elegant gift-box presentation"
+  ],
+
+  "deliveryInfo": {
+    "delivery": "Amazon Delivered",
+    "freeDelivery": true,
+    "cashOnDelivery": true,
+    "returnPolicy": "Non-Returnable",
+    "secureTransaction": true
+  },
+
+  "offers": {
+    "cashback": "Up to ₹14 Amazon Pay cashback on eligible cards",
+    "bankOffer": "Up to ₹71.10 discount on select credit cards",
+    "partnerOffer": "Buy 3 get 5% off on qualifying products"
+  },
+
+  "tags": [
+    "Ferrero Rocher",
+    "Chocolate",
+    "Premium Chocolate",
+    "Hazelnut Chocolate",
+    "Gift Box",
+    "16 Pieces",
+    "200g",
+    "Chocolate Gift",
+    "Celebration Gift",
+    "Ferrero"
+  ]
+},
+
+{
+  "id": "tied-ribbons-rakhi-brother-combo-sweets-kaju-katli",
+  "name": "TIED RIBBONS Rakhi for Brother Combo with Sweets - Set of 2 Premium Rakhi with Kaju Katli Gift Pack Mini Greeting Card and Roli Chawal",
+  "brand": "TIED RIBBONS",
+  "category": "rakhi",
+  "subCategory": "rakhi gift combos",
+  "price": 499,
+  "discountPrice": 499,
+  "discountRate": 67,
+  "mrp": 1499,
+  "rating": 4.1,
+  "reviews": 1389,
+  "ratingText": "4.1 out of 5 stars",
+  "badge": "Amazon Delivered",
+
+  "shortLink": "https://link.amazon/B01dSHOMP",
+  "fullLink": "https://www.amazon.in/gp/product/B08C5GXQHY?smid=A2RGX3NBPKZ0Q6&psc=1&linkCode=ll2&tag=valdio-21&linkId=2f5bf0558eca6a6efd6fcf56a23c301a&ref_=as_li_ss_tl",
+  "image": "https://m.media-amazon.com/images/I/711lhuYbyOL._SL1500_.jpg",
+
+  "description": "Premium Rakhi gift combo for brother featuring a set of 2 premium rakhis, Kaju Katli sweets, a mini greeting card and Roli Chawal. A ready-to-gift Raksha Bandhan combination for celebrating the bond between brother and sister.",
+
+  "features": [
+    "Set of 2 Premium Rakhis",
+    "Kaju Katli Gift Pack",
+    "Mini Greeting Card Included",
+    "Roli Chawal Included",
+    "Ready-to-Gift Raksha Bandhan Combo",
+    "Suitable for Brother"
+  ],
+
+  "variants": [
+    {
+      "name": "Brother Rakhi Combo with Sweets",
+      "price": 499,
+      "mrp": 1499,
+      "discountRate": 67
+    }
+  ],
+
+  "productDetails": {
+    "brand": "TIED RIBBONS",
+    "productType": "Rakhi Gift Combo",
+    "quantity": "Set of 2 Rakhis",
+    "sweets": "Kaju Katli",
+    "packageContents": [
+      "2 Premium Rakhis",
+      "Kaju Katli Gift Pack",
+      "Mini Greeting Card",
+      "Roli Chawal"
+    ],
+    "useBy": "01 Nov 2026",
+    "countryOfOrigin": "India"
+  },
+
+  "benefits": [
+    "Complete Raksha Bandhan gifting solution",
+    "Includes traditional Roli Chawal for the ceremony",
+    "Comes with Kaju Katli sweets",
+    "Includes greeting card for personal wishes",
+    "Suitable for gifting to brothers"
+  ],
+
+  "deliveryInfo": {
+    "delivery": "Amazon Delivered",
+    "freeDelivery": true,
+    "cashOnDelivery": true,
+    "returnPolicy": "Non-Returnable",
+    "secureTransaction": true
+  },
+
+  "offers": {
+    "coupon": "2% off coupon",
+    "cashback": "Up to ₹14 Amazon Pay cashback on eligible cards",
+    "bankOffer": "Up to ₹74.85 discount on select credit cards",
+    "partnerOffer": "Buy 3 or more and get 5% off on qualifying TIED RIBBONS products"
+  },
+
+  "tags": [
+    "TIED RIBBONS",
+    "Rakhi",
+    "Rakhi for Brother",
+    "Rakhi Gift",
+    "Rakhi Combo",
+    "Kaju Katli",
+    "Sweets Gift",
+    "Roli Chawal",
+    "Greeting Card",
+    "Raksha Bandhan",
+    "Brother Gift",
+    "Premium Rakhi",
+    "Rakhi Set of 2"
+  ]
 }
 
 ]
