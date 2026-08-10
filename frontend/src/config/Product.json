@@ -33823,6 +33823,113 @@
     "Vegetarian",
     "150g Popcorn"
   ]
+},
+
+{
+  "id": "betadine-10-wv-povidone-iodine-solution-100ml",
+  "name": "Betadine 10% w/v - Bottle of 100 ml Standardised Microbial Solution",
+  "brand": "BETADINE",
+  "category": "healthcare",
+  "subCategory": "antiseptic solutions",
+  "price": 93.55,
+  "discountPrice": 93.55,
+  "discountRate": 10,
+  "mrp": 103.95,
+  "rating": 4.6,
+  "reviews": 88,
+  "ratingText": "4.6 out of 5 stars",
+  "badge": "Amazon Delivered",
+
+  "shortLink": "https://link.amazon/B0c7IBN0e",
+  "fullLink": "https://www.amazon.in/gp/product/B084BDTWHZ?smid=A2785T0G6STJW6&psc=1&brandId=berry&linkCode=ll2&tag=valdio-21&linkId=ff706f279d07dfda8e3af088e4b6c273&ref_=as_li_ss_tl",
+  "image": "https://m.media-amazon.com/images/I/51F7CcKf4nL._SX679_.jpg",
+
+  "description": "Betadine 10% w/v antiseptic solution containing Povidone-Iodine IP 10% w/v with 1.0% w/v available iodine. It is formulated for antiseptic and degerming purposes and has germicidal action against a broad spectrum of microorganisms.",
+
+  "features": [
+    "Povidone-Iodine IP 10% W/V",
+    "Available Iodine 1.0% W/V",
+    "100 ml Bottle",
+    "Antiseptic Solution",
+    "Rapid Germicidal Action",
+    "Prolonged Germicidal Action",
+    "Broad Spectrum Antimicrobial Activity",
+    "Suitable for Superficial Wounds",
+    "Suitable for Traumatic Injuries",
+    "Suitable for Burns",
+    "Used for Skin Degerming"
+  ],
+
+  "variants": [
+    {
+      "name": "100 Milliliters",
+      "price": 93.55,
+      "mrp": 103.95,
+      "discountRate": 10
+    }
+  ],
+
+  "productDetails": {
+    "brand": "BETADINE",
+    "productType": "Antiseptic Solution",
+    "quantity": "100 Milliliters",
+    "composition": "Povidone-Iodine IP 10% W/V, Available Iodine 1.0% W/V, Purified Water IP q.s.",
+    "activeIngredient": "Povidone-Iodine",
+    "availableIodine": "1.0% W/V",
+    "manufacturer": "Win-Medicare",
+    "storageInstructions": "Store protected from light at a temperature not exceeding 30°C",
+    "countryOfOrigin": "India"
+  },
+
+  "indications": [
+    "Degerming of skin before surgical procedures",
+    "Degerming of skin after surgical procedures",
+    "Antiseptic treatment of superficial wounds",
+    "Antiseptic treatment of traumatic injuries",
+    "Antiseptic treatment of burns",
+    "Vaginal preparation prior to a surgical procedure"
+  ],
+
+  "benefits": [
+    "Provides rapid germicidal action",
+    "Provides prolonged germicidal action",
+    "Effective against a broad spectrum of pathogenic organisms",
+    "Has activity against Gram-positive bacteria",
+    "Has activity against Gram-negative bacteria",
+    "Has activity against fungi",
+    "Has activity against protozoa",
+    "Has activity against viruses"
+  ],
+
+  "deliveryInfo": {
+    "delivery": "Amazon Delivered",
+    "freeDelivery": false,
+    "cashOnDelivery": true,
+    "returnPolicy": "Non-Returnable",
+    "secureTransaction": true
+  },
+
+  "offers": {
+    "cashback": "Up to ₹4 Amazon Pay cashback with eligible Amazon Pay ICICI Bank Credit Cards",
+    "bankOffer": "Up to ₹14.03 discount on select Credit Cards",
+    "businessOffer": "Amazon Business may provide additional savings for eligible business purchases"
+  },
+
+  "tags": [
+    "BETADINE",
+    "Betadine Solution",
+    "Povidone-Iodine",
+    "Antiseptic",
+    "Antiseptic Solution",
+    "10% w/v",
+    "100ml",
+    "Healthcare",
+    "Skin Antiseptic",
+    "Wound Care",
+    "Germicidal Solution",
+    "Povidone Iodine Solution",
+    "Antimicrobial Solution"
+  ]
 }
 
 ]
