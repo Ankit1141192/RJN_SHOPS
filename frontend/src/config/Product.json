@@ -34506,6 +34506,133 @@
     "Kitchen Appliance",
     "Coffee Accessories"
   ]
+},
+
+{
+  "id": "wipro-garnet-9w-led-bulb-warm-white-e27-pack-4",
+  "name": "wipro Garnet 9W LED Bulb for Home & Office | Warm White (2700K) | E27 Base | 220 Degree Light Coverage | 4kV Surge Protection | 400V High Voltage Protection | Energy Efficient | Pack of 4",
+  "brand": "wipro",
+  "category": "lighting",
+  "subCategory": "led bulbs",
+  "price": 219,
+  "discountPrice": 219,
+  "discountRate": 77,
+  "mrp": 960,
+  "rating": 4.1,
+  "reviews": 1918,
+  "ratingText": "4.1 out of 5 stars",
+  "badge": "Amazon's Choice",
+
+  "shortLink": "https://link.amazon/B0grAa2SU",
+  "fullLink": "https://www.amazon.in/gp/product/B01K9V3EZC?th=1&linkCode=ll2&tag=valdio-21&linkId=e8f364a6c31e48e1a7800847719d687c&ref_=as_li_ss_tl",
+  "image": "https://m.media-amazon.com/images/I/61LIxjcf-oL._SL1500_.jpg",
+
+  "description": "Wipro Garnet 9W LED bulbs with warm white 2700K light, E27 screw base and 220-degree light coverage. Designed for homes and offices, these energy-efficient bulbs offer a wide voltage range, 400V high-voltage protection and 4kV surge protection for reliable performance.",
+
+  "features": [
+    "9W LED Bulb",
+    "Warm White 2700K",
+    "E27 Screw Base",
+    "220 Degree Light Coverage",
+    "Wide Voltage Range 150-300VAC",
+    "400V High Voltage Protection",
+    "4kV Surge Protection",
+    "Energy Efficient",
+    "Up to 50% Energy Saving",
+    "LM80 Tested LED",
+    "Long Life",
+    "Suitable for Home and Office",
+    "Pack of 4",
+    "1 Year Warranty"
+  ],
+
+  "variants": [
+    {
+      "name": "Pack of 4 - 9W E27 Warm White",
+      "price": 219,
+      "mrp": 960,
+      "discountRate": 77
+    }
+  ],
+
+  "productDetails": {
+    "brand": "wipro",
+    "productType": "LED Bulb",
+    "lightType": "LED",
+    "wattage": "9 Watts",
+    "lightColour": "Warm White",
+    "colourTemperature": "2700K",
+    "bulbShapeSize": "B17",
+    "bulbBase": "E27",
+    "voltage": "240 Volts",
+    "voltageRange": "150-300VAC",
+    "highVoltageProtection": "Up to 400 VAC",
+    "surgeProtection": "Up to 4 kV",
+    "lightCoverage": "220 Degrees",
+    "netQuantity": "4 Count",
+    "units": 4,
+    "specialFeature": "Corded",
+    "specificUses": [
+      "Bulb Holder",
+      "Indoor"
+    ]
+  },
+
+  "benefits": [
+    "220-degree light coverage provides wider illumination",
+    "Warm white 2700K light creates a comfortable and soothing ambience",
+    "Energy-efficient LED technology can help reduce electricity consumption",
+    "Wide voltage range supports operation during voltage fluctuations",
+    "400V high-voltage protection helps protect the bulb from high voltage",
+    "4kV surge protection provides additional protection from electrical surges",
+    "LM80-tested LED technology is designed for long-lasting performance",
+    "Suitable for living rooms, bedrooms, kitchens and corridors",
+    "Can be used in decorative lampshades, chandeliers and aesthetic E27 holders",
+    "Suitable for shop displays and indoor lighting"
+  ],
+
+  "packageContents": [
+    "4 x Wipro Garnet 9W LED Bulbs"
+  ],
+
+  "deliveryInfo": {
+    "delivery": "Amazon Delivered",
+    "freeDelivery": true,
+    "cashOnDelivery": true,
+    "returnPolicy": "10 Days Replacement",
+    "warranty": "1 Year Warranty",
+    "secureTransaction": true
+  },
+
+  "offers": {
+    "cashback": "Up to ₹6 Amazon Pay cashback with eligible Amazon Pay ICICI Bank Credit Cards",
+    "bankOffer": "Up to ₹1,250 discount on select Credit Cards and SBI Debit Cards",
+    "partnerOffer": "Buy any 2 and get extra 2% off; buy any 3 and get extra 4% off on select products",
+    "upiOffer": "Earn rewards on eligible UPI payments"
+  },
+
+  "tags": [
+    "wipro",
+    "Wipro Garnet",
+    "LED Bulb",
+    "9W LED Bulb",
+    "Warm White Bulb",
+    "2700K",
+    "E27 Bulb",
+    "E27 LED Bulb",
+    "Pack of 4",
+    "Energy Efficient Bulb",
+    "220 Degree Coverage",
+    "Surge Protection",
+    "4kV Surge Protection",
+    "400V Protection",
+    "Home Lighting",
+    "Office Lighting",
+    "Indoor Bulb",
+    "Decorative Lighting",
+    "Long Life LED",
+    "Wipro LED"
+  ]
 }
 
 ]
