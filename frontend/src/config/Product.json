@@ -34633,6 +34633,105 @@
     "Long Life LED",
     "Wipro LED"
   ]
+},
+
+{
+  "id": "tetmosol-medicated-soap-100g",
+  "name": "Tetmosol Medicated Soap - Bar of 100 g Soap | Fights Skin Infections and Itching with Lime-Like Fragrance for Daily Bathing",
+  "brand": "Tetmosol",
+  "category": "personal care",
+  "subCategory": "medicated soaps",
+  "price": 90.90,
+  "discountPrice": 90.90,
+  "discountRate": 14,
+  "mrp": 105.70,
+  "rating": 4.3,
+  "reviews": 139,
+  "ratingText": "4.3 out of 5 stars",
+  "badge": "Amazon Delivered",
+
+  "shortLink": "https://link.amazon/B0aqxPYm1",
+  "fullLink": "https://www.amazon.in/gp/product/B084BFL33J?smid=A2785T0G6STJW6&psc=1&s=prime-wardrobe&isTryState=1&linkCode=ll2&tag=valdio-21&linkId=2917b845c8cd947ccab735955ea411a8&ref_=as_li_ss_tl",
+  "image": "https://m.media-amazon.com/images/I/71wECCfaNWL._SL1500_.jpg",
+
+  "description": "Tetmosol Grade 1 medicated soap containing Monosulfiram, an antifungal agent, formulated for daily bathing and helping protect against skin infections, itching, redness, fungal infections and crusting. The soap features a refreshing citronella oil fragrance.",
+
+  "features": [
+    "Grade 1 Medicated Soap",
+    "100 g Soap Bar",
+    "Contains Monosulfiram",
+    "Antifungal Agent",
+    "Helps Protect Against Skin Infections",
+    "Helps with Itching and Redness",
+    "Helps Against Fungal Infections",
+    "Suitable for Daily Bathing",
+    "Refreshing Citronella Oil Fragrance",
+    "Doctor Recommended for Skin Infections"
+  ],
+
+  "variants": [
+    {
+      "name": "100 g Soap Bar",
+      "price": 90.90,
+      "mrp": 105.70,
+      "discountRate": 14
+    }
+  ],
+
+  "productDetails": {
+    "brand": "Tetmosol",
+    "productType": "Medicated Soap",
+    "quantity": "100 g",
+    "activeIngredient": "Monosulfiram",
+    "ingredientPurpose": "Antifungal Agent",
+    "fragrance": "Citronella Oil",
+    "soapGrade": "Grade 1 Medicated Soap",
+    "recommendedUse": "Daily Bathing",
+    "countryOfOrigin": "India"
+  },
+
+  "benefits": [
+    "Helps protect against skin infections",
+    "Helps with itching and redness",
+    "Helps protect against fungal infections",
+    "Helps with skin crusting",
+    "Suitable for everyday bathing",
+    "Contains Monosulfiram as an antifungal agent",
+    "Provides a refreshing citronella fragrance"
+  ],
+
+  "packageContents": [
+    "1 x Tetmosol Medicated Soap Bar - 100 g"
+  ],
+
+  "deliveryInfo": {
+    "delivery": "Amazon Delivered",
+    "freeDelivery": false,
+    "cashOnDelivery": true,
+    "returnPolicy": "Non-Returnable",
+    "secureTransaction": true
+  },
+
+  "offers": {
+    "cashback": "Up to ₹2 Amazon Pay cashback with eligible Amazon Pay ICICI Bank Credit Cards",
+    "bankOffer": "Up to ₹13.63 discount on select Credit Cards and SBI Debit Cards"
+  },
+
+  "tags": [
+    "Tetmosol",
+    "Medicated Soap",
+    "100g Soap",
+    "Antifungal Soap",
+    "Monosulfiram",
+    "Skin Infection Soap",
+    "Itching Relief Soap",
+    "Fungal Infection Soap",
+    "Grade 1 Medicated Soap",
+    "Citronella Fragrance",
+    "Daily Bathing Soap",
+    "Personal Care",
+    "Medicated Bath Soap"
+  ]
 }
 
 ]
