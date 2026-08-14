@@ -34732,6 +34732,114 @@
     "Personal Care",
     "Medicated Bath Soap"
   ]
+},
+{
+  "id": "woschmann-mitchell-12v-dual-head-car-fan",
+  "name": "Woschmann Mitchell 12V DC Electric Car Fan for Dashboard, Double Head Cooling Electric Fan, 360 Degree Rotatable, 2 Speed Control",
+  "brand": "Woschmann",
+  "category": "car accessories",
+  "subCategory": "car cooling fans",
+  "price": 1899.00,
+  "discountPrice": 449.00,
+  "discountRate": 76,
+  "mrp": 1899.00,
+  "rating": 3.5,
+  "reviews": 2883,
+  "ratingText": "3.5 out of 5 stars",
+  "badge": "#1 Best Seller in Car & Vehicle Cooling Fans",
+
+  "shortLink": "https://link.amazon/B0hRx38Ia",
+  "fullLink": "https://www.amazon.in/dp/B07T84YVT4?social_share=cm_sw_r_cso_wa_mwn_dp_GCDJAQFFEKJC1PV7SQZ7&th=1&linkCode=ll2&tag=valdio-21&linkId=90ee8a83fb5cf7e6a6eaf50289d0237b&ref_=as_li_ss_tl",
+  "image": "https://m.media-amazon.com/images/I/615IJjfvI0L._SL1000_.jpg",
+
+  "description": "Woschmann Mitchell 12V DC electric car fan with a dual-head design, 2-speed control and 360-degree rotation. Designed for cars, SUVs, trucks and other vehicles, it provides directed airflow while consuming low power.",
+
+  "features": [
+    "Dual Head Car Cooling Fan",
+    "12V DC Power Supply",
+    "2 Speed Control",
+    "360-Degree Rotatable",
+    "Adjustable Airflow Direction",
+    "Low Power Consumption",
+    "Compact and Space-Saving Design",
+    "Easy Installation",
+    "Suitable for Cars, SUVs and Trucks",
+    "Durable ABS Plastic Construction"
+  ],
+
+  "variants": [
+    {
+      "name": "Dual Head",
+      "price": 449.00,
+      "mrp": 1899.00,
+      "discountRate": 76
+    }
+  ],
+
+  "productDetails": {
+    "brand": "Woschmann",
+    "model": "Mitchell",
+    "productType": "Electric Car Fan",
+    "colour": "Black",
+    "fanDesign": "Table Fan",
+    "powerSource": "DC Power Supply",
+    "voltage": "12V",
+    "speedControl": "2 Speed",
+    "rotation": "360 Degree",
+    "dimensions": "9.4D x 21.1W x 16H Centimeters",
+    "roomType": "Car",
+    "specialFeature": "Adjustable",
+    "recommendedUses": "Car",
+    "mountingType": "Wall Mount",
+    "countryOfOrigin": "India"
+  },
+
+  "benefits": [
+    "Provides comfortable airflow during hot weather",
+    "Dual heads can cool multiple areas of the vehicle",
+    "360-degree rotation allows flexible airflow direction",
+    "2-speed motor provides adjustable airflow",
+    "Low power consumption",
+    "Compact design saves space inside the vehicle",
+    "Suitable for long drives and daily use",
+    "Compatible with cars, trucks and SUVs"
+  ],
+
+  "packageContents": [
+    "1 x Woschmann Mitchell Dual Head Car Fan"
+  ],
+
+  "deliveryInfo": {
+    "delivery": "Amazon Delivered",
+    "freeDelivery": true,
+    "cashOnDelivery": true,
+    "returnPolicy": "10 Days Returnable",
+    "warranty": "6 Months",
+    "secureTransaction": true
+  },
+
+  "offers": {
+    "coupon": "Apply 2% coupon",
+    "cashback": "Up to ₹13 Amazon Pay cashback with eligible Amazon Pay ICICI Bank Credit Cards",
+    "bankOffer": "Up to ₹1,250 discount on select Credit Cards and SBI Debit Cards",
+    "partnerOffer": "Buy any 2 get extra 2% off; Buy any 3 get extra 4% off"
+  },
+
+  "tags": [
+    "Woschmann",
+    "Car Fan",
+    "12V Car Fan",
+    "Electric Car Fan",
+    "Dashboard Fan",
+    "Dual Head Fan",
+    "Car Cooling Fan",
+    "12V DC Fan",
+    "Portable Car Fan",
+    "360 Degree Rotatable Fan",
+    "2 Speed Car Fan",
+    "Car Accessories",
+    "Vehicle Cooling Fan"
+  ]
 }
 
 ]
