@@ -36300,6 +36300,87 @@
     "Grocery",
     "Beverages"
   ]
+},
+
+{
+  "id": "apple-earpods-with-lightning-connector",
+  "name": "Apple EarPods with Lightning Connector",
+  "brand": "Apple",
+  "category": "electronics",
+  "subCategory": "earphones",
+  "price": 1599,
+  "discountPrice": 1599,
+  "discountRate": 20,
+  "mrp": 2000,
+  "rating": 4.3,
+  "reviews": 12175,
+  "ratingText": "4.3 out of 5 stars",
+  "badge": "Amazon's Choice",
+
+  "shortLink": "https://link.amazon/B01N4kOcr",
+  "fullLink": "https://www.amazon.in/gp/product/B0D7MNX9Y5?smid=AJ6SIZC8YQDZX&psc=1&linkCode=ll2&tag=valdio-21&linkId=4c66167ae6f8b1746413c779b6af84b6&ref_=as_li_ss_tl",
+  "image": "https://m.media-amazon.com/images/I/317eB4+yU6L._SL1024_.jpg",
+
+  "description": "Apple EarPods with Lightning Connector featuring a comfortable ear-shaped design, high-quality audio, and an integrated remote for controlling music, videos, volume, and calls.",
+
+  "features": [
+    "Lightning Connector",
+    "Comfortable EarPods design",
+    "High-quality audio",
+    "Built-in remote control",
+    "Volume control",
+    "Music and video playback control",
+    "Call answer and end controls"
+  ],
+
+  "productDetails": {
+    "brand": "Apple",
+    "colour": "White",
+    "earPlacement": "In Ear",
+    "formFactor": "In Ear",
+    "noiseControl": "Active Noise Cancellation",
+    "connectorType": "Lightning",
+    "productType": "Wired Earphones"
+  },
+
+  "warranty": {
+    "duration": "1 Year",
+    "description": "1 Year Warranty Provided By The Manufacturer From Date Of Purchase"
+  },
+
+  "packageContents": [
+    "1 x Apple EarPods with Lightning Connector"
+  ],
+
+  "deliveryInfo": {
+    "delivery": "Amazon Delivered",
+    "freeDelivery": true,
+    "payOnDelivery": true,
+    "replacement": "10 days Service Centre Replacement",
+    "secureTransaction": true
+  },
+
+  "offers": {
+    "cashback": "Up to ₹47 Amazon Pay cashback with eligible Amazon Pay ICICI Bank Credit Cards",
+    "bankOffer": "Up to ₹2,000 discount on select Credit Cards and SBI Debit Cards",
+    "noCostEmi": true
+  },
+
+  "tags": [
+    "Apple",
+    "EarPods",
+    "Lightning Earphones",
+    "Wired Earphones",
+    "Apple Earphones",
+    "In Ear Earphones",
+    "White Earphones",
+    "Lightning Connector",
+    "Mobile Earphones",
+    "Music",
+    "Calls",
+    "Audio Accessories",
+    "Electronics"
+  ]
 }
 
 ]
