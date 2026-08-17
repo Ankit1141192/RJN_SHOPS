@@ -35847,6 +35847,181 @@
     "Night Light",
     "Decorative Lamp"
   ]
+},
+
+{
+  "id": "syvo-wt-3130-aluminum-tripod",
+  "name": "Syvo WT 3130 Aluminum Tripod (133 cm), Universal Lightweight Tripod with Mobile Phone Holder Mount & Carry Bag for All Smart Phones, GoPro, Cameras",
+  "brand": "SYVO",
+  "category": "electronics",
+  "subCategory": "tripods",
+  "price": 799,
+  "discountPrice": 799,
+  "discountRate": 80,
+  "mrp": 3999,
+  "rating": 4.2,
+  "reviews": 35377,
+  "ratingText": "4.2 out of 5 stars",
+  "badge": "Amazon's Choice",
+
+  "shortLink": "https://link.amazon/B00r5la2L",
+  "fullLink": "https://www.amazon.in/gp/product/B07N42JB4S?smid=AJ6SIZC8YQDZX&th=1&linkCode=ll2&tag=valdio-21&linkId=18d95b60f53511e2486c83430b4f4286&ref_=as_li_ss_tl",
+  "image": "https://m.media-amazon.com/images/I/61H1dMNTSnL._SL1413_.jpg",
+
+  "description": "Lightweight aluminum tripod with a universal smartphone holder, adjustable height, 3-way head, bubble level and carry bag. Suitable for smartphones, cameras, GoPro devices, projectors and other compatible equipment.",
+
+  "features": [
+    "Lightweight and Compact Design",
+    "Aluminium Construction",
+    "Universal Mobile Phone Holder",
+    "Adjustable Phone Adapter",
+    "3-Way Pan Head",
+    "Portrait and Landscape Orientation",
+    "Built-In Bubble Level",
+    "3-Section Lever-Lock Legs",
+    "Adjustable Height",
+    "Carry Bag Included",
+    "Compatible with Smartphones",
+    "Compatible with GoPro",
+    "Compatible with Digital Cameras",
+    "Compatible with Video Cameras",
+    "Suitable for Projectors"
+  ],
+
+  "variants": [
+    {
+      "name": "Syvo 3130",
+      "price": 799,
+      "mrp": 3999,
+      "discountRate": 80
+    },
+    {
+      "name": "Syvo S-11",
+      "price": 999,
+      "mrp": 2999,
+      "discountRate": 67
+    },
+    {
+      "name": "Syvo S-520",
+      "price": 999,
+      "mrp": 1999,
+      "discountRate": 50
+    },
+    {
+      "name": "Syvo SP-500",
+      "price": 899,
+      "mrp": 1999,
+      "discountRate": 55
+    },
+    {
+      "name": "Syvo S-1000",
+      "price": 1749,
+      "mrp": 5999,
+      "discountRate": 71
+    },
+    {
+      "name": "Syvo S-510 PRO",
+      "price": 999,
+      "mrp": 4499,
+      "discountRate": 78
+    },
+    {
+      "name": "Syvo 3180",
+      "price": 999,
+      "mrp": 4499,
+      "discountRate": 78
+    }
+  ],
+
+  "productDetails": {
+    "brand": "SYVO",
+    "model": "WT 3130",
+    "setName": "Syvo 3130",
+    "material": "Aluminium",
+    "colour": "Colour May Vary",
+    "compatibleDevices": [
+      "Smartphone",
+      "GoPro",
+      "Digital Camera",
+      "Video Camera",
+      "Projector"
+    ],
+    "maximumHeight": "133 cm",
+    "minimumHeight": "16 inches",
+    "heightPositions": [
+      "22 inches",
+      "30 inches",
+      "40 inches",
+      "50 inches"
+    ],
+    "phoneHolderMaximumWidth": "3.4 inches",
+    "headType": "3-Way Head",
+    "legType": "3-Section Lever-Lock Legs",
+    "levelIndicator": "Built-In Bubble Level",
+    "specialFeature": "Lightweight"
+  },
+
+  "benefits": [
+    "Easy to carry and suitable for travel",
+    "Universal phone holder fits smartphones up to 3.4 inches wide",
+    "Padded phone grip helps protect the phone from damage",
+    "3-way head allows tilt and swivel adjustments",
+    "Supports both portrait and landscape shooting",
+    "Bubble level helps with accurate framing",
+    "Three-section legs allow flexible height adjustment",
+    "Useful for uneven terrain and custom camera setups",
+    "Suitable for photography and video recording",
+    "Carry bag makes transportation convenient"
+  ],
+
+  "packageContents": [
+    "1 x SYVO WT 3130 Tripod",
+    "1 x Universal Mobile Phone Holder",
+    "1 x Carrying Bag"
+  ],
+
+  "deliveryInfo": {
+    "delivery": "Amazon Delivered",
+    "freeDelivery": true,
+    "cashOnDelivery": true,
+    "replacement": "10 Days Service Centre Replacement",
+    "warranty": "1 Month Warranty",
+    "secureTransaction": true
+  },
+
+  "offers": {
+    "cashback": "Up to ₹23 Amazon Pay cashback with eligible Amazon Pay ICICI Bank Credit Cards",
+    "bankOffer": "Up to ₹2,000 discount on select Credit Cards and SBI Debit Cards",
+    "gstOffer": "GST invoice available for eligible business purchases",
+    "upiOffer": "Rewards available on eligible UPI payments"
+  },
+
+  "tags": [
+    "SYVO",
+    "Syvo WT 3130",
+    "Syvo 3130",
+    "Tripod",
+    "Camera Tripod",
+    "Mobile Tripod",
+    "Phone Tripod",
+    "Aluminium Tripod",
+    "Lightweight Tripod",
+    "Mobile Holder Tripod",
+    "Smartphone Tripod",
+    "GoPro Tripod",
+    "Camera Stand",
+    "Phone Stand",
+    "Adjustable Tripod",
+    "133cm Tripod",
+    "Video Recording Tripod",
+    "Photography Tripod",
+    "Content Creator Equipment",
+    "YouTube Equipment",
+    "Vlogging Tripod",
+    "Reels Tripod",
+    "Shorts Tripod",
+    "Unboxing Video Equipment"
+  ]
 }
 
 ]
