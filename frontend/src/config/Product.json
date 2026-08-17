@@ -36196,6 +36196,110 @@
     "Waterproof Wallpaper",
     "Vinyl Wallpaper"
   ]
+},
+
+{
+  "id": "society-tea-society-leaf-tea-250g-jar",
+  "name": "Society Tea Society Leaf Tea 250g Jar",
+  "brand": "Society Tea",
+  "category": "grocery",
+  "subCategory": "tea",
+  "price": 163,
+  "discountPrice": 163,
+  "discountRate": 1,
+  "mrp": 165,
+  "rating": 4.4,
+  "reviews": 8270,
+  "ratingText": "4.4 out of 5 stars",
+  "badge": "Amazon's Choice",
+
+  "shortLink": "https://link.amazon/B05VPuH92",
+  "fullLink": "https://www.amazon.in/gp/product/B017ICN8KQ?smid=ARENK22K2PQRH&th=1&linkCode=ll2&tag=valdio-21&linkId=9a4e9cf34ef824f63aafcbb0e2e3e484&ref_=as_li_ss_tl",
+  "image": "https://m.media-amazon.com/images/I/51N2Hln+UCL._SL1100_.jpg",
+
+  "description": "Society Leaf Tea in a convenient 250g jar, suitable for preparing everyday tea at home or in the office.",
+
+  "features": [
+    "Society Leaf Tea",
+    "250g Jar",
+    "Convenient Jar Packaging",
+    "Suitable for Everyday Tea",
+    "Ideal for Home and Office Use"
+  ],
+
+  "variants": [
+    {
+      "name": "250 g (Pack of 1)",
+      "price": 163,
+      "mrp": 165,
+      "discountRate": 1
+    },
+    {
+      "name": "500 g (Pack of 1)",
+      "price": 310,
+      "mrp": 320,
+      "discountRate": 3
+    },
+    {
+      "name": "1 kg (Pack of 1)",
+      "price": 550,
+      "mrp": 570,
+      "discountRate": 4
+    }
+  ],
+
+  "productDetails": {
+    "brand": "Society Tea",
+    "productType": "Leaf Tea",
+    "netQuantity": "250 g",
+    "packType": "Jar",
+    "packCount": 1,
+    "category": "Tea",
+    "shelfLifeDate": "02 NOV 2026"
+  },
+
+  "benefits": [
+    "Convenient for regular tea preparation",
+    "Easy-to-store jar packaging",
+    "Suitable for everyday household use",
+    "Useful for home and office tea preparation"
+  ],
+
+  "packageContents": [
+    "1 x Society Tea Society Leaf Tea 250g Jar"
+  ],
+
+  "deliveryInfo": {
+    "delivery": "Amazon Delivered",
+    "freeDelivery": true,
+    "cashOnDelivery": true,
+    "returnPolicy": "Non-Returnable",
+    "secureTransaction": true
+  },
+
+  "offers": {
+    "cashback": "Up to ₹4 Amazon Pay cashback with eligible Amazon Pay ICICI Bank Credit Cards",
+    "bulkOffer": "Buy 3 units and get an additional 5% off",
+    "upiOffer": "Rewards available on eligible UPI payments"
+  },
+
+  "tags": [
+    "Society Tea",
+    "Society Leaf Tea",
+    "Tea",
+    "Leaf Tea",
+    "Black Tea",
+    "250g Tea",
+    "Tea Jar",
+    "Tea Powder",
+    "Indian Tea",
+    "Everyday Tea",
+    "Breakfast Tea",
+    "Home Tea",
+    "Office Tea",
+    "Grocery",
+    "Beverages"
+  ]
 }
 
 ]
