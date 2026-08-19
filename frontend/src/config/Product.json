@@ -36486,6 +36486,94 @@
     "Mobile Photography",
     "Black Mobile Holder"
   ]
+},
+
+{
+  "id": "volini-pain-relief-gel-100g",
+  "name": "Volini Pain Relief Gel 100g - Deep Penetrating Formula for Muscle Pain & Joint Pain",
+  "brand": "Volini",
+  "category": "health",
+  "subCategory": "pain relief",
+  "price": 286.18,
+  "discountPrice": 286.18,
+  "discountRate": 18,
+  "mrp": 349,
+  "rating": 4.6,
+  "reviews": 104,
+  "ratingText": "4.6 out of 5 stars",
+
+  "shortLink": "https://link.amazon/B030MmpUv",
+  "fullLink": "https://www.amazon.in/Volini-Tube-100g-Pain-Relief/dp/B09H579DQM?brandId=berry&crid=1V6TRK4ZTU68P&dib=eyJ2IjoiMSJ9.wKjrMSaaprHjxy1sVtjiDQ_RZyTjZTr7inRRxOrosvrzhTVseBcKWhZtD6PLPJUFzCaZD5X4xHEPd5ZQGkvtMQCKYuD78XzascrDzYrAx_oOjFWpf_h311frBzddljLTTs8NY1-OFUIu6d8wCF2NRJGgf-IsqlIRKn9z4sV7pd00qfCQPwQl8gGWsp0WUotg0d5JX-mM7StgrdclxzI6NeesldV23mhPnlFCaqC_atF9cAT8Muuvo53QIE6FDG19PkePQHIoipqk44PFXqW7suoPLjXKvRrHXwhXBgo8cIk.Wgoc4bxhsSM1AI_pcxA8xVzpBvK9yYNpDld-QPkOyUE&dib_tag=se&keywords=volini&qid=1787152602&sprefix=volini+%2Caps%2C443&sr=8-8&linkCode=ll2&tag=valdio-21&linkId=f4793b564bad917007f29741bc60026c&ref_=as_li_ss_tl",
+  "image": "https://m.media-amazon.com/images/I/61Z3TC37yCL._SL1500_.jpg",
+
+  "description": "Volini Pain Relief Gel with a deep-penetrating formula designed to provide relief from muscle, joint, knee, back, neck and shoulder pain, including pain associated with sprains, strains and muscle pulls.",
+
+  "features": [
+    "Deep penetrating formula",
+    "Helps relieve muscle pain",
+    "Helps relieve joint pain",
+    "Useful for knee, back, neck and shoulder pain",
+    "Helps with muscle pulls, sprains and strains",
+    "Microparticles designed for deeper penetration",
+    "Provides quick and long-lasting pain relief"
+  ],
+
+  "productDetails": {
+    "brand": "Volini",
+    "productType": "Pain Relief Gel",
+    "netQuantity": "100 g",
+    "activeIngredientMentioned": "Diclofenac Diethylamine",
+    "form": "Gel",
+    "usageAreas": [
+      "Joint",
+      "Knee",
+      "Back",
+      "Neck",
+      "Shoulder",
+      "Calf",
+      "Muscles"
+    ]
+  },
+
+  "uses": [
+    "Muscle pain",
+    "Joint pain",
+    "Knee pain",
+    "Back pain",
+    "Neck pain",
+    "Shoulder pain",
+    "Muscle pulls",
+    "Sprains",
+    "Strains",
+    "Sports injuries",
+    "Soft tissue discomfort"
+  ],
+
+  "deliveryInfo": {
+    "delivery": "Amazon Delivered",
+    "payOnDelivery": true,
+    "nonReturnable": true
+  },
+
+  "offers": {
+    "cashback": "Up to ₹8 Amazon Pay cashback with eligible Amazon Pay ICICI Bank Credit Cards",
+    "bankOffer": "Up to ₹42.93 discount on select Credit Cards and SBI Debit Cards"
+  },
+
+  "tags": [
+    "Volini",
+    "Pain Relief Gel",
+    "Muscle Pain Relief",
+    "Joint Pain Relief",
+    "Knee Pain Relief",
+    "Back Pain Relief",
+    "Neck Pain Relief",
+    "Shoulder Pain Relief",
+    "Sports Injury Relief",
+    "Diclofenac Gel",
+    "100g Pain Relief Gel",
+    "Health Care"
+  ]
 }
 
 ]
