@@ -36381,6 +36381,111 @@
     "Audio Accessories",
     "Electronics"
   ]
+},
+
+{
+  "id": "techonto-360-degree-cell-phone-holder",
+  "name": "TECHONTO 360° Degree Cell Phone Holder with Adjustable Clamp Phone Tripod Mount Adapter",
+  "brand": "TECHONTO",
+  "category": "electronics",
+  "subCategory": "mobile accessories",
+  "price": 195,
+  "discountPrice": 195,
+  "discountRate": 67,
+  "mrp": 599,
+  "rating": 4.2,
+  "reviews": 7860,
+  "ratingText": "4.2 out of 5 stars",
+  "badge": "Amazon's Choice",
+
+  "shortLink": "https://link.amazon/B07QOfxqO",
+  "fullLink": "https://www.amazon.in/gp/product/B08W1KX225?smid=AJ6SIZC8YQDZX&th=1&linkCode=ll2&tag=valdio-21&linkId=7e04d1e79243cbcf87bf65c1bbdebc3f&ref_=as_li_ss_tl",
+  "image": "https://m.media-amazon.com/images/I/61ny+rqFQYL._SL1500_.jpg",
+
+  "description": "TECHONTO 360° rotating smartphone holder with an adjustable clamp and standard 1/4-inch screw mount. Designed for tripods, ring lights, monopods, selfie sticks and camera stands, making it suitable for vlogging, YouTube videos, Instagram Reels, live streaming and photography.",
+
+  "features": [
+    "360° rotation",
+    "Adjustable smartphone clamp",
+    "Standard 1/4-inch screw mount",
+    "Compatible with tripods and ring lights",
+    "Anti-slip rubber grip pads",
+    "Lightweight and portable",
+    "Supports horizontal and vertical shooting",
+    "Suitable for vlogging and content creation"
+  ],
+
+  "productDetails": {
+    "brand": "TECHONTO",
+    "colour": "Black",
+    "compatibleDevices": "Smartphones",
+    "compatiblePhoneModels": "All Mobile Phones",
+    "mountingType": "Tripod",
+    "material": "ABS",
+    "rotation": "360°",
+    "screwMount": "1/4 inch",
+    "phoneClampRange": "2.2–3.7 inches"
+  },
+
+  "compatibility": {
+    "devices": [
+      "iPhone",
+      "Samsung Galaxy",
+      "OnePlus",
+      "Xiaomi",
+      "Realme",
+      "Vivo",
+      "Oppo"
+    ],
+    "accessories": [
+      "Tripods",
+      "Ring Lights",
+      "Monopods",
+      "Selfie Sticks",
+      "Camera Stands"
+    ]
+  },
+
+  "recommendedFor": [
+    "YouTube Videos",
+    "Instagram Reels",
+    "Vlogging",
+    "Live Streaming",
+    "Photography",
+    "Mobile Video Recording",
+    "Content Creation"
+  ],
+
+  "deliveryInfo": {
+    "delivery": "Amazon Delivered",
+    "freeDelivery": true,
+    "payOnDelivery": true,
+    "replacement": "10 days Replacement",
+    "secureTransaction": true
+  },
+
+  "offers": {
+    "cashback": "Up to ₹5 Amazon Pay cashback with eligible Amazon Pay ICICI Bank Credit Cards",
+    "bankOffer": "Up to ₹1,250 discount on select Credit Cards and SBI Debit Cards",
+    "gstInvoice": true
+  },
+
+  "tags": [
+    "TECHONTO",
+    "Mobile Holder",
+    "Phone Tripod Mount",
+    "Tripod Phone Holder",
+    "360 Degree Phone Holder",
+    "Adjustable Mobile Holder",
+    "Smartphone Mount",
+    "Vlogging Accessories",
+    "YouTube Accessories",
+    "Reels Accessories",
+    "Content Creator Accessories",
+    "Ring Light Holder",
+    "Mobile Photography",
+    "Black Mobile Holder"
+  ]
 }
 
 ]
