@@ -36867,6 +36867,108 @@
     "Home Decor",
     "Furniture Makeover"
   ]
+},
+
+{
+  "id": "wolpin-floral-damask-self-adhesive-wallpaper-gold",
+  "name": "Wolpin Floral Damask Self Adhesive Wallpaper 45 x 1000 CM Gold",
+  "brand": "wolpin",
+  "category": "home decor",
+  "subCategory": "wallpaper & wall stickers",
+  "price": 449,
+  "discountPrice": 449,
+  "discountRate": 85,
+  "mrp": 2999,
+  "rating": 4.1,
+  "reviews": 25527,
+  "ratingText": "4.1 out of 5 stars",
+
+  "shortLink": "https://link.amazon/B0dZwAShz",
+  "fullLink": "https://www.amazon.in/dp/B099PN6H32?th=1&linkCode=ll2&tag=valdio-21&linkId=7ecc53b54d1d8f45a9709d4b62062fd3&ref_=as_li_ss_tl",
+  "image": "https://m.media-amazon.com/images/I/81VGQESWuPL._SL1500_.jpg",
+
+  "description": "Gold floral damask self-adhesive wallpaper designed for decorative wall makeovers and DIY interior projects. The peel-and-stick PVC vinyl sheet can be trimmed to size and used on living room walls, halls, sofa backgrounds, dining areas, decorative corners and selected furniture surfaces.",
+
+  "features": [
+    "Elegant gold floral damask pattern",
+    "Self-adhesive peel-and-stick backing",
+    "No additional glue required",
+    "Easy DIY installation",
+    "Cuttable and customizable",
+    "Suitable for wall makeovers and accent areas",
+    "Smooth surface that can be gently wiped clean",
+    "Suitable for temporary or long-term decorative use",
+    "Can be removed or repositioned with minimal residue when applied properly"
+  ],
+
+  "productDetails": {
+    "material": "Paper, Polyvinyl Chloride (PVC)",
+    "colour": "Gold",
+    "brand": "wolpin",
+    "style": "Kids",
+    "itemWeight": "590 g",
+    "selectedSize": "45 x 1000 cm",
+    "availableSizes": [
+      "45 x 500 cm",
+      "45 x 1000 cm"
+    ],
+    "pattern": "Floral Damask",
+    "finish": "Smooth"
+  },
+
+  "recommendedUses": [
+    "Living Room Wall",
+    "Hall",
+    "Sofa Background",
+    "Dining Wall",
+    "Decorative Corners",
+    "Accent Walls",
+    "Furniture Bases",
+    "Countertops",
+    "Accent Strips",
+    "DIY Home Decor"
+  ],
+
+  "application": {
+    "type": "Peel and Stick",
+    "adhesiveRequired": false,
+    "customizable": true,
+    "cleaning": "Gently wipe with a dry cloth",
+    "installation": "Align and apply the adhesive sheet to the desired surface"
+  },
+
+  "deliveryInfo": {
+    "delivery": "Amazon Delivered",
+    "freeDelivery": true,
+    "payOnDelivery": true,
+    "returnPolicy": "Non-Returnable"
+  },
+
+  "offers": {
+    "cashback": "Up to ₹13 Amazon Pay cashback with eligible Amazon Pay ICICI Bank Credit Cards",
+    "bankOffer": "Up to ₹2,000 discount on select Credit Cards and SBI Debit Cards",
+    "partnerOffer": "GST invoice available for eligible business purchases"
+  },
+
+  "tags": [
+    "wolpin",
+    "Floral Wallpaper",
+    "Damask Wallpaper",
+    "Gold Wallpaper",
+    "Self Adhesive Wallpaper",
+    "Peel and Stick Wallpaper",
+    "Wall Sticker",
+    "PVC Wallpaper",
+    "Vinyl Wallpaper",
+    "Living Room Decor",
+    "Hall Decor",
+    "Sofa Background",
+    "Accent Wall",
+    "Home Interior",
+    "DIY Home Decor",
+    "Wall Makeover",
+    "Furniture Decor"
+  ]
 }
 
 ]
