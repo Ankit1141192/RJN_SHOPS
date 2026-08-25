@@ -37822,6 +37822,193 @@
     "Furniture Decoration",
     "Interior Decoration"
   ]
+},
+
+{
+  "id": "g1-garbage-dust-bin-bags-19x21-30-pieces-pack-4",
+  "name": "G1 Garbage Dust Bin Bags, 19x21 Inches, 30 Pieces, Black, Set of 4",
+  "brand": "G 1",
+  "category": "household",
+  "subCategory": "garbage bags",
+  "price": 217,
+  "discountPrice": 217,
+  "discountRate": 57,
+  "mrp": 500,
+  "rating": 4.2,
+  "reviews": 24183,
+
+  "shortLink": "https://link.amazon/B00haIi8G",
+  "fullLink": "https://www.amazon.in/gp/product/B077RJ1YMW?smid=A2AL6IVND0I91F&th=1&linkCode=ll2&tag=valdio-21&linkId=1c810630f4e19806c1b92b513b65f002&ref_=as_li_ss_tl",
+  "image": "https://m.media-amazon.com/images/I/81XRbzaUlTL._SL1500_.jpg",
+
+  "description": "G1 black disposable garbage bags measuring 19 x 21 inches, designed for standard dustbins and suitable for household as well as commercial waste disposal. The bags are made from semi-virgin plastic and are designed to provide convenient and durable waste containment.",
+
+  "features": [
+    "Medium 19 x 21 inch garbage bags",
+    "Black colour",
+    "30 bags per pack",
+    "Selected variant contains 4 packs",
+    "Total 120 bags in the selected pack",
+    "15 litre capacity",
+    "Strong construction for household and commercial waste",
+    "Designed to help prevent tearing and leakage",
+    "Disposable and recyclable material feature",
+    "Unscented",
+    "Suitable for standard dustbins"
+  ],
+
+  "productDetails": {
+    "brand": "G 1",
+    "colour": "Black",
+    "material": "Semi Virgin Plastic",
+    "materialFeature": [
+      "Black Color",
+      "Disposable",
+      "Recyclable"
+    ],
+    "itemForm": "Bag",
+    "scent": "Unscented",
+    "capacity": "15 litres",
+    "bagDimensions": "19 x 21 inches",
+    "bagsPerPack": 30,
+    "packCount": 4,
+    "totalQuantity": 120,
+    "netQuantity": "120 Count"
+  },
+
+  "recommendedUses": [
+    "Home",
+    "Kitchen",
+    "Commercial Use",
+    "Hospitals",
+    "Hotels",
+    "Malls",
+    "Parks",
+    "Waste Collection"
+  ],
+
+  "usageInstructions": [
+    "Open the garbage bag",
+    "Place the bag inside the dustbin",
+    "Pull the edges over the rim of the bin",
+    "Secure the bag with a knot when disposing of waste"
+  ],
+
+  "availableVariants": [
+    {
+      "size": "30 Count (Pack of 2)",
+      "price": 139,
+      "mrp": 250,
+      "discountRate": 44,
+      "totalQuantity": 60
+    },
+    {
+      "size": "30 Count (Pack of 4)",
+      "price": 217,
+      "mrp": 500,
+      "discountRate": 57,
+      "totalQuantity": 120
+    },
+    {
+      "size": "30 Count (Pack of 5)",
+      "price": 260,
+      "mrp": 625,
+      "discountRate": 58,
+      "totalQuantity": 150
+    },
+    {
+      "size": "30 Count (Pack of 6)",
+      "price": 299,
+      "mrp": 750,
+      "discountRate": 60,
+      "totalQuantity": 180
+    },
+    {
+      "size": "30 Count (Pack of 8)",
+      "price": 341,
+      "mrp": 1000,
+      "discountRate": 66,
+      "totalQuantity": 240
+    },
+    {
+      "size": "30 Count (Pack of 10)",
+      "price": 499,
+      "mrp": 1250,
+      "discountRate": 60,
+      "totalQuantity": 300
+    },
+    {
+      "size": "30 Count (Pack of 20)",
+      "price": 1000,
+      "mrp": 2500,
+      "discountRate": 60,
+      "totalQuantity": 600
+    },
+    {
+      "size": "90 Count (Pack of 1)",
+      "price": 175,
+      "mrp": 450,
+      "discountRate": 61,
+      "totalQuantity": 90
+    },
+    {
+      "size": "20 Count (Pack of 1)",
+      "price": 185,
+      "mrp": 250,
+      "discountRate": 26,
+      "totalQuantity": 20
+    },
+    {
+      "size": "10 Count (Pack of 1)",
+      "price": 185,
+      "mrp": 200,
+      "discountRate": 8,
+      "totalQuantity": 10
+    },
+    {
+      "size": "14 Count (Pack of 5)",
+      "price": 352,
+      "mrp": 625,
+      "discountRate": 44,
+      "totalQuantity": 70
+    }
+  ],
+
+  "offers": {
+    "deal": "Limited time deal",
+    "cashback": "Up to ₹6 Amazon Pay cashback, subject to offer terms",
+    "bankOffer": "Up to ₹1,250 discount on select eligible cards",
+    "partnerOffer": "Buy any 2 get extra 2% off; buy any 3 get extra 4% off on eligible products"
+  },
+
+  "deliveryInfo": {
+    "fulfilled": true,
+    "freeDelivery": true,
+    "payOnDelivery": true,
+    "returnPolicy": "Non-Returnable",
+    "amazonDelivered": true,
+    "secureTransaction": true
+  },
+
+  "tags": [
+    "G1 Garbage Bags",
+    "Dustbin Bags",
+    "Garbage Bags",
+    "Black Garbage Bags",
+    "19x21 Inch Garbage Bags",
+    "15 Litre Garbage Bags",
+    "Disposable Garbage Bags",
+    "Recyclable Garbage Bags",
+    "Kitchen Garbage Bags",
+    "Home Waste Bags",
+    "Commercial Garbage Bags",
+    "Hospital Waste Bags",
+    "Hotel Garbage Bags",
+    "Waste Collection Bags",
+    "Bin Liners",
+    "30 Piece Garbage Bags",
+    "Pack of 4 Garbage Bags"
+  ]
 }
 
 ]
