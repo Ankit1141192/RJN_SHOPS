@@ -37686,6 +37686,142 @@
     "DIY Home Decor",
     "Home Renovation"
   ]
+},
+
+{
+  "id": "d-fix-golden-strips-wall-moulding-20mm-50m",
+  "name": "D-fix Golden Strips for Wall, 20MM x 50 Meters, Self Adhesive Wall Moulding Sealing Strip",
+  "brand": "D-fix",
+  "category": "home decor",
+  "subCategory": "wall moulding and decorative strips",
+  "price": 280,
+  "discountPrice": 280,
+  "discountRate": 44,
+  "mrp": 499,
+  "rating": 1.5,
+  "reviews": 2,
+
+  "shortLink": "https://link.amazon/B04bDDAFe",
+  "fullLink": "https://www.amazon.in/gp/product/B0GWVCNTYL?smid=A14DRNCVM84SUL&th=1&linkCode=ll2&tag=valdio-21&linkId=691ea39344b783c87d371d0f3ff16a80&ref_=as_li_ss_tl",
+  "image": "https://m.media-amazon.com/images/I/41nVhumGxGL._SX522_.jpg",
+
+  "description": "D-fix Golden Strips are self-adhesive decorative wall moulding strips with a glossy golden metallic finish. The waterproof and moisture-resistant strips can be applied to smooth surfaces such as tiles, ceramics, wood, glass and metal for decorative borders, skirting lines, waistlines and other DIY decoration projects.",
+
+  "features": [
+    "Golden metallic decorative finish",
+    "Self-adhesive peel-and-stick design",
+    "Waterproof and moisture resistant",
+    "Wear-resistant surface",
+    "Glossy mirror-like finish",
+    "Easy DIY installation",
+    "Can be removed without leaving heavy residue",
+    "Suitable for smooth and flat surfaces",
+    "Useful for decorative borders and moulding",
+    "Suitable for wall and general decoration"
+  ],
+
+  "productDetails": {
+    "brand": "D-fix",
+    "colour": "GOLDEN",
+    "material": "Copper, Polyvinyl Chloride",
+    "width": "20 mm",
+    "length": "50 meters",
+    "numberOfItems": 1,
+    "productType": "Self Adhesive Decorative Strip",
+    "finish": "Glossy Metallic",
+    "adhesiveType": "Self Adhesive"
+  },
+
+  "recommendedSurfaces": [
+    "Smooth Walls",
+    "Old Tiles",
+    "Ceramics",
+    "Wood",
+    "Glass",
+    "Metal"
+  ],
+
+  "recommendedUses": [
+    "Wall Decoration",
+    "Floor Decoration",
+    "Glass Decoration",
+    "Skirting Line Decoration",
+    "Waistline Decoration",
+    "Bedroom Decoration",
+    "Kitchen Decoration",
+    "Living Room Decoration",
+    "Office Decoration",
+    "Party Decoration",
+    "Wedding Decoration",
+    "Christmas Decoration",
+    "Halloween Decoration"
+  ],
+
+  "surfaceFeatures": [
+    "Waterproof",
+    "Moisture Resistant",
+    "Wear Resistant",
+    "Fade Resistant",
+    "Glossy Finish",
+    "Self Adhesive"
+  ],
+
+  "availableVariants": [
+    {
+      "size": "1 Roll, 20MM x 50 Meter",
+      "price": 280,
+      "mrp": 499,
+      "discountRate": 44,
+      "quantity": 1
+    },
+    {
+      "size": "2 Rolls, 20MM x 50 Meter",
+      "price": 409,
+      "mrp": 599,
+      "discountRate": 32,
+      "quantity": 2,
+      "pricePerRoll": 204.5
+    }
+  ],
+
+  "importantNotes": [
+    "Best suited for smooth, flat and clean surfaces",
+    "Not suitable for bathroom floors",
+    "Product description contains inconsistent length information; the selected variant specifies 20MM x 50 Meter"
+  ],
+
+  "offers": {
+    "coupon": "2% off coupon applied",
+    "cashback": "Up to ₹8 Amazon Pay cashback, subject to offer terms",
+    "bankOffer": "Up to ₹1,250 discount on select eligible cards",
+    "partnerOffer": "Additional quantity-based discounts may apply"
+  },
+
+  "deliveryInfo": {
+    "freeDelivery": true,
+    "amazonDelivered": true,
+    "returnPolicy": "Non-Returnable",
+    "secureTransaction": true
+  },
+
+  "tags": [
+    "D-fix",
+    "Golden Strip",
+    "Golden Tape",
+    "Wall Moulding",
+    "Decorative Strip",
+    "Self Adhesive Strip",
+    "Golden Wall Tape",
+    "Wall Decoration",
+    "Tile Border",
+    "Skirting Decoration",
+    "Waistline Decoration",
+    "Metallic Gold Tape",
+    "Waterproof Wall Strip",
+    "DIY Home Decor",
+    "Furniture Decoration",
+    "Interior Decoration"
+  ]
 }
 
 ]
